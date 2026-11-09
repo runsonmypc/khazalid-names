@@ -1,0 +1,134 @@
+{
+  "api_squad_draws": 200,
+  "categories": {
+    "artifact": {
+      "candidates": 1002,
+      "distinct": 0,
+      "examples": [],
+      "native_draws": 0
+    },
+    "bridge": {
+      "candidates": 54,
+      "distinct": 54,
+      "examples": [
+        "Wutrothbar",
+        "Skarrenrufzhuf",
+        "Bryndok"
+      ],
+      "native_draws": 300
+    },
+    "business": {
+      "candidates": 87,
+      "distinct": 84,
+      "examples": [
+        "Skarrenrufgrungron",
+        "Agrilkron",
+        "Izorkron"
+      ],
+      "native_draws": 300
+    },
+    "civilization": {
+      "candidates": 64,
+      "distinct": 64,
+      "examples": [
+        "Kolgrongankor",
+        "Zharrungrungronankor",
+        "Galazklinkaankor"
+      ],
+      "native_draws": 300
+    },
+    "government": {
+      "candidates": 65,
+      "distinct": 65,
+      "examples": [
+        "Skarrenrufbar",
+        "Durazkron",
+        "Durazbar"
+      ],
+      "native_draws": 300
+    },
+    "guildhall": {
+      "candidates": 89,
+      "distinct": 84,
+      "examples": [
+        "Zankron",
+        "Kolirkul",
+        "Wutrothkron"
+      ],
+      "native_draws": 300
+    },
+    "hospital": {
+      "candidates": 58,
+      "distinct": 58,
+      "examples": [
+        "Brynzon",
+        "Kolruf",
+        "Zanbar"
+      ],
+      "native_draws": 300
+    },
+    "library": {
+      "candidates": 75,
+      "distinct": 75,
+      "examples": [
+        "Zanagrul",
+        "Brynklinka",
+        "Kronunagrul"
+      ],
+      "native_draws": 300
+    },
+    "road": {
+      "candidates": 70,
+      "distinct": 68,
+      "examples": [
+        "Brynmingol",
+        "Barunhirn",
+        "Gorlzorn"
+      ],
+      "native_draws": 300
+    },
+    "squad": {
+      "candidates": 94,
+      "distinct": 87,
+      "examples": [
+        "Durazkhrum",
+        "Galazdrakk",
+        "Grongunkhrum"
+      ],
+      "native_draws": 300
+    },
+    "tavern": {
+      "candidates": 95,
+      "distinct": 93,
+      "examples": [
+        "Brynkhrum",
+        "Azuldrakk",
+        "Azuldrakk"
+      ],
+      "native_draws": 300
+    },
+    "tunnel": {
+      "candidates": 57,
+      "distinct": 56,
+      "examples": [
+        "Grintungrund",
+        "Kolgrint",
+        "Mhornarunduraz"
+      ],
+      "native_draws": 300
+    },
+    "wall": {
+      "candidates": 59,
+      "distinct": 59,
+      "examples": [
+        "Lhuneundok",
+        "Bryndok",
+        "Durazbar"
+      ],
+      "native_draws": 300
+    }
+  },
+  "global_leaks": 0,
+  "result": "PASS",
+  "scope_restoration": true
+}

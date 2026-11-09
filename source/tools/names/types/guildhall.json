@@ -1,0 +1,1628 @@
+{
+  "category": "guildhall",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "emblem colour; selected colour sense, not black stone"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "emblem colour; selected colour sense, not blood"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "emblem colour; selected colour sense, not gold material"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "emblem appearance; selected shiny/brilliant sense"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "emblem colour; selected colour sense, not physical sky"
+    },
+    "makaz": {
+      "gloss": "tool",
+      "source": "DPG:46",
+      "role": "general craft emblem; selected tool sense, not weapon"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "craft-tool emblem; does not specify the guild profession"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "craft-tool emblem; does not specify a smithing guild"
+    },
+    "kron": {
+      "gloss": "record",
+      "source": "DPG:46",
+      "role": "record emblem; does not create a historical record or a runescribe guild"
+    },
+    "agrul": {
+      "gloss": "stone carving",
+      "source": "DPG:44",
+      "role": "carving emblem; selected stone-carving sense, not the face of an old Dwarf"
+    },
+    "angaz": {
+      "gloss": "ironwork",
+      "source": "DPG:44",
+      "role": "worked-metal emblem; does not specify a profession or an actual material"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "craft-tool emblem; does not certify smithing skill"
+    },
+    "grungron": {
+      "gloss": "forge",
+      "source": "DPG:45",
+      "role": "forge emblem; does not supply an actual forge or a smithing guild"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "architectural emblem; does not assert an actual gate or fortification"
+    },
+    "irkul": {
+      "gloss": "pillared vault hewn in rock",
+      "source": "DPG:46",
+      "role": "architectural emblem; does not assert the guildhall layout or stonework"
+    },
+    "ruf": {
+      "gloss": "large underground dome",
+      "source": "DPG:46",
+      "role": "architectural emblem; source permits either a natural or constructed dome; no physical dome or underground location is assigned"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "material of the emblem; selected metal sense, not reliability or a sturdy Dwarf"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "material of the emblem; the full specific wood sense is retained without assigning the hall an age or a timber supply"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "material of the emblem; does not specify the guildhall construction"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "material of a symbolic record; does not create wealth, a sacred text or an actual gold object"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "mizpal": {
+      "gloss": "volcanic glass",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "goruz": {
+      "gloss": "horn",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "zunthrum": {
+      "gloss": "statues",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "muzkhgrum": {
+      "gloss": "blast furnace slag",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "izril": {
+      "gloss": "jewels",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "ori": {
+      "gloss": "work",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "tiwaz": {
+      "gloss": "rest",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "grungnaz": {
+      "gloss": "making or smithying",
+      "source": "DPG:45",
+      "role": "emblem"
+    },
+    "brog": {
+      "gloss": "bread",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "hirn": {
+      "gloss": "horn (instrument)",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "kuchungkuchung": {
+      "gloss": "water pump",
+      "source": "DSS:103",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "makaz"
+      ],
+      "gloss": "black tool",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinka"
+      ],
+      "gloss": "black chisel",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "grong"
+      ],
+      "gloss": "black anvil",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "kron"
+      ],
+      "gloss": "black record",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "makaz"
+      ],
+      "gloss": "red tool",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinka"
+      ],
+      "gloss": "red chisel",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "grong"
+      ],
+      "gloss": "red anvil",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "kron"
+      ],
+      "gloss": "red record",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "makaz"
+      ],
+      "gloss": "yellow tool",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinka"
+      ],
+      "gloss": "yellow chisel",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grong"
+      ],
+      "gloss": "yellow anvil",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "kron"
+      ],
+      "gloss": "yellow record",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "makaz"
+      ],
+      "gloss": "shining tool",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinka"
+      ],
+      "gloss": "shining chisel",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grong"
+      ],
+      "gloss": "shining anvil",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "kron"
+      ],
+      "gloss": "shining record",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "makaz"
+      ],
+      "gloss": "bright blue tool",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinka"
+      ],
+      "gloss": "bright blue chisel",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grong"
+      ],
+      "gloss": "bright blue anvil",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "kron"
+      ],
+      "gloss": "bright blue record",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft or record emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "agrul"
+      ],
+      "gloss": "black stone carving",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "angaz"
+      ],
+      "gloss": "black ironwork",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "grungron"
+      ],
+      "gloss": "black forge",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "kol",
+        "irkul"
+      ],
+      "gloss": "black pillared vault hewn in rock",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "kol",
+        "ruf"
+      ],
+      "gloss": "black large underground dome",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "zan",
+        "agrul"
+      ],
+      "gloss": "red stone carving",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "angaz"
+      ],
+      "gloss": "red ironwork",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "grund"
+      ],
+      "gloss": "red hammer",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "grungron"
+      ],
+      "gloss": "red forge",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "zan",
+        "irkul"
+      ],
+      "gloss": "red pillared vault hewn in rock",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "zan",
+        "ruf"
+      ],
+      "gloss": "red large underground dome",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "gorl",
+        "agrul"
+      ],
+      "gloss": "yellow stone carving",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "angaz"
+      ],
+      "gloss": "yellow ironwork",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grund"
+      ],
+      "gloss": "yellow hammer",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grungron"
+      ],
+      "gloss": "yellow forge",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "gorl",
+        "irkul"
+      ],
+      "gloss": "yellow pillared vault hewn in rock",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "gorl",
+        "ruf"
+      ],
+      "gloss": "yellow large underground dome",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "bryn",
+        "agrul"
+      ],
+      "gloss": "shining stone carving",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "angaz"
+      ],
+      "gloss": "shining ironwork",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grund"
+      ],
+      "gloss": "shining hammer",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grungron"
+      ],
+      "gloss": "shining forge",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "bryn",
+        "irkul"
+      ],
+      "gloss": "shining pillared vault hewn in rock",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "bryn",
+        "ruf"
+      ],
+      "gloss": "shining large underground dome",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "agrul"
+      ],
+      "gloss": "bright blue stone carving",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "angaz"
+      ],
+      "gloss": "bright blue ironwork",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grund"
+      ],
+      "gloss": "bright blue hammer",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grungron"
+      ],
+      "gloss": "bright blue forge",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "irkul"
+      ],
+      "gloss": "bright blue pillared vault hewn in rock",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "ruf"
+      ],
+      "gloss": "bright blue large underground dome",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "azul",
+        "grong"
+      ],
+      "gloss": "metal anvil",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinka"
+      ],
+      "gloss": "metal chisel",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "azul",
+        "makaz"
+      ],
+      "gloss": "metal tool",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "azul",
+        "grund"
+      ],
+      "gloss": "metal hammer",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar"
+      ],
+      "gloss": "metal fortified gate",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "azul",
+        "kron"
+      ],
+      "gloss": "metal record",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. Khazalid inscriptions on hard materials and beaten-metal books ground the record image; no actual text, contents, sacred status or material supply is assigned."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "kron"
+      ],
+      "gloss": "wood from ancient mountain oak record",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. Khazalid inscriptions on hard materials and beaten-metal books ground the record image; no actual text, contents, sacred status or material supply is assigned."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "bar"
+      ],
+      "gloss": "wood from ancient mountain oak fortified gate",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar"
+      ],
+      "gloss": "stone fortified gate",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "WFB8:PDF41",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. The architectural image does not assert the room layout, location, construction material or defensive capability."
+    },
+    {
+      "parts": [
+        "galaz",
+        "kron"
+      ],
+      "gloss": "ornamental gold record",
+      "sources": [
+        "DPG:141",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a symbolic craft, record or architectural emblem for an actual guildhall. It does not determine the guild profession, certify mastery or recognition, furnish an object, identify a clan, or invent ownership, a shrine or history. Khazalid inscriptions on hard materials and beaten-metal books ground the record image; no actual text, contents, sacred status or material supply is assigned."
+    },
+    {
+      "parts": [
+        "grund",
+        "un",
+        "grong"
+      ],
+      "gloss": "hammer and anvil",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grund un grong]"
+    },
+    {
+      "parts": [
+        "klinka",
+        "un",
+        "agrul"
+      ],
+      "gloss": "chisel and stone carving",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[klinka un agrul]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "klinka"
+      ],
+      "gloss": "record and chisel",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un klinka]"
+    },
+    {
+      "parts": [
+        "makaz",
+        "un",
+        "kron"
+      ],
+      "gloss": "tool and record",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[makaz un kron]"
+    },
+    {
+      "parts": [
+        "angaz",
+        "un",
+        "kron"
+      ],
+      "gloss": "ironwork and record",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[angaz un kron]"
+    },
+    {
+      "parts": [
+        "izor",
+        "un",
+        "grund"
+      ],
+      "gloss": "copper and hammer",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:45",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[izor un grund]"
+    },
+    {
+      "parts": [
+        "agril",
+        "un",
+        "klinka"
+      ],
+      "gloss": "silver and chisel",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[agril un klinka]"
+    },
+    {
+      "parts": [
+        "mizpal",
+        "un",
+        "makaz"
+      ],
+      "gloss": "volcanic glass and tool",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[mizpal un makaz]"
+    },
+    {
+      "parts": [
+        "wutroth",
+        "un",
+        "makaz"
+      ],
+      "gloss": "ancient mountain oak wood and tool",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wutroth un makaz]"
+    },
+    {
+      "parts": [
+        "goruz",
+        "un",
+        "makaz"
+      ],
+      "gloss": "horn and tool",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[goruz un makaz]"
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "un",
+        "klinka"
+      ],
+      "gloss": "statues and chisel",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zunthrum un klinka]"
+    },
+    {
+      "parts": [
+        "muzkhgrum",
+        "un",
+        "grungron"
+      ],
+      "gloss": "blast furnace slag and forge",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:45",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[muzkhgrum un grungron]"
+    },
+    {
+      "parts": [
+        "izril",
+        "un",
+        "makaz"
+      ],
+      "gloss": "jewels and tool",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[izril un makaz]"
+    },
+    {
+      "parts": [
+        "izril",
+        "un",
+        "kron"
+      ],
+      "gloss": "jewels and record",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[izril un kron]"
+    },
+    {
+      "parts": [
+        "ori",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "work and rest",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[ori un tiwaz]"
+    },
+    {
+      "parts": [
+        "ori",
+        "un",
+        "kron"
+      ],
+      "gloss": "work and record",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[ori un kron]"
+    },
+    {
+      "parts": [
+        "ori",
+        "un",
+        "makaz"
+      ],
+      "gloss": "work and tool",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[ori un makaz]"
+    },
+    {
+      "parts": [
+        "grungnaz",
+        "un",
+        "kron"
+      ],
+      "gloss": "making or smithying and record",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grungnaz un kron]"
+    },
+    {
+      "parts": [
+        "brog",
+        "un",
+        "makaz"
+      ],
+      "gloss": "bread and tool",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[brog un makaz]"
+    },
+    {
+      "parts": [
+        "hirn",
+        "un",
+        "makaz"
+      ],
+      "gloss": "musical horn and tool",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[hirn un makaz]"
+    },
+    {
+      "parts": [
+        "goruz",
+        "un",
+        "klinka"
+      ],
+      "gloss": "horn and chisel",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[goruz un klinka]"
+    },
+    {
+      "parts": [
+        "agril",
+        "kron"
+      ],
+      "gloss": "silver record",
+      "sources": [
+        "DSS:101",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izor",
+        "kron"
+      ],
+      "gloss": "copper record",
+      "sources": [
+        "DSS:103",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "azul",
+        "kuchungkuchung"
+      ],
+      "gloss": "metal water pump",
+      "sources": [
+        "DPG:44",
+        "DSS:103",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "kuchungkuchung"
+      ],
+      "gloss": "water pump of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DSS:103",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A craft sign combining tools, media, work or records; it does not assign a profession, a guild monopoly, products, equipment, membership or institutional history. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:27",
+      "section": "Skill / Craft Guilds",
+      "quote": "multiple clans of a Dwarf realm engage in the same craft",
+      "claim": "Craft associations provide the cultural context for craft emblems. The generated label neither creates a guild nor determines its profession, membership, regulation or recognition."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "The selected senses are explicit. New concatenated symbolic labels are adaptations, not attested complete names or a complete guildhall naming grammar. The same section identifies the Runescribe craftguild, grounding the record motif without assigning that profession."
+    },
+    {
+      "source": "DPG:141",
+      "section": "Morgrim / Holy Sites",
+      "quote": "Engineer Guildhall",
+      "claim": "A guildhall is explicitly attested as a Dwarf institution. Its associated shrine is particular to that source, and is not assigned to generated DF guildhalls."
+    },
+    {
+      "source": "WFB8:PDF30",
+      "section": "Dwarf Society / Guilds",
+      "quote": "All guilds follow the path of apprentice, journeyman and master",
+      "claim": "Craft institutions are also attested in 8th Edition. No generated label grants one of these ranks or the source guilds' authority; 4e remains the primary source for the craft-guild context."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "hard materials (wood, metal, and stone)",
+      "claim": "Inscribed hard materials and the adjacent description of beaten-metal books support material-record emblems. These labels create no actual record, historical content or sacred text; ornamental gold and the specific oak wood are selected glossary senses."
+    },
+    {
+      "source": "WFB8:PDF41",
+      "section": "Dwarf Warriors",
+      "quote": "an exactly constructed stone pillar",
+      "claim": "The account of peacetime craft supports architectural imagery alongside tools and worked materials. It does not prescribe guildhall names or establish the generated hall's construction, dimensions, quality or physical features."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:102",
+      "section": "p.102, Khazalid glossary",
+      "quote": "Hirn Horn (instrument)",
+      "claim": "The glossary distinguishes a musical horn from horn material, and attests road and thunder. Selected nouns remain literal word senses inside adapted labels."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Kolgrund",
+    "Zangorog",
+    "Gorlaz",
+    "Kolaz",
+    "Kolaz Umgol",
+    "Zandok",
+    "Durazgrund"
+  ]
+}

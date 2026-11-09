@@ -1,0 +1,119 @@
+{
+  "categories": {
+    "artifact": {
+      "accepted": true,
+      "crafted_flag_independent": true,
+      "fixture": "Initialized native weapon with temporary artifact linkage; original maker, flags and description restored",
+      "item_description": "Karazdok, Mountain eye (Pick)",
+      "linked_record": true,
+      "name": "Karazdok",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "rejected": {
+        "foreign_maker": true,
+        "garbage_collect": true,
+        "missing_artifact_flag": true,
+        "missing_artifact_ref": true,
+        "missing_item": true,
+        "non_dwarf_maker": true,
+        "unknown_maker": true,
+        "written_title_provider_model": true,
+        "wrong_artifact_ref": true
+      },
+      "stale_rejected": true
+    },
+    "bridge": {
+      "accepted": true,
+      "name": "Koldok",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "business": {
+      "accepted": true,
+      "name": "Kolklinka",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "civilization": {
+      "accepted": true,
+      "name": "Kolgrongankor",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "government": {
+      "accepted": true,
+      "name": "Karakbar",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "guildhall": {
+      "accepted": true,
+      "name": "Kolmakaz",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "hospital": {
+      "accepted": true,
+      "name": "Koldok",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "library": {
+      "accepted": true,
+      "name": "Kolkron",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "road": {
+      "accepted": true,
+      "name": "Kolkaraz",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "squad": {
+      "accepted": true,
+      "name": "Kolgrong",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "tavern": {
+      "accepted": true,
+      "name": "Kolgrong",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "tunnel": {
+      "accepted": true,
+      "name": "Kolduraz",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    },
+    "wall": {
+      "accepted": true,
+      "name": "Kolbar",
+      "native_type_preserved": true,
+      "preview_cancel": true,
+      "stale_rejected": true
+    }
+  },
+  "coverage": "Native object fixtures; temporary targets removed, real polity names restored",
+  "name_guards": {
+    "historical_figure_unnamed_rejected": true,
+    "soul_unnamed_rejected": true,
+    "unit_unnamed_rejected": true,
+    "visible_historical_figure_collision_provider_model": true,
+    "visible_unit_collision_provider_model": true
+  },
+  "result": "PASS"
+}

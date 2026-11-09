@@ -1,0 +1,1711 @@
+{
+  "category": "business",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "sign colour/appearance; selected nonmaterial sense"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "sign colour/appearance; selected nonmaterial sense"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "sign colour/appearance; selected nonmaterial sense"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "sign colour/appearance; selected nonmaterial sense"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "sign colour/appearance; selected nonmaterial sense"
+    },
+    "makaz": {
+      "gloss": "tool",
+      "source": "DPG:46",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "kron": {
+      "gloss": "record",
+      "source": "DPG:46",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "symbolic sign material or image; not stock, actual premises or a profession"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "symbolic sign material or image; not stock, actual premises or a profession"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "symbolic sign material or image; not stock, actual premises or a profession"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "symbolic sign material or image; not stock, actual premises or a profession"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "symbolic sign material or image; not stock, actual premises or a profession"
+    },
+    "grungron": {
+      "gloss": "forge",
+      "source": "DPG:45",
+      "role": "symbolic sign material or image; not stock, actual premises or a profession"
+    },
+    "agrul": {
+      "gloss": "stone carving",
+      "source": "DPG:44",
+      "role": "symbolic sign image; selected object sense, not an aged face"
+    },
+    "urbar": {
+      "gloss": "trade",
+      "source": "DPG:47",
+      "role": "commercial activity concept; not a commodity or trade route"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "angaz": {
+      "gloss": "ironwork",
+      "source": "DPG:44",
+      "role": "worked-metal emblem; does not specify a profession or an actual material"
+    },
+    "ori": {
+      "gloss": "work",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "tiwaz": {
+      "gloss": "rest",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "zaraz": {
+      "gloss": "gift",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "izril": {
+      "gloss": "jewels",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "brog": {
+      "gloss": "bread",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "mizpal": {
+      "gloss": "volcanic glass",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "wulthrung": {
+      "gloss": "money",
+      "source": "DSS:105",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "makaz"
+      ],
+      "gloss": "black tool",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinka"
+      ],
+      "gloss": "black chisel",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "grong"
+      ],
+      "gloss": "black anvil",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "kron"
+      ],
+      "gloss": "black record",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "makaz"
+      ],
+      "gloss": "red tool",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinka"
+      ],
+      "gloss": "red chisel",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "grong"
+      ],
+      "gloss": "red anvil",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "grund"
+      ],
+      "gloss": "red hammer",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "kron"
+      ],
+      "gloss": "red record",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "makaz"
+      ],
+      "gloss": "yellow tool",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinka"
+      ],
+      "gloss": "yellow chisel",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grong"
+      ],
+      "gloss": "yellow anvil",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grund"
+      ],
+      "gloss": "yellow hammer",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "kron"
+      ],
+      "gloss": "yellow record",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "makaz"
+      ],
+      "gloss": "shining tool",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinka"
+      ],
+      "gloss": "shining chisel",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grong"
+      ],
+      "gloss": "shining anvil",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grund"
+      ],
+      "gloss": "shining hammer",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "kron"
+      ],
+      "gloss": "shining record",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "makaz"
+      ],
+      "gloss": "bright blue tool",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinka"
+      ],
+      "gloss": "bright blue chisel",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grong"
+      ],
+      "gloss": "bright blue anvil",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grund"
+      ],
+      "gloss": "bright blue hammer",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "kron"
+      ],
+      "gloss": "bright blue record",
+      "sources": [
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:46",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A symbolic craft/trade sign only; no owner, commodity specialization, actual equipment, guild recognition, monopoly, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "makaz"
+      ],
+      "gloss": "stone tool",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "klinka"
+      ],
+      "gloss": "stone chisel",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grong"
+      ],
+      "gloss": "stone anvil",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "kron"
+      ],
+      "gloss": "stone record",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "makaz"
+      ],
+      "gloss": "metal tool",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinka"
+      ],
+      "gloss": "metal chisel",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "grong"
+      ],
+      "gloss": "metal anvil",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "grund"
+      ],
+      "gloss": "metal hammer",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "kron"
+      ],
+      "gloss": "metal record",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "makaz"
+      ],
+      "gloss": "ornamental gold tool",
+      "sources": [
+        "DPG:45",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klinka"
+      ],
+      "gloss": "ornamental gold chisel",
+      "sources": [
+        "DPG:45",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grong"
+      ],
+      "gloss": "ornamental gold anvil",
+      "sources": [
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grund"
+      ],
+      "gloss": "ornamental gold hammer",
+      "sources": [
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "kron"
+      ],
+      "gloss": "ornamental gold record",
+      "sources": [
+        "DPG:45",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "makaz"
+      ],
+      "gloss": "tool of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "grund"
+      ],
+      "gloss": "hammer of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "kron"
+      ],
+      "gloss": "record of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A material-themed sign image only; no stock, profession, actual equipment, wealth, proprietor, guild standing, ancestry or history is implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "grungron"
+      ],
+      "gloss": "black forge",
+      "sources": [
+        "DPG:46",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "grungron"
+      ],
+      "gloss": "red forge",
+      "sources": [
+        "DPG:47",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "DPG:45",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grungron"
+      ],
+      "gloss": "yellow forge",
+      "sources": [
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grungron"
+      ],
+      "gloss": "shining forge",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grungron"
+      ],
+      "gloss": "bright blue forge",
+      "sources": [
+        "DPG:46",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar"
+      ],
+      "gloss": "stone fortified gate",
+      "sources": [
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grungron"
+      ],
+      "gloss": "stone forge",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar"
+      ],
+      "gloss": "metal fortified gate",
+      "sources": [
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "grungron"
+      ],
+      "gloss": "metal forge",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "bar"
+      ],
+      "gloss": "ornamental gold fortified gate",
+      "sources": [
+        "DPG:45",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grungron"
+      ],
+      "gloss": "ornamental gold forge",
+      "sources": [
+        "DPG:45",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "bar"
+      ],
+      "gloss": "fortified gate of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. An architectural or craft sign image only; no ownership, actual premises, forge operation, guild standing, commodity specialisation, trade route or history is implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "agrul"
+      ],
+      "gloss": "black stone carving",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A stone-carving sign image only; no trade specialisation, actual stock, aged proprietor, ancestry, achievements or history is implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "agrul"
+      ],
+      "gloss": "red stone carving",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A stone-carving sign image only; no trade specialisation, actual stock, aged proprietor, ancestry, achievements or history is implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "agrul"
+      ],
+      "gloss": "yellow stone carving",
+      "sources": [
+        "DPG:45",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A stone-carving sign image only; no trade specialisation, actual stock, aged proprietor, ancestry, achievements or history is implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "agrul"
+      ],
+      "gloss": "shining stone carving",
+      "sources": [
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A stone-carving sign image only; no trade specialisation, actual stock, aged proprietor, ancestry, achievements or history is implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "agrul"
+      ],
+      "gloss": "bright blue stone carving",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. A stone-carving sign image only; no trade specialisation, actual stock, aged proprietor, ancestry, achievements or history is implied."
+    },
+    {
+      "parts": [
+        "urbar",
+        "kron"
+      ],
+      "gloss": "trade record",
+      "sources": [
+        "DPG:47",
+        "DPG:46",
+        "DPG:19",
+        "DPG:27",
+        "DPG:43",
+        "DPG:55"
+      ],
+      "note": "New compound from attested words, not a canonical business or an official naming formula. Trade plus record is a commercial-record emblem; no particular transaction, account book, trade route, customer, proprietor, privilege or history is invented."
+    },
+    {
+      "parts": [
+        "urbar",
+        "un",
+        "kron"
+      ],
+      "gloss": "trade and record",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[urbar un kron]"
+    },
+    {
+      "parts": [
+        "urbar",
+        "un",
+        "makaz"
+      ],
+      "gloss": "trade and tool",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[urbar un makaz]"
+    },
+    {
+      "parts": [
+        "urbar",
+        "un",
+        "angaz"
+      ],
+      "gloss": "trade and ironwork",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:44",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[urbar un angaz]"
+    },
+    {
+      "parts": [
+        "ori",
+        "un",
+        "kron"
+      ],
+      "gloss": "work and record",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[ori un kron]"
+    },
+    {
+      "parts": [
+        "ori",
+        "un",
+        "makaz"
+      ],
+      "gloss": "work and tool",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[ori un makaz]"
+    },
+    {
+      "parts": [
+        "ori",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "work and rest",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[ori un tiwaz]"
+    },
+    {
+      "parts": [
+        "zaraz",
+        "un",
+        "kron"
+      ],
+      "gloss": "gift and record",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zaraz un kron]"
+    },
+    {
+      "parts": [
+        "zaraz",
+        "un",
+        "izril"
+      ],
+      "gloss": "gift and jewels",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DSS:103",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zaraz un izril]"
+    },
+    {
+      "parts": [
+        "zaraz",
+        "un",
+        "agril"
+      ],
+      "gloss": "gift and silver",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DSS:101",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zaraz un agril]"
+    },
+    {
+      "parts": [
+        "zaraz",
+        "un",
+        "brog"
+      ],
+      "gloss": "gift and bread",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DSS:101",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zaraz un brog]"
+    },
+    {
+      "parts": [
+        "izor",
+        "un",
+        "makaz"
+      ],
+      "gloss": "copper and tool",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[izor un makaz]"
+    },
+    {
+      "parts": [
+        "agril",
+        "un",
+        "makaz"
+      ],
+      "gloss": "silver and tool",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[agril un makaz]"
+    },
+    {
+      "parts": [
+        "mizpal",
+        "un",
+        "makaz"
+      ],
+      "gloss": "volcanic glass and tool",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[mizpal un makaz]"
+    },
+    {
+      "parts": [
+        "wutroth",
+        "un",
+        "makaz"
+      ],
+      "gloss": "ancient mountain oak wood and tool",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wutroth un makaz]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "klinka"
+      ],
+      "gloss": "record and chisel",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un klinka]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "angaz"
+      ],
+      "gloss": "record and ironwork",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un angaz]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "agrul"
+      ],
+      "gloss": "record and stone carving",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un agrul]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "bar"
+      ],
+      "gloss": "record and fortified gate",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un bar]"
+    },
+    {
+      "parts": [
+        "wulthrung",
+        "un",
+        "kron"
+      ],
+      "gloss": "money and record",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wulthrung un kron]"
+    },
+    {
+      "parts": [
+        "wulthrung",
+        "un",
+        "makaz"
+      ],
+      "gloss": "money and tool",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wulthrung un makaz]"
+    },
+    {
+      "parts": [
+        "wulthrung",
+        "un",
+        "urbar"
+      ],
+      "gloss": "money and trade",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:47",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wulthrung un urbar]"
+    },
+    {
+      "parts": [
+        "agril",
+        "kron"
+      ],
+      "gloss": "silver record",
+      "sources": [
+        "DSS:101",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izor",
+        "kron"
+      ],
+      "gloss": "copper record",
+      "sources": [
+        "DSS:103",
+        "DPG:46",
+        "DPG:27",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A commercial sign using work, exchange, gifts or records as images; it does not certify stock, craft profession, owner, wealth, guild membership or a trade route. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:19",
+      "section": "The Dwarf Kingdoms / Old Dwarf Road trade-house description",
+      "quote": "Karaz Ankor Inn and Trade House",
+      "claim": "A named Dwarf trading establishment is attested. Its proprietor, hereditary rights, warehouse and name must not be copied to generated businesses."
+    },
+    {
+      "source": "DPG:27",
+      "section": "Craft Guilds",
+      "quote": "Craft guilds also do not regulate prices or output.",
+      "claim": "Dwarf craft associations exist, but the generated label cannot invent a guild monopoly, recognition or privileges."
+    },
+    {
+      "source": "DPG:55",
+      "section": "Common Folk",
+      "quote": "Every craftsguild depends on Merchant kin to sell their wares",
+      "claim": "Dwarf trade, shopworkers and crafts are explicit. Craft and record emblems are Forthammer symbolic compositions, not proof of a company trade or clientele."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Use only the recorded component sense; a new compound is not a certified canonical grammatical translation."
+    },
+    {
+      "source": "WFB8:PDF30",
+      "section": "Dwarf Society / Guilds",
+      "quote": "All guilds follow the path of apprentice, journeyman and master",
+      "claim": "Guild hierarchy is corroborated. No generated business label awards a rank or supplies a genealogy."
+    },
+    {
+      "source": "DPG:44",
+      "section": "p.44, Khazalid Glossary",
+      "quote": "Agrul Stone carving; lines in face of very old Dwarf",
+      "claim": "Select stone carving as a sign image, not age or an ancestral face. The same page attests Duraz as stone or slab, Azul as metal of any kind and Bar as a fortified gateway or door."
+    },
+    {
+      "source": "DPG:45",
+      "section": "p.45, Khazalid Glossary",
+      "quote": "Galaz Gold of particular ornamental value",
+      "claim": "Ornamental gold can describe a symbolic sign image without asserting company wealth. Grungron on this page supplies forge imagery, without establishing that a company operates a forge."
+    },
+    {
+      "source": "DPG:47",
+      "section": "p.47, Khazalid Glossary",
+      "quote": "Urbar Trade",
+      "claim": "Urbar plus Kron uses trade and record as a commercial-record emblem. It supplies no transaction, ledger contents, clientele or trade route. Wutroth on this page supplies the precise material sense: wood from ancient mountain oak."
+    },
+    {
+      "source": "DPG:43",
+      "section": "p.43, Khazalid",
+      "quote": "simple texts used in day to day trading",
+      "claim": "Written material in Dwarf daily trade is attested. A trade-record sign is an adaptation of that context, not a canonical company name or a fabricated account of past business."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Alrik Ranulfsson",
+    "Axe of Grimnir",
+    "Azrilbar",
+    "Barak Varr",
+    "Barrakul",
+    "Belegar Ironhammer",
+    "Book of Remembering",
+    "Book of Remembrance",
+    "Bugmans Brewery",
+    "Burlok Damminsson",
+    "Crossroads Inn",
+    "Dammaz Kron",
+    "Dragonbreath",
+    "Dragonbreath Tavern",
+    "Durazgrund",
+    "Ekrund",
+    "Engineers Guild",
+    "Erdinken Brewery",
+    "Everlasting Realm",
+    "Felix Jaeger",
+    "Ghal Maraz",
+    "Goldshields",
+    "Gorlaz",
+    "Gotrek Gurnisson",
+    "Great Book of Grudges",
+    "Grimbar",
+    "Grimbar Gate",
+    "Grimm Burloksson",
+    "Grimmaz",
+    "Grombrindal",
+    "Hammer of Angrund",
+    "Ironhammer",
+    "Ironhammers",
+    "Izars Trade House",
+    "Josef Bugman",
+    "Karak Angazbar",
+    "Karak Azgal",
+    "Karak Azgaraz",
+    "Karak Azul",
+    "Karak Bhufdar",
+    "Karak Drazh",
+    "Karak Eight Peaks",
+    "Karak Eksfilaz",
+    "Karak Gantuk",
+    "Karak Grom",
+    "Karak Grong",
+    "Karak Hirn",
+    "Karak Izor",
+    "Karak Kadrin",
+    "Karak KaferKammaz",
+    "Karak Norn",
+    "Karak Ungor",
+    "Karak Varn",
+    "Karak Zilfin",
+    "Karak Zorn",
+    "Karakgrong",
+    "Karaz Ankor",
+    "Karaz Ankor Inn and Trade House",
+    "Karaz-Ankor",
+    "Karaz-a-Karak",
+    "KarazAnkor",
+    "Karazakarak",
+    "Kazador Thunderhorn",
+    "Kolaz",
+    "Kolaz Umgol",
+    "Kolgrund",
+    "Kragg the Grim",
+    "Kraka Dorden",
+    "Kraka Drak",
+    "Kraka Ornsmotek",
+    "Kraka Ravnsvake",
+    "Malakai Makaisson",
+    "Nanavn",
+    "Red Spear Brewery",
+    "Riddlemansions",
+    "Runesmiths Guild",
+    "Shield of Defiance",
+    "The Axe of Grimnir",
+    "The Hammer of Angrund",
+    "Thorek Ironbrow",
+    "Thorgrim Grudgebearer",
+    "Throne of Power",
+    "Ungrim Ironfist",
+    "Zandok",
+    "Zangorog",
+    "Zhufbar"
+  ]
+}

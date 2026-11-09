@@ -1,0 +1,28 @@
+{
+  "assertions": 67,
+  "coverage": "Actual native names and display preferences; temporary edits restored, no save",
+  "policies": {
+    "CENTRALIZE": {
+      "figure_collision_rejected": true,
+      "new": "Akilinda Gorlklad",
+      "old": "Kettra Gorlklad",
+      "preview_distinct": true,
+      "unit_collision_rejected": true
+    },
+    "REPLACE_ALL": {
+      "figure_collision_rejected": true,
+      "new": "Akilinda Gorlklad",
+      "old": "Kettra Gorlklad",
+      "preview_distinct": true,
+      "unit_collision_rejected": true
+    },
+    "REPLACE_FIRST": {
+      "figure_collision_rejected": true,
+      "new": "Akilinda Gorlklad",
+      "old": "Kettra Gorlklad",
+      "preview_distinct": true,
+      "unit_collision_rejected": true
+    }
+  },
+  "result": "PASS"
+}

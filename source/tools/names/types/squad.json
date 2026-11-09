@@ -1,0 +1,1566 @@
+{
+  "category": "squad",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "motif"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "motif"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "motif"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "motif"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "motif"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "motif"
+    },
+    "az": {
+      "gloss": "war axe",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "craft"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "craft"
+    },
+    "khrum": {
+      "gloss": "war drum",
+      "source": "DPG:46",
+      "role": "military emblem"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "motif"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "motif"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "motif"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "grungron": {
+      "gloss": "forge",
+      "source": "DPG:45",
+      "role": "craft"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "craft"
+    },
+    "drakk": {
+      "gloss": "dragon",
+      "source": "DPG:44",
+      "role": "emblem"
+    },
+    "zharr": {
+      "gloss": "fire",
+      "source": "DPG:47",
+      "role": "motif"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "hirn": {
+      "gloss": "horn (instrument)",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "klad": {
+      "gloss": "armour",
+      "source": "DPG:46",
+      "role": "symbolic protective image; does not imply actual armour, material or invincibility"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    },
+    "wutraz": {
+      "gloss": "spear",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "neutral emblem; no sunlight, deity, medical benefit or special power asserted"
+    },
+    "dron": {
+      "gloss": "thunder",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "mizpal": {
+      "gloss": "volcanic glass",
+      "source": "DSS:103",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "grong"
+      ],
+      "gloss": "black anvil",
+      "sources": [
+        "DPG:46",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "kol",
+        "khrum"
+      ],
+      "gloss": "black war drum",
+      "sources": [
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "az"
+      ],
+      "gloss": "red war axe",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "grund"
+      ],
+      "gloss": "red hammer",
+      "sources": [
+        "DPG:47",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "grong"
+      ],
+      "gloss": "red anvil",
+      "sources": [
+        "DPG:47",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "khrum"
+      ],
+      "gloss": "red war drum",
+      "sources": [
+        "DPG:47",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grund"
+      ],
+      "gloss": "yellow hammer",
+      "sources": [
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grong"
+      ],
+      "gloss": "yellow anvil",
+      "sources": [
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "khrum"
+      ],
+      "gloss": "yellow war drum",
+      "sources": [
+        "DPG:45",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "az"
+      ],
+      "gloss": "bright blue war axe",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grund"
+      ],
+      "gloss": "bright blue hammer",
+      "sources": [
+        "DPG:46",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grong"
+      ],
+      "gloss": "bright blue anvil",
+      "sources": [
+        "DPG:46",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "khrum"
+      ],
+      "gloss": "bright blue war drum",
+      "sources": [
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "az"
+      ],
+      "gloss": "shining war axe",
+      "sources": [
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grund"
+      ],
+      "gloss": "shining hammer",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grong"
+      ],
+      "gloss": "shining anvil",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "khrum"
+      ],
+      "gloss": "shining war drum",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "az"
+      ],
+      "gloss": "stone war axe",
+      "sources": [
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grong"
+      ],
+      "gloss": "stone anvil",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "khrum"
+      ],
+      "gloss": "stone war drum",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a squad emblem-name. The words are attested; this complete name is our combination. No clan affiliation, equipment loadout, rank, ancestry, battle honour or past deed is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "az"
+      ],
+      "gloss": "metal war axe",
+      "sources": [
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "azul",
+        "grund"
+      ],
+      "gloss": "metal hammer",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "azul",
+        "grong"
+      ],
+      "gloss": "metal anvil",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "azul",
+        "khrum"
+      ],
+      "gloss": "metal war drum",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "galaz",
+        "az"
+      ],
+      "gloss": "ornamental gold war axe",
+      "sources": [
+        "DPG:45",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grund"
+      ],
+      "gloss": "ornamental gold hammer",
+      "sources": [
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grong"
+      ],
+      "gloss": "ornamental gold anvil",
+      "sources": [
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "galaz",
+        "khrum"
+      ],
+      "gloss": "ornamental gold war drum",
+      "sources": [
+        "DPG:45",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "grund"
+      ],
+      "gloss": "hammer of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "khrum"
+      ],
+      "gloss": "war drum of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a material-themed squad emblem-name. The words are attested; the complete name is our combination. It describes symbolic imagery, not equipment, wealth, clan membership, ancestry, rank or a past deed."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinka"
+      ],
+      "gloss": "black chisel",
+      "sources": [
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinka"
+      ],
+      "gloss": "red chisel",
+      "sources": [
+        "DPG:47",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinka"
+      ],
+      "gloss": "yellow chisel",
+      "sources": [
+        "DPG:45",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinka"
+      ],
+      "gloss": "bright blue chisel",
+      "sources": [
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinka"
+      ],
+      "gloss": "shining chisel",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "duraz",
+        "klinka"
+      ],
+      "gloss": "stone chisel",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinka"
+      ],
+      "gloss": "metal chisel",
+      "sources": [
+        "DPG:44",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klinka"
+      ],
+      "gloss": "ornamental gold chisel",
+      "sources": [
+        "DPG:45",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "kol",
+        "grungron"
+      ],
+      "gloss": "black forge",
+      "sources": [
+        "DPG:46",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "zan",
+        "grungron"
+      ],
+      "gloss": "red forge",
+      "sources": [
+        "DPG:47",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grungron"
+      ],
+      "gloss": "yellow forge",
+      "sources": [
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grungron"
+      ],
+      "gloss": "bright blue forge",
+      "sources": [
+        "DPG:46",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grungron"
+      ],
+      "gloss": "shining forge",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grungron"
+      ],
+      "gloss": "stone forge",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "azul",
+        "grungron"
+      ],
+      "gloss": "metal forge",
+      "sources": [
+        "DPG:44",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grungron"
+      ],
+      "gloss": "ornamental gold forge",
+      "sources": [
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "DPG:45",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar"
+      ],
+      "gloss": "stone fortified gate",
+      "sources": [
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar"
+      ],
+      "gloss": "metal fortified gate",
+      "sources": [
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "galaz",
+        "bar"
+      ],
+      "gloss": "ornamental gold fortified gate",
+      "sources": [
+        "DPG:45",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "bar"
+      ],
+      "gloss": "fortified gate of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid compound used as a craft or architectural squad emblem-name. The words are attested; the complete name is our combination. It grants no occupation, ownership of a forge or gate, defensive assignment, clan membership or past deed."
+    },
+    {
+      "parts": [
+        "kol",
+        "drakk"
+      ],
+      "gloss": "black dragon",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Khazalid compound used as a dragon-emblem squad name. The words are attested; the complete name is our combination. Dwarf dragon heraldry supports the motif, but this is not the Drakebeard emblem and grants no clan affiliation, dragon ownership, Slayer status or victory."
+    },
+    {
+      "parts": [
+        "zan",
+        "drakk"
+      ],
+      "gloss": "red dragon",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Khazalid compound used as a dragon-emblem squad name. The words are attested; the complete name is our combination. Dwarf dragon heraldry supports the motif, but this is not the Drakebeard emblem and grants no clan affiliation, dragon ownership, Slayer status or victory."
+    },
+    {
+      "parts": [
+        "gorl",
+        "drakk"
+      ],
+      "gloss": "yellow dragon",
+      "sources": [
+        "DPG:45",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Khazalid compound used as a dragon-emblem squad name. The words are attested; the complete name is our combination. Dwarf dragon heraldry supports the motif, but this is not the Drakebeard emblem and grants no clan affiliation, dragon ownership, Slayer status or victory."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "drakk"
+      ],
+      "gloss": "bright blue dragon",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Khazalid compound used as a dragon-emblem squad name. The words are attested; the complete name is our combination. Dwarf dragon heraldry supports the motif, but this is not the Drakebeard emblem and grants no clan affiliation, dragon ownership, Slayer status or victory."
+    },
+    {
+      "parts": [
+        "bryn",
+        "drakk"
+      ],
+      "gloss": "shining dragon",
+      "sources": [
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Khazalid compound used as a dragon-emblem squad name. The words are attested; the complete name is our combination. Dwarf dragon heraldry supports the motif, but this is not the Drakebeard emblem and grants no clan affiliation, dragon ownership, Slayer status or victory."
+    },
+    {
+      "parts": [
+        "duraz",
+        "drakk"
+      ],
+      "gloss": "stone dragon",
+      "sources": [
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Khazalid compound used as a dragon-emblem squad name. The words are attested; the complete name is our combination. Dwarf dragon heraldry supports the motif, but this is not the Drakebeard emblem and grants no clan affiliation, dragon ownership, Slayer status or victory."
+    },
+    {
+      "parts": [
+        "azul",
+        "drakk"
+      ],
+      "gloss": "metal dragon",
+      "sources": [
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Khazalid compound used as a dragon-emblem squad name. The words are attested; the complete name is our combination. Dwarf dragon heraldry supports the motif, but this is not the Drakebeard emblem and grants no clan affiliation, dragon ownership, Slayer status or victory."
+    },
+    {
+      "parts": [
+        "galaz",
+        "drakk"
+      ],
+      "gloss": "ornamental gold dragon",
+      "sources": [
+        "DPG:45",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Khazalid compound used as a dragon-emblem squad name. The words are attested; the complete name is our combination. Dwarf dragon heraldry supports the motif, but this is not the Drakebeard emblem and grants no clan affiliation, dragon ownership, Slayer status or victory."
+    },
+    {
+      "parts": [
+        "zharr",
+        "az"
+      ],
+      "gloss": "fire war axe",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid fire-and-object compound used as a squad emblem-name. The words are attested; the complete name is our combination. Fire is symbolic imagery, not a claim of magical equipment, destruction, victory, a troop specialisation or a past deed."
+    },
+    {
+      "parts": [
+        "zharr",
+        "grund"
+      ],
+      "gloss": "fire hammer",
+      "sources": [
+        "DPG:47",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid fire-and-object compound used as a squad emblem-name. The words are attested; the complete name is our combination. Fire is symbolic imagery, not a claim of magical equipment, destruction, victory, a troop specialisation or a past deed."
+    },
+    {
+      "parts": [
+        "zharr",
+        "grong"
+      ],
+      "gloss": "fire anvil",
+      "sources": [
+        "DPG:47",
+        "DPG:45",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid fire-and-object compound used as a squad emblem-name. The words are attested; the complete name is our combination. Fire is symbolic imagery, not a claim of magical equipment, destruction, victory, a troop specialisation or a past deed."
+    },
+    {
+      "parts": [
+        "zharr",
+        "khrum"
+      ],
+      "gloss": "fire war drum",
+      "sources": [
+        "DPG:47",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid fire-and-object compound used as a squad emblem-name. The words are attested; the complete name is our combination. Fire is symbolic imagery, not a claim of magical equipment, destruction, victory, a troop specialisation or a past deed."
+    },
+    {
+      "parts": [
+        "zharr",
+        "klinka"
+      ],
+      "gloss": "fire chisel",
+      "sources": [
+        "DPG:47",
+        "DPG:46",
+        "WFB8:27"
+      ],
+      "note": "New Khazalid fire-and-object compound used as a squad emblem-name. The words are attested; the complete name is our combination. Fire is symbolic imagery, not a claim of magical equipment, destruction, victory, a troop specialisation or a past deed."
+    },
+    {
+      "parts": [
+        "khrum",
+        "un",
+        "hirn"
+      ],
+      "gloss": "war drum and musical horn",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[khrum un hirn]"
+    },
+    {
+      "parts": [
+        "az",
+        "un",
+        "hirn"
+      ],
+      "gloss": "war axe and musical horn",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[az un hirn]"
+    },
+    {
+      "parts": [
+        "grund",
+        "un",
+        "hirn"
+      ],
+      "gloss": "hammer and musical horn",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grund un hirn]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "hirn"
+      ],
+      "gloss": "fortified gate and musical horn",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un hirn]"
+    },
+    {
+      "parts": [
+        "az",
+        "un",
+        "khrum"
+      ],
+      "gloss": "war axe and war drum",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[az un khrum]"
+    },
+    {
+      "parts": [
+        "grund",
+        "un",
+        "khrum"
+      ],
+      "gloss": "hammer and war drum",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grund un khrum]"
+    },
+    {
+      "parts": [
+        "az",
+        "un",
+        "grund"
+      ],
+      "gloss": "war axe and hammer",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:45",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[az un grund]"
+    },
+    {
+      "parts": [
+        "az",
+        "un",
+        "grong"
+      ],
+      "gloss": "war axe and anvil",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:45",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[az un grong]"
+    },
+    {
+      "parts": [
+        "grund",
+        "un",
+        "grong"
+      ],
+      "gloss": "hammer and anvil",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grund un grong]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "klad"
+      ],
+      "gloss": "fortified gate and armour",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un klad]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "bar"
+      ],
+      "gloss": "eye and fortified gate",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un bar]"
+    },
+    {
+      "parts": [
+        "wutraz",
+        "un",
+        "klad"
+      ],
+      "gloss": "spear and armour",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wutraz un klad]"
+    },
+    {
+      "parts": [
+        "wutraz",
+        "un",
+        "hirn"
+      ],
+      "gloss": "spear and musical horn",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wutraz un hirn]"
+    },
+    {
+      "parts": [
+        "wutraz",
+        "un",
+        "khrum"
+      ],
+      "gloss": "spear and war drum",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wutraz un khrum]"
+    },
+    {
+      "parts": [
+        "wutraz",
+        "un",
+        "az"
+      ],
+      "gloss": "spear and war axe",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[wutraz un az]"
+    },
+    {
+      "parts": [
+        "grong",
+        "un",
+        "khrum"
+      ],
+      "gloss": "anvil and war drum",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grong un khrum]"
+    },
+    {
+      "parts": [
+        "drakk",
+        "un",
+        "hirn"
+      ],
+      "gloss": "dragon and musical horn",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[drakk un hirn]"
+    },
+    {
+      "parts": [
+        "drakk",
+        "un",
+        "khrum"
+      ],
+      "gloss": "dragon and war drum",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[drakk un khrum]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "az"
+      ],
+      "gloss": "moonlight and war axe",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un az]"
+    },
+    {
+      "parts": [
+        "zon",
+        "un",
+        "grund"
+      ],
+      "gloss": "sun and hammer",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:45",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zon un grund]"
+    },
+    {
+      "parts": [
+        "zharr",
+        "un",
+        "drakk"
+      ],
+      "gloss": "fire and dragon",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zharr un drakk]"
+    },
+    {
+      "parts": [
+        "dron",
+        "un",
+        "khrum"
+      ],
+      "gloss": "thunder and war drum",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dron un khrum]"
+    },
+    {
+      "parts": [
+        "dron",
+        "un",
+        "hirn"
+      ],
+      "gloss": "thunder and musical horn",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dron un hirn]"
+    },
+    {
+      "parts": [
+        "izor",
+        "hirn"
+      ],
+      "gloss": "copper musical horn",
+      "sources": [
+        "DSS:103",
+        "DSS:102",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "agril",
+        "hirn"
+      ],
+      "gloss": "silver musical horn",
+      "sources": [
+        "DSS:101",
+        "DSS:102",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "mizpal",
+        "az"
+      ],
+      "gloss": "volcanic glass war axe",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "WFB8:27",
+        "WFB8:29"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A paired military or craft emblem, not a claim of equipment, unit class, clan allegiance, rank, victory or ancestry. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:43",
+      "section": "p.43, Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Selected senses must be stated explicitly and interpreted in context; do not invent additional meanings or morphology."
+    },
+    {
+      "source": "DPG:44-47",
+      "section": "pp.44-47, Khazalid Glossary",
+      "quote": "Khrum War drum",
+      "claim": "Every component is attested. Kol and Zan use colour senses, Bryn the shiny/brilliant sense, and Gorl the yellow sense; no metaphor is presented as another dictionary meaning."
+    },
+    {
+      "source": "Warhammer Armies: Dwarfs (8th Edition, 2014)",
+      "section": "p.27 (PDF p.30), Dwarf Society / Clans",
+      "quote": "display colours and symbols from their clan and/or stronghold",
+      "claim": "Military colour-and-symbol labels are culturally grounded. The source does not print the proposed compounds or grant these generated squads a canonical clan identity."
+    },
+    {
+      "source": "DPG:40",
+      "section": "p.40, Clan Names",
+      "quote": "Stonehammer (Durazgrund)",
+      "claim": "Reserve this attested clan label, rather than silently granting its history to a generated squad."
+    },
+    {
+      "source": "DPG:142",
+      "section": "p.142, Ancestor Veneration / Honouring the Ancestors",
+      "quote": "Kolgrund (‘Black Hammer’) brewing clan",
+      "claim": "Reserve the printed Black Hammer clan name as well as Stonehammer. Naming a fresh squad after it would otherwise suggest an attested clan identity."
+    },
+    {
+      "source": "Warhammer Fantasy Roleplay 2e: Karak Azgal",
+      "section": "p.14, Chapter II: Skalf’s Hold, Cult of Gorlaz",
+      "quote": "Gorlaz is simply another name for the Chaos God Slaanesh",
+      "claim": "Exclude Gorlaz despite a superficially harmless colour-plus-axe decomposition."
+    },
+    {
+      "source": "Anthony Reynolds: Empire in Chaos",
+      "section": "Book One, Chapter Eight",
+      "quote": "the walls of Kolaz Umgol",
+      "claim": "Conservatively reserve Kolaz, a component of this canonical location; do not present it as an entirely new squad identity."
+    },
+    {
+      "source": "DPG:44",
+      "section": "p.44, Khazalid Glossary",
+      "quote": "Azul Metal of any kind; dependable; a sturdy Dwarf",
+      "claim": "Select metal as an emblem material, not dependability as an earned personal quality. The same page attests Bar as a fortified gateway or door, and Drakk as dragon."
+    },
+    {
+      "source": "DPG:45",
+      "section": "p.45, Khazalid Glossary",
+      "quote": "Galaz Gold of particular ornamental value",
+      "claim": "Ornamental gold is an attested emblem-material sense. Grungron on this page supplies forge imagery; neither word grants wealth, trade membership or ownership."
+    },
+    {
+      "source": "DPG:46",
+      "section": "p.46, Khazalid Glossary",
+      "quote": "Klinka Chisel",
+      "claim": "A craft-tool emblem is supported by an attested noun; it does not identify the squad as miners, masons or another military specialisation."
+    },
+    {
+      "source": "DPG:47",
+      "section": "p.47, Khazalid Glossary",
+      "quote": "Wutroth Wood from ancient mountain oak",
+      "claim": "Retain the full material meaning in the gloss. Zharr on the same page means fire; fire-object compounds remain explicitly adapted symbolic imagery, not claims of magical gear or destructive deeds."
+    },
+    {
+      "source": "WFB8:29",
+      "section": "p.29 (PDF p.32), Clan Drakebeard",
+      "quote": "Their symbol, the writhing Dragon with Grimnir’s seal, appears on their banners",
+      "claim": "Dragon imagery occurs in Dwarf military heraldry. New colour/material dragon labels do not reproduce this clan identity, its seal, its genealogy or its military status."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:102",
+      "section": "p.102, Khazalid glossary",
+      "quote": "Hirn Horn (instrument)",
+      "claim": "The glossary distinguishes a musical horn from horn material, and attests road and thunder. Selected nouns remain literal word senses inside adapted labels."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Durazgrund",
+    "Kolgrund",
+    "Kolaz",
+    "Gorlaz",
+    "Zangorog"
+  ]
+}

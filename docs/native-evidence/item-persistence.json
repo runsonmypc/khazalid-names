@@ -1,0 +1,38 @@
+{
+  "compared": 8,
+  "items": {
+    "0": {
+      "description": "\u0011elder cloudstuff long sword\u0010",
+      "signature": "4:item1:02:242:1322:ITEM_WEAPON_SWORD_LONG4:body1:03:30728:INORGANIC:MYTHICAL_REMNANT_14:type5:makaz17:item type: weapon"
+    },
+    "114": {
+      "description": "(iron pick)",
+      "signature": "4:item3:1142:241:716:ITEM_WEAPON_PICK4:body1:01:014:INORGANIC:IRON4:type5:makaz17:item type: weapon8:material5:angaz19:body material: iron8:material4:azul20:body material: metal"
+    },
+    "116": {
+      "description": "(copper short sword)",
+      "signature": "4:item3:1162:241:323:ITEM_WEAPON_SWORD_SHORT4:body1:01:316:INORGANIC:COPPER4:type5:makaz17:item type: weapon8:material4:azul20:body material: metal8:material4:izor21:body material: copper"
+    },
+    "117": {
+      "description": "(copper short sword)",
+      "signature": "4:item3:1172:241:323:ITEM_WEAPON_SWORD_SHORT4:body1:01:316:INORGANIC:COPPER4:type5:makaz17:item type: weapon8:material4:azul20:body material: metal8:material4:izor21:body material: copper"
+    },
+    "146": {
+      "description": "(copper battle axe)",
+      "signature": "4:item3:1462:241:122:ITEM_WEAPON_AXE_BATTLE4:body1:01:316:INORGANIC:COPPER4:type2:az18:item type: war axe4:type5:makaz17:item type: weapon8:material4:azul20:body material: metal8:material4:izor21:body material: copper"
+    },
+    "147": {
+      "description": "(iron pick)",
+      "signature": "4:item3:1472:241:716:ITEM_WEAPON_PICK4:body1:01:014:INORGANIC:IRON4:type5:makaz17:item type: weapon8:material5:angaz19:body material: iron8:material4:azul20:body material: metal"
+    },
+    "89": {
+      "description": "(iron pick)",
+      "signature": "4:item2:892:241:716:ITEM_WEAPON_PICK4:body1:01:014:INORGANIC:IRON4:type5:makaz17:item type: weapon8:material5:angaz19:body material: iron8:material4:azul20:body material: metal"
+    },
+    "90": {
+      "description": "(copper battle axe)",
+      "signature": "4:item2:902:241:122:ITEM_WEAPON_AXE_BATTLE4:body1:01:316:INORGANIC:COPPER4:type2:az18:item type: war axe4:type5:makaz17:item type: weapon8:material4:azul20:body material: metal8:material4:izor21:body material: copper"
+    }
+  },
+  "result": "PASS"
+}

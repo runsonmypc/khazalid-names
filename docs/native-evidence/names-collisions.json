@@ -1,0 +1,28 @@
+{
+  "checks": {
+    "accept_time_collision": true,
+    "artifact_itemless_record_occupied": true,
+    "bounded_suggestion_skips_collision": true,
+    "bridge_unverified_builder_collision": true,
+    "business_distinct_menu_labels": true,
+    "business_same_id_cross_namespace": true,
+    "business_unaffiliated_guild_occupied": true,
+    "civilization_foreign_collision": true,
+    "government_foreign_collision": true,
+    "guildhall_ineligible_builder_collision": true,
+    "hospital_ineligible_builder_collision": true,
+    "invalid_ids_and_namespace": true,
+    "library_ineligible_builder_collision": true,
+    "road_unverified_builder_collision": true,
+    "squad_alias": true,
+    "squad_underlying_aliased_name": true,
+    "suggestion_exhaustion": true,
+    "suggestion_target_validation": true,
+    "tavern_ineligible_builder_collision": true,
+    "tunnel_unverified_builder_collision": true,
+    "wall_unverified_builder_collision": true
+  },
+  "coverage": "Temporary native collision fixtures; no generated target name applied; all fixtures removed",
+  "nickname_policy_cases": 42,
+  "result": "PASS"
+}

@@ -1,0 +1,1703 @@
+{
+  "category": "tavern",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "sign colour; selected colour sense, not black stone"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "sign colour; selected colour sense, not blood"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "sign colour; selected colour sense, not gold material"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "sign appearance; selected shiny/brilliant sense"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "sign colour; selected colour sense, not physical sky"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "craft-object sign motif"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "craft-object sign motif"
+    },
+    "az": {
+      "gloss": "war axe",
+      "source": "DPG:44",
+      "role": "craft-object sign motif; does not confer military standing"
+    },
+    "drakk": {
+      "gloss": "dragon",
+      "source": "DPG:44",
+      "role": "creature sign motif; no dragon kill or ownership"
+    },
+    "gor": {
+      "gloss": "wild beast",
+      "source": "DPG:45",
+      "role": "creature sign motif; no specific animal or trophy"
+    },
+    "gorog": {
+      "gloss": "ale",
+      "source": "DPG:45",
+      "role": "ale sign motif; no actual recipe or quality assertion"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "material of a symbolic sign image; not a claim about the tavern building or an owned object"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "material of a symbolic sign image; selected material sense, not dependability or a sturdy Dwarf"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "material of a symbolic sign image; not a claim of actual gold, wealth, or ornament quality"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "craft-object sign motif; no tools or craft status are granted"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "architectural sign motif; not a claim that the tavern is fortified"
+    },
+    "khrum": {
+      "gloss": "war drum",
+      "source": "DPG:46",
+      "role": "instrument sign motif; no military service, membership, or equipment is asserted"
+    },
+    "gronti": {
+      "gloss": "giant",
+      "source": "DPG:45",
+      "role": "creature sign motif; no giant slain, captured, or owned"
+    },
+    "frongol": {
+      "gloss": "mushrooms which grow at the back of a cave",
+      "source": "DPG:45",
+      "role": "cave-mushroom sign motif; not generic mushrooms or a claim about a stocked dish or biological variety"
+    },
+    "brog": {
+      "gloss": "bread",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "chuf": {
+      "gloss": "very hard cheese kept by Dwarf miners under their hats for emergencies",
+      "source": "DPG:44",
+      "role": "emblem"
+    },
+    "kuri": {
+      "gloss": "meat stew boiled by travelling Dwarfs from available ingredients, traditionally spiced with wild berries",
+      "source": "DPG:46",
+      "role": "emblem"
+    },
+    "tiwaz": {
+      "gloss": "rest",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "hirn": {
+      "gloss": "horn (instrument)",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "skaud": {
+      "gloss": "song",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "neutral emblem; no sunlight, deity, medical benefit or special power asserted"
+    },
+    "nar": {
+      "gloss": "sunrise",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "yar": {
+      "gloss": "sunset",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "goruz": {
+      "gloss": "horn",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "grong"
+      ],
+      "gloss": "black anvil",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "kol",
+        "drakk"
+      ],
+      "gloss": "black dragon",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "kol",
+        "gor"
+      ],
+      "gloss": "black wild beast",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "zan",
+        "grong"
+      ],
+      "gloss": "red anvil",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "zan",
+        "grund"
+      ],
+      "gloss": "red hammer",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "zan",
+        "az"
+      ],
+      "gloss": "red war axe",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "zan",
+        "drakk"
+      ],
+      "gloss": "red dragon",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "zan",
+        "gor"
+      ],
+      "gloss": "red wild beast",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grong"
+      ],
+      "gloss": "yellow anvil",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grund"
+      ],
+      "gloss": "yellow hammer",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "gorl",
+        "drakk"
+      ],
+      "gloss": "yellow dragon",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "gorl",
+        "gor"
+      ],
+      "gloss": "yellow wild beast",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grong"
+      ],
+      "gloss": "shining anvil",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grund"
+      ],
+      "gloss": "shining hammer",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "bryn",
+        "az"
+      ],
+      "gloss": "shining war axe",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "bryn",
+        "drakk"
+      ],
+      "gloss": "shining dragon",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "bryn",
+        "gor"
+      ],
+      "gloss": "shining wild beast",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grong"
+      ],
+      "gloss": "bright blue anvil",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grund"
+      ],
+      "gloss": "bright blue hammer",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "az"
+      ],
+      "gloss": "bright blue war axe",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "drakk"
+      ],
+      "gloss": "bright blue dragon",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "gor"
+      ],
+      "gloss": "bright blue wild beast",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not ownership, a deed, a trophy, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "kol",
+        "gorog"
+      ],
+      "gloss": "black ale",
+      "sources": [
+        "DPG:36",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not a claim about a stocked beverage, recipe, age, strength, or quality."
+    },
+    {
+      "parts": [
+        "gorl",
+        "gorog"
+      ],
+      "gloss": "yellow ale",
+      "sources": [
+        "DPG:36",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern sign, not a claim about a stocked beverage, recipe, age, strength, or quality."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinka"
+      ],
+      "gloss": "black chisel",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A gate image does not make this tavern a fortified building."
+    },
+    {
+      "parts": [
+        "kol",
+        "khrum"
+      ],
+      "gloss": "black war drum",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A war-drum image does not confer military standing or document service."
+    },
+    {
+      "parts": [
+        "kol",
+        "gronti"
+      ],
+      "gloss": "black giant",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "kol",
+        "frongol"
+      ],
+      "gloss": "black mushrooms which grow at the back of a cave",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The glossary specifies mushrooms at the back of a cave; the colour or shine belongs to the sign image, not a new mushroom species or a stocked dish."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinka"
+      ],
+      "gloss": "red chisel",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A gate image does not make this tavern a fortified building."
+    },
+    {
+      "parts": [
+        "zan",
+        "khrum"
+      ],
+      "gloss": "red war drum",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A war-drum image does not confer military standing or document service."
+    },
+    {
+      "parts": [
+        "zan",
+        "gronti"
+      ],
+      "gloss": "red giant",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "zan",
+        "frongol"
+      ],
+      "gloss": "red mushrooms which grow at the back of a cave",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The glossary specifies mushrooms at the back of a cave; the colour or shine belongs to the sign image, not a new mushroom species or a stocked dish."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinka"
+      ],
+      "gloss": "yellow chisel",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A gate image does not make this tavern a fortified building."
+    },
+    {
+      "parts": [
+        "gorl",
+        "khrum"
+      ],
+      "gloss": "yellow war drum",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A war-drum image does not confer military standing or document service."
+    },
+    {
+      "parts": [
+        "gorl",
+        "gronti"
+      ],
+      "gloss": "yellow giant",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "gorl",
+        "frongol"
+      ],
+      "gloss": "yellow mushrooms which grow at the back of a cave",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The glossary specifies mushrooms at the back of a cave; the colour or shine belongs to the sign image, not a new mushroom species or a stocked dish."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinka"
+      ],
+      "gloss": "shining chisel",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A gate image does not make this tavern a fortified building."
+    },
+    {
+      "parts": [
+        "bryn",
+        "khrum"
+      ],
+      "gloss": "shining war drum",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A war-drum image does not confer military standing or document service."
+    },
+    {
+      "parts": [
+        "bryn",
+        "gronti"
+      ],
+      "gloss": "shining giant",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "bryn",
+        "frongol"
+      ],
+      "gloss": "shining mushrooms which grow at the back of a cave",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The glossary specifies mushrooms at the back of a cave; the colour or shine belongs to the sign image, not a new mushroom species or a stocked dish."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinka"
+      ],
+      "gloss": "bright blue chisel",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A gate image does not make this tavern a fortified building."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "khrum"
+      ],
+      "gloss": "bright blue war drum",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. A war-drum image does not confer military standing or document service."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "gronti"
+      ],
+      "gloss": "bright blue giant",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "frongol"
+      ],
+      "gloss": "bright blue mushrooms which grow at the back of a cave",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The glossary specifies mushrooms at the back of a cave; the colour or shine belongs to the sign image, not a new mushroom species or a stocked dish."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grong"
+      ],
+      "gloss": "stone anvil",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "az"
+      ],
+      "gloss": "stone war axe",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "klinka"
+      ],
+      "gloss": "stone chisel",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar"
+      ],
+      "gloss": "stone fortified gate",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "drakk"
+      ],
+      "gloss": "stone dragon",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "gronti"
+      ],
+      "gloss": "stone giant",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "grong"
+      ],
+      "gloss": "metal anvil",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "grund"
+      ],
+      "gloss": "metal hammer",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "az"
+      ],
+      "gloss": "metal war axe",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinka"
+      ],
+      "gloss": "metal chisel",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar"
+      ],
+      "gloss": "metal fortified gate",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "drakk"
+      ],
+      "gloss": "metal dragon",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "gronti"
+      ],
+      "gloss": "metal giant",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grong"
+      ],
+      "gloss": "ornamental gold anvil",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grund"
+      ],
+      "gloss": "ornamental gold hammer",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "az"
+      ],
+      "gloss": "ornamental gold war axe",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klinka"
+      ],
+      "gloss": "ornamental gold chisel",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "bar"
+      ],
+      "gloss": "ornamental gold fortified gate",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "drakk"
+      ],
+      "gloss": "ornamental gold dragon",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "gronti"
+      ],
+      "gloss": "ornamental gold giant",
+      "sources": [
+        "ALTDORF4:Dragonbreath Tavern",
+        "DPG:38",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words, not a canonical location. A symbolic tavern-sign image, not ownership, a deed, a trophy, ancestry, patrons, or an actual furnished object. The material describes the imagined sign motif; no physical object, building material, wealth, or quality is asserted."
+    },
+    {
+      "parts": [
+        "brog",
+        "un",
+        "gorog"
+      ],
+      "gloss": "bread and ale",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:45",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[brog un gorog]"
+    },
+    {
+      "parts": [
+        "chuf",
+        "un",
+        "gorog"
+      ],
+      "gloss": "miner's very hard emergency cheese and ale",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:45",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim. Chuf retains its full sense: very hard cheese kept by Dwarf miners under their hats for emergencies.",
+      "grouping": "[chuf un gorog]"
+    },
+    {
+      "parts": [
+        "frongol",
+        "un",
+        "gorog"
+      ],
+      "gloss": "mushrooms which grow at the back of a cave and ale",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[frongol un gorog]"
+    },
+    {
+      "parts": [
+        "kuri",
+        "un",
+        "gorog"
+      ],
+      "gloss": "travelling Dwarfs' stew and ale",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:45",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim. Kuri retains its full sense: meat stew boiled by travelling Dwarfs from available ingredients, traditionally spiced with wild berries.",
+      "grouping": "[kuri un gorog]"
+    },
+    {
+      "parts": [
+        "brog",
+        "un",
+        "chuf"
+      ],
+      "gloss": "bread and miner's very hard emergency cheese",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:44",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim. Chuf retains its full sense: very hard cheese kept by Dwarf miners under their hats for emergencies.",
+      "grouping": "[brog un chuf]"
+    },
+    {
+      "parts": [
+        "brog",
+        "un",
+        "frongol"
+      ],
+      "gloss": "bread and mushrooms which grow at the back of a cave",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:45",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[brog un frongol]"
+    },
+    {
+      "parts": [
+        "kuri",
+        "un",
+        "brog"
+      ],
+      "gloss": "travelling Dwarfs' stew and bread",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DSS:101",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim. Kuri retains its full sense: meat stew boiled by travelling Dwarfs from available ingredients, traditionally spiced with wild berries.",
+      "grouping": "[kuri un brog]"
+    },
+    {
+      "parts": [
+        "gorog",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "ale and rest",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[gorog un tiwaz]"
+    },
+    {
+      "parts": [
+        "gorog",
+        "un",
+        "hirn"
+      ],
+      "gloss": "ale and musical horn",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DSS:102",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[gorog un hirn]"
+    },
+    {
+      "parts": [
+        "gorog",
+        "un",
+        "skaud"
+      ],
+      "gloss": "ale and song",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[gorog un skaud]"
+    },
+    {
+      "parts": [
+        "brog",
+        "un",
+        "skaud"
+      ],
+      "gloss": "bread and song",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[brog un skaud]"
+    },
+    {
+      "parts": [
+        "drakk",
+        "un",
+        "gorog"
+      ],
+      "gloss": "dragon and ale",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:45",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[drakk un gorog]"
+    },
+    {
+      "parts": [
+        "gronti",
+        "un",
+        "gorog"
+      ],
+      "gloss": "giant and ale",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[gronti un gorog]"
+    },
+    {
+      "parts": [
+        "gor",
+        "un",
+        "gorog"
+      ],
+      "gloss": "wild beast and ale",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[gor un gorog]"
+    },
+    {
+      "parts": [
+        "hirn",
+        "un",
+        "skaud"
+      ],
+      "gloss": "musical horn and song",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[hirn un skaud]"
+    },
+    {
+      "parts": [
+        "brog",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "bread and rest",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[brog un tiwaz]"
+    },
+    {
+      "parts": [
+        "kuri",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "travelling Dwarfs' stew and rest",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim. Kuri retains its full sense: meat stew boiled by travelling Dwarfs from available ingredients, traditionally spiced with wild berries.",
+      "grouping": "[kuri un tiwaz]"
+    },
+    {
+      "parts": [
+        "chuf",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "miner's very hard emergency cheese and rest",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim. Chuf retains its full sense: very hard cheese kept by Dwarf miners under their hats for emergencies.",
+      "grouping": "[chuf un tiwaz]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "gorog"
+      ],
+      "gloss": "moonlight and ale",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:45",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un gorog]"
+    },
+    {
+      "parts": [
+        "zon",
+        "un",
+        "brog"
+      ],
+      "gloss": "sun and bread",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DSS:101",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zon un brog]"
+    },
+    {
+      "parts": [
+        "nar",
+        "un",
+        "brog"
+      ],
+      "gloss": "sunrise and bread",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DSS:101",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[nar un brog]"
+    },
+    {
+      "parts": [
+        "yar",
+        "un",
+        "gorog"
+      ],
+      "gloss": "sunset and ale",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:45",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[yar un gorog]"
+    },
+    {
+      "parts": [
+        "goruz",
+        "un",
+        "gorog"
+      ],
+      "gloss": "horn and ale",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:45",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[goruz un gorog]"
+    },
+    {
+      "parts": [
+        "drakk",
+        "un",
+        "brog"
+      ],
+      "gloss": "dragon and bread",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:101",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[drakk un brog]"
+    },
+    {
+      "parts": [
+        "gronti",
+        "un",
+        "chuf"
+      ],
+      "gloss": "giant and miner's very hard emergency cheese",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:44",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim. Chuf retains its full sense: very hard cheese kept by Dwarf miners under their hats for emergencies.",
+      "grouping": "[gronti un chuf]"
+    },
+    {
+      "parts": [
+        "wutroth",
+        "hirn"
+      ],
+      "gloss": "musical horn of ancient mountain oak wood",
+      "sources": [
+        "DPG:47",
+        "DSS:102",
+        "DPG:36",
+        "DPG:38"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A hospitality sign using food, drink, music or rest imagery; it does not certify any actual menu, stock, opening hours, performers or proprietor. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:36",
+      "section": "Beer and Brewing",
+      "quote": "Dwarf beer is called gorog in Khazalid",
+      "claim": "Ale is a central Dwarf cultural motif. This does not establish the recipe or strength of any DF beverage."
+    },
+    {
+      "source": "DPG:38",
+      "section": "Dwarf Names",
+      "quote": "Dragonbreath Tavern",
+      "claim": "An attested Dwarf-run tavern uses a creature-image name. Reserve that actual name; newly composed sign images are adaptations."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Selected component glosses depend on context. Concatenation and the English compound reading are adaptations, not a claim to complete canonical grammar."
+    },
+    {
+      "source": "ALTDORF4:Dragonbreath Tavern",
+      "section": "Dragonbreath Tavern",
+      "quote": "a favourite of the weaponsmith clans",
+      "claim": "The official tavern example associates tavern life with Dwarf craft workers. Anvil, hammer and axe sign motifs use glossary nouns; they do not identify the actual patrons or their guild membership."
+    },
+    {
+      "source": "WFB8RB:Dwarf Brewhouse",
+      "section": "Dwarf Brewhouse",
+      "quote": "Dwarf ale is by far the most famous and sought after beverage",
+      "claim": "8th-edition brewing context corroborates using ale imagery for Dwarf hospitality; it does not equate every tavern with a brewery."
+    },
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary: Azul, Bar, Duraz",
+      "quote": "Metal of any kind",
+      "claim": "Azul supplies the metal sense. Duraz means stone or slab and Bar a fortified gateway or door. Using material and architectural imagery on a tavern sign is an explicit adaptation, not a statement of construction material or fortification."
+    },
+    {
+      "source": "DPG:45",
+      "section": "Khazalid Glossary: Frongol, Galaz, Gronti",
+      "quote": "Mushrooms which grow at the back of a cave",
+      "claim": "Frongol retains this specific cave-mushroom meaning. Galaz denotes gold of particular ornamental value; Gronti means giant. Newly coloured or material sign images do not create a species, dish, trophy, wealth, or historical event."
+    },
+    {
+      "source": "DPG:46",
+      "section": "Khazalid Glossary: Khrum, Klinka",
+      "quote": "War drum",
+      "claim": "Khrum supplies a war-drum image and Klinka a chisel image. Their use as symbolic signs follows the craft/creature-imagery adaptation; it does not establish the actual patrons, professional status, or service history."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:102",
+      "section": "p.102, Khazalid glossary",
+      "quote": "Hirn Horn (instrument)",
+      "claim": "The glossary distinguishes a musical horn from horn material, and attests road and thunder. Selected nouns remain literal word senses inside adapted labels."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Dragonbreath",
+    "Dragonbreath Tavern",
+    "Bugmans Brewery",
+    "Erdinken Brewery",
+    "Red Spear Brewery",
+    "Crossroads Inn",
+    "Kolgrund",
+    "Zangorog",
+    "Gorlaz",
+    "Kolaz",
+    "Kolaz Umgol",
+    "Durazgrund"
+  ]
+}

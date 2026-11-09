@@ -1,0 +1,1056 @@
+{
+  "category": "hospital",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "sign colour; selected colour sense, not black stone or sombre"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "sign colour; selected colour sense, not blood"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "sign colour; selected colour sense, not gold material"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "sign appearance; selected shiny/brilliant sense"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "sign colour; selected colour sense, not physical sky"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "neutral emblem; noun sense, not an assertion of watching or restored sight"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "neutral emblem; no sunlight, deity, medical benefit or special power asserted"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "neutral emblem; no physical furnishing or material claim"
+    },
+    "agrul": {
+      "gloss": "stone carving",
+      "source": "DPG:44",
+      "role": "neutral carved emblem; selected stone-carving sense, not facial lines or old age"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "neutral architectural emblem; does not assert a physical gate, shelter or protection"
+    },
+    "irkul": {
+      "gloss": "pillared vault hewn in rock",
+      "source": "DPG:46",
+      "role": "neutral architectural emblem; does not assert the hospital layout or location"
+    },
+    "ruf": {
+      "gloss": "large underground dome",
+      "source": "DPG:46",
+      "role": "neutral architectural emblem; natural or constructed in the source; no actual dome or underground location assigned"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "material in an emblem; selected metal sense, not dependable or a sturdy Dwarf"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "material in an emblem; does not supply precious metal, wealth or a sacred object"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "material in an emblem; full specific wood sense, not the hospital age or timber provenance"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "tiwaz": {
+      "gloss": "rest",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "thrag": {
+      "gloss": "wound",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "uzkul": {
+      "gloss": "bones",
+      "source": "DPG:47",
+      "role": "emblem"
+    },
+    "makaz": {
+      "gloss": "tool",
+      "source": "DPG:46",
+      "role": "selected tool sense, not weapon; no actual equipment is supplied or specified"
+    },
+    "kron": {
+      "gloss": "record",
+      "source": "DPG:46",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "klinkarun": {
+      "gloss": "common runes",
+      "source": "DPG:46",
+      "role": "symbolic alphabetic-writing motif; not magical runes; spelling follows the glossary entry"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "dok"
+      ],
+      "gloss": "black eye",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "kol",
+        "zon"
+      ],
+      "gloss": "black sun",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "kol",
+        "duraz"
+      ],
+      "gloss": "black stone",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "zan",
+        "zon"
+      ],
+      "gloss": "red sun",
+      "sources": [
+        "DPG:43",
+        "DPG:47",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "zan",
+        "duraz"
+      ],
+      "gloss": "red stone",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "gorl",
+        "dok"
+      ],
+      "gloss": "yellow eye",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "gorl",
+        "zon"
+      ],
+      "gloss": "yellow sun",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "gorl",
+        "duraz"
+      ],
+      "gloss": "yellow stone",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "bryn",
+        "dok"
+      ],
+      "gloss": "shining eye",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "bryn",
+        "zon"
+      ],
+      "gloss": "shining sun",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "dok"
+      ],
+      "gloss": "bright blue eye",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "zon"
+      ],
+      "gloss": "bright blue sun",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "duraz"
+      ],
+      "gloss": "bright blue stone",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:67"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "kol",
+        "agrul"
+      ],
+      "gloss": "black stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "kol",
+        "irkul"
+      ],
+      "gloss": "black pillared vault hewn in rock",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "kol",
+        "ruf"
+      ],
+      "gloss": "black large underground dome",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "zan",
+        "agrul"
+      ],
+      "gloss": "red stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "zan",
+        "irkul"
+      ],
+      "gloss": "red pillared vault hewn in rock",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "zan",
+        "ruf"
+      ],
+      "gloss": "red large underground dome",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "gorl",
+        "agrul"
+      ],
+      "gloss": "yellow stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "gorl",
+        "irkul"
+      ],
+      "gloss": "yellow pillared vault hewn in rock",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "gorl",
+        "ruf"
+      ],
+      "gloss": "yellow large underground dome",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "bryn",
+        "agrul"
+      ],
+      "gloss": "shining stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "bryn",
+        "irkul"
+      ],
+      "gloss": "shining pillared vault hewn in rock",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "bryn",
+        "ruf"
+      ],
+      "gloss": "shining large underground dome",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "agrul"
+      ],
+      "gloss": "bright blue stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "irkul"
+      ],
+      "gloss": "bright blue pillared vault hewn in rock",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "ruf"
+      ],
+      "gloss": "bright blue large underground dome",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "WFB8:PDF41",
+        "DPG:46"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The architectural image does not describe the actual hospital's construction, layout, location or defensive capability."
+    },
+    {
+      "parts": [
+        "azul",
+        "dok"
+      ],
+      "gloss": "metal eye",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The eye or sun is depicted in the named material; no actual sign, prosthesis, astronomical phenomenon or medical property is assigned."
+    },
+    {
+      "parts": [
+        "azul",
+        "zon"
+      ],
+      "gloss": "metal sun",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The eye or sun is depicted in the named material; no actual sign, prosthesis, astronomical phenomenon or medical property is assigned."
+    },
+    {
+      "parts": [
+        "galaz",
+        "dok"
+      ],
+      "gloss": "ornamental gold eye",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The eye or sun is depicted in the named material; no actual sign, prosthesis, astronomical phenomenon or medical property is assigned."
+    },
+    {
+      "parts": [
+        "galaz",
+        "zon"
+      ],
+      "gloss": "ornamental gold sun",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The eye or sun is depicted in the named material; no actual sign, prosthesis, astronomical phenomenon or medical property is assigned."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "dok"
+      ],
+      "gloss": "wood from ancient mountain oak eye",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The eye or sun is depicted in the named material; no actual sign, prosthesis, astronomical phenomenon or medical property is assigned."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "zon"
+      ],
+      "gloss": "wood from ancient mountain oak sun",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The eye or sun is depicted in the named material; no actual sign, prosthesis, astronomical phenomenon or medical property is assigned."
+    },
+    {
+      "parts": [
+        "duraz",
+        "dok"
+      ],
+      "gloss": "stone eye",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "DPG:44"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The eye or sun is depicted in the named material; no actual sign, prosthesis, astronomical phenomenon or medical property is assigned."
+    },
+    {
+      "parts": [
+        "duraz",
+        "zon"
+      ],
+      "gloss": "stone sun",
+      "sources": [
+        "DPG:43",
+        "DPG:67",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New compound from attested words; a neutral symbolic sign label for an actual hospital. It does not name a cure, medical specialty, physician, deity, temple, past event or actual furnished object; it grants no medical success or protection. The eye or sun is depicted in the named material; no actual sign, prosthesis, astronomical phenomenon or medical property is assigned."
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "eye and rest",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un tiwaz]"
+    },
+    {
+      "parts": [
+        "thrag",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "wound and rest",
+      "sources": [
+        "DSS:104",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrag un tiwaz]"
+    },
+    {
+      "parts": [
+        "uzkul",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "bones and rest",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[uzkul un tiwaz]"
+    },
+    {
+      "parts": [
+        "thrag",
+        "un",
+        "dok"
+      ],
+      "gloss": "wound and eye",
+      "sources": [
+        "DSS:104",
+        "DPG:44",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrag un dok]"
+    },
+    {
+      "parts": [
+        "uzkul",
+        "un",
+        "dok"
+      ],
+      "gloss": "bones and eye",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:44",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[uzkul un dok]"
+    },
+    {
+      "parts": [
+        "makaz",
+        "un",
+        "dok"
+      ],
+      "gloss": "tool and eye",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[makaz un dok]"
+    },
+    {
+      "parts": [
+        "makaz",
+        "un",
+        "uzkul"
+      ],
+      "gloss": "tool and bones",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:47",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[makaz un uzkul]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "kron"
+      ],
+      "gloss": "eye and record",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un kron]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "tiwaz"
+      ],
+      "gloss": "record and rest",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un tiwaz]"
+    },
+    {
+      "parts": [
+        "tiwaz",
+        "un",
+        "zon"
+      ],
+      "gloss": "rest and sun",
+      "sources": [
+        "DSS:104",
+        "DPG:47",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[tiwaz un zon]"
+    },
+    {
+      "parts": [
+        "tiwaz",
+        "un",
+        "lhune"
+      ],
+      "gloss": "rest and moonlight",
+      "sources": [
+        "DSS:104",
+        "DSS:103",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[tiwaz un lhune]"
+    },
+    {
+      "parts": [
+        "thrag",
+        "un",
+        "kron"
+      ],
+      "gloss": "wound and record",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrag un kron]"
+    },
+    {
+      "parts": [
+        "uzkul",
+        "un",
+        "kron"
+      ],
+      "gloss": "bones and record",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[uzkul un kron]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "klinkarun"
+      ],
+      "gloss": "eye and common runes",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un klinkarun]"
+    },
+    {
+      "parts": [
+        "agril",
+        "dok"
+      ],
+      "gloss": "silver eye",
+      "sources": [
+        "DSS:101",
+        "DPG:44",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izor",
+        "dok"
+      ],
+      "gloss": "copper eye",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "duraz",
+        "uzkul"
+      ],
+      "gloss": "stone bones",
+      "sources": [
+        "DPG:44",
+        "DPG:47",
+        "DPG:67",
+        "DSS:18"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A care sign using anatomy, observation, records or rest. It does not assert a treatment, medical specialty, successful cure, patient injury, staffing, divine dedication or magical power. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Selected senses are explicit; neutral concatenated sign names are Forthammer compositions, not attested hospital names or a complete official naming grammar."
+    },
+    {
+      "source": "DPG:67",
+      "section": "Hearth Priest",
+      "quote": "medical care and reassurance to wounded or ailing Dwarfs",
+      "claim": "Dwarf medical care is attested. This religious career context is not evidence that any generated DF hospital is a temple or staffed by priests. No dedication, ritual, skill or cure is assigned."
+    },
+    {
+      "source": "WFB8:PDF11",
+      "section": "Dwarf early history / War Against Chaos",
+      "quote": "Valaya used her protections",
+      "claim": "This is a particular ancestral and magical context, not a secular hospital-naming convention. It supports excluding unverified divine dedication and magical protection from these names; it supplies no vocabulary in this pack."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "hard materials (wood, metal, and stone)",
+      "claim": "The inscription context grounds material depictions of existing neutral eye and sun emblems. These are adapted sign images, not source-attested medical symbols, magical runes, actual furnishings or treatments."
+    },
+    {
+      "source": "WFB8:PDF41",
+      "section": "Dwarf Warriors",
+      "quote": "an exactly constructed stone pillar",
+      "claim": "Peacetime craftsmanship supplies context for stone carving and architectural emblems. It establishes no hospital naming custom and does not certify the actual location's architecture, quality or safety."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:18",
+      "section": "p.18, Craftguilds / Healers",
+      "quote": "Dwarf medical theory looks upon the body as a machine",
+      "claim": "Physicians, surgeons and infirmaries are attested. Anatomy, observation, records and rest are cautious adapted care imagery, not official medical insignia or an assertion of a treatment outcome."
+    }
+  ],
+  "reserved": [
+    "Kolgrund",
+    "Zangorog",
+    "Gorlaz",
+    "Kolaz",
+    "Kolaz Umgol",
+    "Zandok",
+    "Durazgrund",
+    "Grimbar",
+    "Karakgrong",
+    "Valaya",
+    "Kradskonti",
+    "Brynduraz"
+  ]
+}

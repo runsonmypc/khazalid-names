@@ -1,0 +1,1407 @@
+{
+  "category": "library",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "symbolic colour of the library sign; not black stone"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "symbolic colour of the library sign; not blood"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "symbolic colour of the library sign; not gold material"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "symbolic appearance of the library sign; not magical light or merit"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "symbolic colour of the library sign; not the physical sky"
+    },
+    "kron": {
+      "gloss": "book",
+      "source": "DPG:46",
+      "role": "symbolic written-book motif; no subject, contents, age, or holdings are asserted"
+    },
+    "klinkarun": {
+      "gloss": "common runes",
+      "source": "DPG:46",
+      "role": "symbolic alphabetic-writing motif; not magical runes; spelling follows the glossary entry"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "symbolic writing-tool motif; DPG p43 explicitly describes inscribing texts with a chisel"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "symbolic writing-material motif; no physical inscription or building material is created"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "symbolic writing-material motif; selected material sense, not reliability or a sturdy Dwarf"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "symbolic writing-material motif; no gold, precious collection, or wealth is asserted"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "symbolic writing-material motif; ancient qualifies the oak in the attested word, not the library, text, or institution"
+    },
+    "agrul": {
+      "gloss": "stone carving",
+      "source": "DPG:44",
+      "role": "symbolic inscribed-stone motif; selected carving sense, not wrinkles, age, or a recorded historical event"
+    },
+    "khaz": {
+      "gloss": "underground hall",
+      "source": "DPG:46",
+      "role": "architectural emblem accompanying a writing motif; no actual underground construction or holdings are asserted"
+    },
+    "irkul": {
+      "gloss": "pillared vault hewn in rock",
+      "source": "DPG:46",
+      "role": "architectural emblem accompanying a writing motif; retains the full attested sense without claiming native room geometry"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "thrynaz": {
+      "gloss": "laws",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "urbar": {
+      "gloss": "trade",
+      "source": "DPG:47",
+      "role": "commercial activity concept; not a commodity or trade route"
+    },
+    "ori": {
+      "gloss": "work",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zagaz": {
+      "gloss": "remembering",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "neutral emblem; no sunlight, deity, medical benefit or special power asserted"
+    },
+    "zunthrum": {
+      "gloss": "statues",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "mizpal": {
+      "gloss": "volcanic glass",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "ruf": {
+      "gloss": "large underground dome",
+      "source": "DPG:46",
+      "role": "neutral architectural emblem; natural or constructed in the source; no actual dome or underground location assigned"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "symbolic sign material or image; not stock, actual premises or a profession"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "kron"
+      ],
+      "gloss": "black book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinkarun"
+      ],
+      "gloss": "black common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinka"
+      ],
+      "gloss": "black chisel",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "zan",
+        "kron"
+      ],
+      "gloss": "red book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinkarun"
+      ],
+      "gloss": "red common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinka"
+      ],
+      "gloss": "red chisel",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "gorl",
+        "kron"
+      ],
+      "gloss": "yellow book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinkarun"
+      ],
+      "gloss": "yellow common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinka"
+      ],
+      "gloss": "yellow chisel",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "bryn",
+        "kron"
+      ],
+      "gloss": "shining book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinkarun"
+      ],
+      "gloss": "shining common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinka"
+      ],
+      "gloss": "shining chisel",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "kron"
+      ],
+      "gloss": "bright blue book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinkarun"
+      ],
+      "gloss": "bright blue common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinka"
+      ],
+      "gloss": "bright blue chisel",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events."
+    },
+    {
+      "parts": [
+        "duraz",
+        "kron"
+      ],
+      "gloss": "stone book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "duraz",
+        "klinkarun"
+      ],
+      "gloss": "stone common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "duraz",
+        "klinka"
+      ],
+      "gloss": "stone chisel",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "azul",
+        "kron"
+      ],
+      "gloss": "metal book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinkarun"
+      ],
+      "gloss": "metal common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinka"
+      ],
+      "gloss": "metal chisel",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "galaz",
+        "kron"
+      ],
+      "gloss": "ornamental gold book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klinkarun"
+      ],
+      "gloss": "ornamental gold common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klinka"
+      ],
+      "gloss": "ornamental gold chisel",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "kron"
+      ],
+      "gloss": "wood from ancient mountain oak book",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object. The full meaning of Wutroth is retained; the ancient oak material does not date the library or any text."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "klinkarun"
+      ],
+      "gloss": "wood from ancient mountain oak common runes",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. DPG p43 attests writing on wood, metal and stone. Here the material describes an imagined book, alphabetic rune or writing tool, without assigning that material to any actual object. The full meaning of Wutroth is retained; the ancient oak material does not date the library or any text."
+    },
+    {
+      "parts": [
+        "kol",
+        "agrul"
+      ],
+      "gloss": "black stone carving",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. Stone carving is selected in the context of Dwarf inscriptions on stone; no text, record, ancestor, or carved object is furnished."
+    },
+    {
+      "parts": [
+        "zan",
+        "agrul"
+      ],
+      "gloss": "red stone carving",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. Stone carving is selected in the context of Dwarf inscriptions on stone; no text, record, ancestor, or carved object is furnished."
+    },
+    {
+      "parts": [
+        "gorl",
+        "agrul"
+      ],
+      "gloss": "yellow stone carving",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. Stone carving is selected in the context of Dwarf inscriptions on stone; no text, record, ancestor, or carved object is furnished."
+    },
+    {
+      "parts": [
+        "bryn",
+        "agrul"
+      ],
+      "gloss": "shining stone carving",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. Stone carving is selected in the context of Dwarf inscriptions on stone; no text, record, ancestor, or carved object is furnished."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "agrul"
+      ],
+      "gloss": "bright blue stone carving",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. Stone carving is selected in the context of Dwarf inscriptions on stone; no text, record, ancestor, or carved object is furnished."
+    },
+    {
+      "parts": [
+        "kron",
+        "khaz"
+      ],
+      "gloss": "book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "kron",
+        "irkul"
+      ],
+      "gloss": "book pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "klinkarun",
+        "khaz"
+      ],
+      "gloss": "common runes underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "kol",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "black book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "black common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "zan",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "red book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "red common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "gorl",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "yellow book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "yellow common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "bryn",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "shining book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "shining common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "bright blue book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "bright blue common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "duraz",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "stone book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "duraz",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "stone common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "azul",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "metal book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "metal common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "galaz",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "ornamental gold book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "ornamental gold common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "kron",
+        "khaz"
+      ],
+      "gloss": "wood from ancient mountain oak book underground hall",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim. The full meaning of Wutroth is retained; the ancient oak material does not date the library or any text."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "klinkarun",
+        "irkul"
+      ],
+      "gloss": "wood from ancient mountain oak common runes pillared vault hewn in rock",
+      "sources": [
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF40"
+      ],
+      "note": "New symbolic library label from attested Khazalid words. This component reading is a Forthammer composition, not a printed canonical name or certified grammatical translation. The motif does not assert actual collections, text contents, age, fame, magical knowledge, founder, ownership, clan membership, or historical events. The hall or vault is an architectural emblem associated with the preceding writing image, not an assertion about the library building or its holdings. A leading colour or material qualifies the writing image; it is not an extra colour stack or a construction-material claim. The full meaning of Wutroth is retained; the ancient oak material does not date the library or any text."
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "klinka"
+      ],
+      "gloss": "book and chisel",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un klinka]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "klinkarun"
+      ],
+      "gloss": "book and common runes",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un klinkarun]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "agrul"
+      ],
+      "gloss": "book and stone carving",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un agrul]"
+    },
+    {
+      "parts": [
+        "klinkarun",
+        "un",
+        "agrul"
+      ],
+      "gloss": "common runes and stone carving",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[klinkarun un agrul]"
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "un",
+        "kron"
+      ],
+      "gloss": "laws and book",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrynaz un kron]"
+    },
+    {
+      "parts": [
+        "urbar",
+        "un",
+        "kron"
+      ],
+      "gloss": "trade and book",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[urbar un kron]"
+    },
+    {
+      "parts": [
+        "ori",
+        "un",
+        "kron"
+      ],
+      "gloss": "work and book",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[ori un kron]"
+    },
+    {
+      "parts": [
+        "zagaz",
+        "un",
+        "kron"
+      ],
+      "gloss": "remembering and book",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zagaz un kron]"
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "un",
+        "klinkarun"
+      ],
+      "gloss": "laws and common runes",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrynaz un klinkarun]"
+    },
+    {
+      "parts": [
+        "zagaz",
+        "un",
+        "klinkarun"
+      ],
+      "gloss": "remembering and common runes",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zagaz un klinkarun]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "kron"
+      ],
+      "gloss": "eye and book",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un kron]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "kron"
+      ],
+      "gloss": "moonlight and book",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un kron]"
+    },
+    {
+      "parts": [
+        "zon",
+        "un",
+        "kron"
+      ],
+      "gloss": "sun and book",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zon un kron]"
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "un",
+        "kron"
+      ],
+      "gloss": "statues and book",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zunthrum un kron]"
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "un",
+        "klinkarun"
+      ],
+      "gloss": "statues and common runes",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zunthrum un klinkarun]"
+    },
+    {
+      "parts": [
+        "mizpal",
+        "un",
+        "klinkarun"
+      ],
+      "gloss": "volcanic glass and common runes",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[mizpal un klinkarun]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "ruf"
+      ],
+      "gloss": "book and large underground dome",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un ruf]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "bar"
+      ],
+      "gloss": "book and fortified gate",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un bar]"
+    },
+    {
+      "parts": [
+        "agril",
+        "kron"
+      ],
+      "gloss": "silver book",
+      "sources": [
+        "DSS:101",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izor",
+        "kron"
+      ],
+      "gloss": "copper book",
+      "sources": [
+        "DSS:103",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izor",
+        "klinkarun"
+      ],
+      "gloss": "copper common runes",
+      "sources": [
+        "DSS:103",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "agril",
+        "klinkarun"
+      ],
+      "gloss": "silver common runes",
+      "sources": [
+        "DSS:101",
+        "DPG:46",
+        "DPG:34",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A writing, reading or record sign; it does not establish an actual book, collection, subject catalogue, authorship, inscription, ancient text or magical rune. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:34",
+      "section": "Book of Remembrance",
+      "quote": "Past volumes are kept",
+      "claim": "The passage places past clan-book volumes in hold libraries. This grounds libraries as a Dwarf institution, but does not furnish a generated DF library or grant it clan records."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "with a knife or chisel",
+      "claim": "Writing on wood, metal and stone is explicitly associated with the chisel; this supports a chisel as a library sign motif."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Context determines the selected sense. We select ordinary written books, alphabetic runes and a writing tool, not magical power or a specific recorded history."
+    },
+    {
+      "source": "DPG:46",
+      "section": "Khazalid Glossary",
+      "quote": "Common runes",
+      "claim": "The glossary prints Klinkarun; the prose on p43 prints Klinkarhun for the alphabet. This pack preserves the glossary spelling without inventing a dialect rule."
+    },
+    {
+      "source": "WFB8:PDF40",
+      "section": "The Klinkarhun (printed p37)",
+      "quote": "core alphabetic runes",
+      "claim": "The 8th-edition army book corroborates ordinary writing as distinct from the magical rune rules beside it. Its spelling is Klinkarhun; this does not turn the library into a Runesmith workshop."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "hard materials (wood, metal, and stone)",
+      "claim": "The passage directly grounds writing-material imagery and describes books on thin metal scrolls, including gold or copper. Material-book and material-alphabetic-rune motifs are compositions; they do not populate the library with objects or determine their materials."
+    },
+    {
+      "source": "DPG:34",
+      "section": "Book of Remembrance",
+      "quote": "secured underground vaults",
+      "claim": "Dwarf book storage is explicitly associated with underground vaults. Using a hall or vault as a library emblem is an adaptation that does not grant temple affiliation, clan books, historical importance, holdings, or actual room geometry."
+    },
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary: Agrul, Azul, Duraz",
+      "quote": "Stone carving",
+      "claim": "Agrul supplies the stone-carving sense, selected in the writing-on-stone context of p43; Azul and Duraz supply metal and stone. No wrinkles, venerable age, reliability, or historical content are implied."
+    },
+    {
+      "source": "DPG:46",
+      "section": "Khazalid Glossary: Irkul, Khaz",
+      "quote": "Pillared vault hewn in rock",
+      "claim": "Irkul retains this complete meaning and Khaz means an underground hall. Compounds juxtapose a book or ordinary alphabetic-writing image with an architectural emblem; no general Khazalid grammar or actual building is inferred."
+    },
+    {
+      "source": "DPG:47",
+      "section": "Khazalid Glossary: Wutroth",
+      "quote": "Wood from ancient mountain oak",
+      "claim": "The specific material sense is retained in full. It does not imply that a generated library or any book is ancient, nor that any actual oakwood object is present."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Dammaz Kron",
+    "Great Book of Grudges",
+    "Book of Remembering",
+    "Book of Remembrance",
+    "Kolgrund",
+    "Zangorog",
+    "Gorlaz",
+    "Kolaz",
+    "Zandok",
+    "Durazgrund",
+    "Grimbar",
+    "Karakgrong"
+  ]
+}

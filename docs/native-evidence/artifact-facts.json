@@ -1,0 +1,11 @@
+{
+  "fixture": "Temporary unregistered items and a temporary registered image chunk; detached and deleted after checks.",
+  "model_assertions": 205,
+  "native_assertions": 1751,
+  "native_items": 833,
+  "skipped_native": [
+    "HANDGUN (fork-only)",
+    "GUNPOWDER (fork-only)",
+    "WARPSTONE (fork-only)"
+  ]
+}

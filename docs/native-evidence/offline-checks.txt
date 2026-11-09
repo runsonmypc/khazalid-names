@@ -1,0 +1,29 @@
+Naming outputs verified
+.Naming outputs verified
+Naming outputs verified
+......
+----------------------------------------------------------------------
+Ran 7 tests in 1.906s
+
+OK
+{
+  "mode": "dry-run",
+  "changed": [],
+  "verified": 62
+}
+................
+----------------------------------------------------------------------
+Ran 16 tests in 3.804s
+
+OK
+Naming outputs verified
+Naming outputs verified
+................
+----------------------------------------------------------------------
+Ran 16 tests in 3.673s
+
+OK
+PASS: 1551 offline quality assertions; native runtime remains a separate gate.
+PASS 205 artifact fact assertions (205 model; 0 native items)
+PASS 14 standalone activation/conflict assertions; no name edits
+Standalone source, profiles and model checks passed. Native game tests are separate.

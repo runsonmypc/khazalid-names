@@ -1,0 +1,337 @@
+[
+  {
+    "session": "standalone-live",
+    "command": [
+      "lua",
+      "print(dfhack.getDFVersion(),dfhack.getDFHackVersion())"
+    ],
+    "returncode": 0,
+    "stdout": "v0.53.14 win64 STEAM\t53.14-r2\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-live",
+    "command": [
+      "lua",
+      "print(require('json').encode(require('script-manager').get_active_mods()))"
+    ],
+    "returncode": 0,
+    "stdout": "[ {\n\t\"id\": \"vanilla_text\",\n\t\"name\": \"Vanilla Text\",\n\t\"numeric_version\": 5001,\n\t\"path\": \"data/vanilla/vanilla_text\",\n\t\"vanilla\": true,\n\t\"version\": \"50.01\"\n}, {\n\t\"id\": \"vanilla_languages\",\n\t\"name\": \"Vanilla Languages\",\n\t\"numeric_version\": 5001,\n\t\"path\": \"data/vanilla/vanilla_languages\",\n\t\"vanilla\": true,\n\t\"version\": \"50.01\"\n}, {\n\t\"id\": \"vanilla_descriptors\",\n\t\"name\": \"Vanilla Descriptors\",\n\t\"numeric_version\": 5203,\n\t\"path\": \"data/vanilla/vanilla_descriptors\",\n\t\"vanilla\": true,\n\t\"version\": \"52.03\"\n}, {\n\t\"id\": \"vanilla_materials\",\n\t\"name\": \"Vanilla Materials\",\n\t\"numeric_version\": 5208,\n\t\"path\": \"data/vanilla/vanilla_materials/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.08\"\n}, {\n\t\"id\": \"vanilla_environment\",\n\t\"name\": \"Vanilla Environment\",\n\t\"numeric_version\": 5301,\n\t\"path\": \"data/vanilla/vanilla_environment/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.01\"\n}, {\n\t\"id\": \"vanilla_plants\",\n\t\"name\": \"Vanilla Plants\",\n\t\"numeric_version\": 5009,\n\t\"path\": \"data/vanilla/vanilla_plants/\",\n\t\"vanilla\": true,\n\t\"version\": \"50.09\"\n}, {\n\t\"id\": \"vanilla_items\",\n\t\"name\": \"Vanilla Items\",\n\t\"numeric_version\": 5301,\n\t\"path\": \"data/vanilla/vanilla_items/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.01\"\n}, {\n\t\"id\": \"vanilla_buildings\",\n\t\"name\": \"Vanilla Buildings\",\n\t\"numeric_version\": 5001,\n\t\"path\": \"data/vanilla/vanilla_buildings/\",\n\t\"vanilla\": true,\n\t\"version\": \"50.01\"\n}, {\n\t\"id\": \"vanilla_bodies\",\n\t\"name\": \"Vanilla Bodies\",\n\t\"numeric_version\": 5001,\n\t\"path\": \"data/vanilla/vanilla_bodies/\",\n\t\"vanilla\": true,\n\t\"version\": \"50.01\"\n}, {\n\t\"id\": \"vanilla_creatures\",\n\t\"name\": \"Vanilla Creatures\",\n\t\"numeric_version\": 5301,\n\t\"path\": \"data/vanilla/vanilla_creatures/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.01\"\n}, {\n\t\"id\": \"vanilla_entities\",\n\t\"name\": \"Vanilla Entities\",\n\t\"numeric_version\": 5301,\n\t\"path\": \"data/vanilla/vanilla_entities/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.01\"\n}, {\n\t\"id\": \"vanilla_reactions\",\n\t\"name\": \"Vanilla Reactions\",\n\t\"numeric_version\": 5001,\n\t\"path\": \"data/vanilla/vanilla_reactions/\",\n\t\"vanilla\": true,\n\t\"version\": \"50.01\"\n}, {\n\t\"id\": \"vanilla_interactions\",\n\t\"name\": \"Vanilla Interactions\",\n\t\"numeric_version\": 5101,\n\t\"path\": \"data/vanilla/vanilla_interactions/\",\n\t\"vanilla\": true,\n\t\"version\": \"51.01\"\n}, {\n\t\"id\": \"vanilla_descriptors_graphics\",\n\t\"name\": \"Vanilla Descriptors Graphics\",\n\t\"numeric_version\": 5306,\n\t\"path\": \"data/vanilla/vanilla_descriptors_graphics/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.06\"\n}, {\n\t\"id\": \"vanilla_plants_graphics\",\n\t\"name\": \"Vanilla Plants Graphics\",\n\t\"numeric_version\": 5106,\n\t\"path\": \"data/vanilla/vanilla_plants_graphics/\",\n\t\"vanilla\": true,\n\t\"version\": \"51.06\"\n}, {\n\t\"id\": \"vanilla_items_graphics\",\n\t\"name\": \"Vanilla Items Graphics\",\n\t\"numeric_version\": 5306,\n\t\"path\": \"data/vanilla/vanilla_items_graphics/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.06\"\n}, {\n\t\"id\": \"vanilla_buildings_graphics\",\n\t\"name\": \"Vanilla Buildings Graphics\",\n\t\"numeric_version\": 5306,\n\t\"path\": \"data/vanilla/vanilla_buildings_graphics/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.06\"\n}, {\n\t\"id\": \"vanilla_creatures_graphics\",\n\t\"name\": \"Vanilla Creatures Graphics\",\n\t\"numeric_version\": 5310,\n\t\"path\": \"data/vanilla/vanilla_creatures_graphics/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.10\"\n}, {\n\t\"id\": \"vanilla_interactions_graphics\",\n\t\"name\": \"Vanilla Interactions Graphics\",\n\t\"numeric_version\": 5101,\n\t\"path\": \"data/vanilla/vanilla_interactions_graphics/\",\n\t\"vanilla\": true,\n\t\"version\": \"51.01\"\n}, {\n\t\"id\": \"vanilla_world_map\",\n\t\"name\": \"Vanilla World Map\",\n\t\"numeric_version\": 5001,\n\t\"path\": \"data/vanilla/vanilla_world_map/\",\n\t\"vanilla\": true,\n\t\"version\": \"50.01\"\n}, {\n\t\"id\": \"vanilla_interface\",\n\t\"name\": \"Vanilla Interface\",\n\t\"numeric_version\": 5312,\n\t\"path\": \"data/vanilla/vanilla_interface/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.12\"\n}, {\n\t\"id\": \"vanilla_music\",\n\t\"name\": \"Vanilla Music\",\n\t\"numeric_version\": 5306,\n\t\"path\": \"data/vanilla/vanilla_music/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.06\"\n}, {\n\t\"id\": \"vanilla_procedural\",\n\t\"name\": \"Vanilla Procedural Objects\",\n\t\"numeric_version\": 5311,\n\t\"path\": \"data/vanilla/vanilla_procedural/\",\n\t\"vanilla\": true,\n\t\"version\": \"53.11\"\n} ]\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-live",
+    "command": [
+      "lua",
+      "assert(not dfhack.findScript('khazalid-name-pools')); print('PASS absent mod not on script path')"
+    ],
+    "returncode": 0,
+    "stdout": "PASS absent mod not on script path\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "lua",
+      "local m=require('script-manager').get_active_mods();for _,v in ipairs(m) do if not v.vanilla then print(v.id,v.path) end end; print(dfhack.findScript('khazalid-name-pools'))"
+    ],
+    "returncode": 0,
+    "stdout": "KhazalidNames\tdata/installed_mods/KhazalidNames (1)/\nC:/users/steamuser/AppData/Roaming/Bay 12 Games/Dwarf Fortress/data/installed_mods/KhazalidNames (1)/scripts_modactive/khazalid-name-pools.lua\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-native-check"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"global_leaks\": 0,\n\t\"historical\": {\n\t\t\"invalid\": [],\n\t\t\"valid\": 91\n\t},\n\t\"other_entity_leaks\": 0,\n\t\"samples\": {\n\t\t\"Figure\": {\n\t\t\t\"draws\": 2000,\n\t\t\t\"examples\": [ \"Grunna Lokgalazbar\", \"Brogar Skarrenrufklinka\", \"Ketil Kolazulgrungron\", \"Rungni Azulmakaz\", \"Brogar Gorlkhrum\", \"Alrika Lokgalazaz\", \"Nanda Kolgrong\", \"Heldin Bryngalazbarag\" ],\n\t\t\t\"repeats\": 39,\n\t\t\t\"unique\": 1961\n\t\t},\n\t\t\"Site\": {\n\t\t\t\"draws\": 2000,\n\t\t\t\"examples\": [ \"Skarrenrufmakaz\", \"Zanazulmakaz\", \"Bryndurazkron\", \"Bryngalazkron\", \"Gorlwutrothgrund\", \"Gorlruf\", \"Gorlgrund\", \"Skarrenrufirkul\" ],\n\t\t\t\"repeats\": 1699,\n\t\t\t\"unique\": 301\n\t\t}\n\t},\n\t\"selectors\": [ [ 301, 1, 206, 9, 6, 6 ], [ 301, 1, 206, 9, 6, 6 ] ]\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-creation-check",
+      "world"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"mode\": \"world\",\n\t\"objects\": [ {\n\t\t\"category\": \"civilization\",\n\t\t\"english\": \"The Red forge realm\",\n\t\t\"id\": 91,\n\t\t\"name\": \"Zangrungronankor\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"government\",\n\t\t\"english\": \"The Bright blue anvil\",\n\t\t\"id\": 92,\n\t\t\"name\": \"Skarrenrufgrong\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"civilization\",\n\t\t\"english\": \"The Ancient mountain oak wood hammer realm\",\n\t\t\"id\": 105,\n\t\t\"name\": \"Wutrothgrundankor\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"government\",\n\t\t\"english\": \"The Red anvil\",\n\t\t\"id\": 106,\n\t\t\"name\": \"Zangrong\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"civilization\",\n\t\t\"english\": \"The Realm of the hammer and anvil\",\n\t\t\"id\": 115,\n\t\t\"name\": \"Grundungrongankor\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"government\",\n\t\t\"english\": \"The Eye and record\",\n\t\t\"id\": 116,\n\t\t\"name\": \"Dokunkron\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"government\",\n\t\t\"english\": \"The Copper record\",\n\t\t\"id\": 194,\n\t\t\"name\": \"Izorkron\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"government\",\n\t\t\"english\": \"The Unyielding anvil\",\n\t\t\"id\": 196,\n\t\t\"name\": \"Grimgrong\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"government\",\n\t\t\"english\": \"The Unyielding record\",\n\t\t\"id\": 214,\n\t\t\"name\": \"Grimkron\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"government\",\n\t\t\"english\": \"The Red anvil\",\n\t\t\"id\": 234,\n\t\t\"name\": \"Zangrong\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"government\",\n\t\t\"english\": \"The Stone anvil\",\n\t\t\"id\": 252,\n\t\t\"name\": \"Durazgrong\",\n\t\t\"native_components\": 1\n\t} ],\n\t\"result\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-check"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"assertions\": 531532,\n\t\"capacity\": {\n\t\t\"artifact\": 1002,\n\t\t\"bridge\": 54,\n\t\t\"business\": 87,\n\t\t\"cavern\": 140,\n\t\t\"civilization\": 64,\n\t\t\"clan\": 301,\n\t\t\"family\": 301,\n\t\t\"forename-female\": 113,\n\t\t\"forename-male\": 93,\n\t\t\"government\": 65,\n\t\t\"guildhall\": 89,\n\t\t\"hold\": 524,\n\t\t\"hospital\": 58,\n\t\t\"lake\": 140,\n\t\t\"library\": 75,\n\t\t\"mountain\": 140,\n\t\t\"pass\": 140,\n\t\t\"person-female\": 34013,\n\t\t\"person-male\": 27993,\n\t\t\"road\": 70,\n\t\t\"settlement\": 140,\n\t\t\"squad\": 94,\n\t\t\"stream\": 140,\n\t\t\"tavern\": 95,\n\t\t\"tunnel\": 57,\n\t\t\"wall\": 59\n\t},\n\t\"result\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "lua",
+      "df.global.pause_state=true;print(df.global.plotinfo.site_id,df.global.plotinfo.civ_id); print(dfhack.findScript('internal/khazalid-names/core'))"
+    ],
+    "returncode": 0,
+    "stdout": "196\t105\nC:/users/steamuser/AppData/Roaming/Bay 12 Games/Dwarf Fortress/data/installed_mods/KhazalidNames (1)/scripts_modactive/internal/khazalid-names/core.lua\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-artifact-facts-check"
+    ],
+    "returncode": 1,
+    "stdout": "...game/hack/scripts/khazalid-test-artifact-facts-check.lua:300: ...game/hack/scripts/khazalid-test-artifact-facts-check.lua:9: missing fixture weapon ITEM_WEAPON_HANDGUN\nstack traceback:\n\t[C]: in function 'assert'\n\t...game/hack/scripts/khazalid-test-artifact-facts-check.lua:9: in upvalue 'check'\n\t...game/hack/scripts/khazalid-test-artifact-facts-check.lua:214: in upvalue 'weapon'\n\t...game/hack/scripts/khazalid-test-artifact-facts-check.lua:227: in function <...game/hack/scripts/khazalid-test-artifact-facts-check.lua:219>\n\t[C]: in function 'xpcall'\n\t...game/hack/scripts/khazalid-test-artifact-facts-check.lua:219: in local 'script_code'\n\tZ:\\tmp\\khazalid-probe-el4e9kic\\game\\hack\\lua\\dfhack.lua:1117: in function 'dfhack.run_script_with_env'\n\t(...tail calls...)\nstack traceback:\n\t[C]: in function 'assert'\n\t...game/hack/scripts/khazalid-test-artifact-facts-check.lua:300: in local 'script_code'\n\tZ:\\tmp\\khazalid-probe-el4e9kic\\game\\hack\\lua\\dfhack.lua:1117: in function 'dfhack.run_script_with_env'\n\t(...tail calls...)\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-artifact-adapter-check"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"accepted\": {\n\t\t\"current_name_excluded\": true,\n\t\t\"description\": \"Angazdrakkmakaz, Ironwork dragon weapon or tool (Pick)\",\n\t\t\"linkage_preserved\": true,\n\t\t\"name\": \"Angazdrakkmakaz\",\n\t\t\"physical_description\": \"(\\xaeiron pick\\xaf)\",\n\t\t\"physical_state_preserved\": true,\n\t\t\"replay_rejected\": true\n\t},\n\t\"alternative_listing\": {\n\t\t\"choices\": 363,\n\t\t\"cpu_seconds\": 0.31699999999998,\n\t\t\"iterations\": 50,\n\t\t\"name_unchanged\": true\n\t},\n\t\"assertions\": 431,\n\t\"carving_fit\": {\n\t\t\"explanation\": \"Fits this item: body material: stone; item type: statue. Other imagery in the title is symbolic.\",\n\t\t\"name\": \"Durazzunthrum\"\n\t},\n\t\"cleanup\": \"All temporary native records/images/references removed; borrowed items restored.\",\n\t\"depicted_fit\": {\n\t\t\"explanation\": \"Fits this item: decoration depicts a dragon; body material: metal; item type: weapon. Other imagery in the title is symbolic.\",\n\t\t\"name\": \"Drakkazulmakaz\",\n\t\t\"score\": 7\n\t},\n\t\"guards\": {\n\t\t\"body_material_changed\": true,\n\t\t\"complete_alternatives_and_stale_list\": true,\n\t\t\"decoration_material_changed\": true,\n\t\t\"depicted_count_changed\": true,\n\t\t\"depicted_creature_changed\": true,\n\t\t\"direct_incompatible_type_and_material_rejected\": true,\n\t\t\"forged_metadata_canonicalized\": true,\n\t\t\"image_reference_changed\": true,\n\t\t\"linked_item_replaced\": true,\n\t\t\"new_collision\": true,\n\t\t\"proposal_metadata_isolated\": true,\n\t\t\"stone_carving_material_changed\": true,\n\t\t\"weapon_subtype_changed\": true\n\t},\n\t\"gui\": {\n\t\t\"assertions\": 20,\n\t\t\"closing_list_preserves_name\": true,\n\t\t\"decline_returns_next\": true,\n\t\t\"lower_tier_accepted\": true,\n\t\t\"method\": \"Actual DFHack widgets and production callbacks; synthetic artifact fixture; no simulated elapsed frames.\",\n\t\t\"pause_true_and_false_preserved\": true,\n\t\t\"result\": \"PASS\"\n\t},\n\t\"initial_fit\": {\n\t\t\"explanation\": \"Fits this item: body material: metal; item type: weapon. Other imagery in the title is symbolic.\",\n\t\t\"name\": \"Azulmakaz\",\n\t\t\"score\": 4\n\t},\n\t\"result\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-adapter-check"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"preview_cancel\": \"PASS\",\n\t\"site_after\": \"Karak Kolgrongkhaz\",\n\t\"site_before\": \"Galazgrong\",\n\t\"site_id\": 196,\n\t\"stale\": \"PASS\",\n\t\"synchronization\": \"PASS\",\n\t\"unit_after\": \"Kettra Gorlklad\",\n\t\"unit_before\": \"Akilinda Gorlklad\",\n\t\"unit_id\": 818,\n\t\"unit_suggestion\": \"PASS (finite suggestion accepted exactly as previewed)\",\n\t\"unrelated_guard\": \"PASS (provider substitution)\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-integration-check"
+    ],
+    "returncode": 0,
+    "stdout": "integration: snapshot MOUNTAIN selectors and native names\nintegration: repeated installation\nintegration: nested cleanup\nintegration: inactive-mod provider guard\nintegration: 100-name batch benchmark\n{\n\t\"batch_cpu_seconds\": 0.101,\n\t\"existing_names_unchanged\": true,\n\t\"idempotent_installs\": 5,\n\t\"inactive_mod_provider_guard\": true,\n\t\"nested_failure_cleanup\": true,\n\t\"result\": \"PASS\",\n\t\"unique_person_batch\": 100\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-creation-guard-check"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"checks\": {\n\t\t\"cancel_snapshot_model\": true,\n\t\t\"count_mismatch_rejected\": true,\n\t\t\"exhaustion_reviewed_duplicate\": true,\n\t\t\"existing_id_not_initialized\": true,\n\t\t\"guildhall_initialized\": true,\n\t\t\"hospital_initialized\": true,\n\t\t\"ineligible_builder_rejected\": true,\n\t\t\"invalid_random_rejected\": true,\n\t\t\"library_initialized\": true,\n\t\t\"missing_raw_provider_model\": true,\n\t\t\"multiple_new_objects_rejected\": true,\n\t\t\"no_new_object\": true,\n\t\t\"replay_rejected\": true,\n\t\t\"sequence_changed_rejected\": true,\n\t\t\"stale_session_rejected\": true,\n\t\t\"tavern_initialized\": true,\n\t\t\"temple_excluded\": true\n\t},\n\t\"coverage\": \"Temporary native objects and same-input guard models; actual native UI creation tested separately\",\n\t\"existing_names_unchanged\": true,\n\t\"fixtures_removed\": true,\n\t\"result\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "overlay",
+      "list"
+    ],
+    "returncode": 0,
+    "stdout": "[enabled]  1) advtools.conversation\n[enabled]  2) advtools.fastcombat\n[disabled] 3) agitation-rebalance.monitor\n[enabled]  4) autolabor.overlay\n[enabled]  5) buildingplan.inspector\n[enabled]  6) buildingplan.mechanism_free\n[enabled]  7) buildingplan.mechanism_unlink\n[enabled]  8) buildingplan.mechanisms\n[enabled]  9) buildingplan.planner\n[enabled]  10) burrow.designation\n[enabled]  11) caravan.assigntrade\n[enabled]  12) caravan.displayitemselector\n[enabled]  13) caravan.movegoods\n[disabled] 14) caravan.movegoods_hider\n[enabled]  15) caravan.trade\n[enabled]  16) caravan.tradeagreement\n[enabled]  17) caravan.tradebanner\n[enabled]  18) caravan.tradeethics\n[enabled]  19) confirm.overlay\n[enabled]  20) dig.asciidesignated\n[enabled]  21) dig.warmdamp\n[enabled]  22) dig.warmdamptoolbar\n[enabled]  23) exportlegends.export\n[enabled]  24) exportlegends.histfigfilter\n[enabled]  25) exportlegends.mask\n[enabled]  26) gui/civ-alert.big_red_button\n[enabled]  27) gui/design.dimensions\n[enabled]  28) gui/design.rightclick\n[enabled]  29) gui/mass-remove.toolbar\n[enabled]  30) gui/mod-manager.button\n[enabled]  31) gui/mod-manager.notification\n[enabled]  32) gui/notify.advpanel\n[enabled]  33) gui/notify.panel\n[enabled]  34) gui/rename.unit_embark\n[enabled]  35) gui/rename.world\n[enabled]  36) gui/settings-manager.embark_difficulty\n[enabled]  37) gui/settings-manager.embark_notification\n[enabled]  38) gui/settings-manager.reserved_barrels\n[enabled]  39) gui/settings-manager.settings_difficulty\n[enabled]  40) gui/settings-manager.standing_orders\n[enabled]  41) gui/settings-manager.work_details\n[enabled]  42) gui/sitemap.toolbar\n[enabled]  43) gui/unit-info-viewer.skillprogress\n[enabled]  44) hotkeys.adventuremenu\n[enabled]  45) hotkeys.embarkmenu\n[enabled]  46) hotkeys.legendsmenu\n[enabled]  47) hotkeys.menu\n[enabled]  48) hotkeys.newadventuremenu\n[enabled]  49) idle-crafting.idlecrafting\n[enabled]  50) khazalid-names-overlay.location\n[enabled]  51) khazalid-names-overlay.squad\n[enabled]  52) logistics.autoretrain\n[enabled]  53) notes.map_notes\n[enabled]  54) orders.conditionsquantityrightclick\n[enabled]  55) orders.conditionsrightclick\n[enabled]  56) orders.importexport\n[enabled]  57) orders.laborrestrictions\n[enabled]  58) orders.quantityrightclick\n[enabled]  59) orders.recheck\n[enabled]  60) orders.search\n[enabled]  61) orders.skillrestrictions\n[enabled]  62) overlay.title_version\n[enabled]  63) preserve-rooms.reserved\n[enabled]  64) prioritize.enroute\n[enabled]  65) sort.candidates\n[enabled]  66) sort.conviction\n[enabled]  67) sort.deathcause_button\n[enabled]  68) sort.elevate_barony\n[enabled]  69) sort.elevate_barony_preferences\n[enabled]  70) sort.info\n[enabled]  71) sort.interrogation\n[enabled]  72) sort.location_selector\n[enabled]  73) sort.places\n[enabled]  74) sort.slab\n[enabled]  75) sort.squad_annotation\n[enabled]  76) sort.squad_filter\n[enabled]  77) sort.workanimals\n[enabled]  78) sort.workanimals_filter\n[enabled]  79) sort.world\n[enabled]  80) spectate.followpanel\n[disabled] 81) spectate.tooltip\n[enabled]  82) startdwarf.overlay\n[enabled]  83) stockpiles.overlay\n[enabled]  84) stocks.overlay\n[enabled]  85) suspendmanager.overlay\n[enabled]  86) suspendmanager.status\n[enabled]  87) suspendmanager.toggle\n[enabled]  88) trackstop.pressureplate\n[enabled]  89) trackstop.rollers\n[enabled]  90) trackstop.trackstop\n[enabled]  91) uniform-unstick.overlay\n[enabled]  92) zone.animal_actions\n[enabled]  93) zone.cagechain\n[enabled]  94) zone.pasturepond\n[enabled]  95) zone.retirelocation\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-creation-check",
+      "locations-before"
+    ],
+    "returncode": 0,
+    "stdout": "Captured existing location names and reports before native UI creation\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "lua",
+      "require('gui').simulateInput(dfhack.gui.getCurViewscreen(),'D_CIVZONE')"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-artifact-facts-check"
+    ],
+    "returncode": 0,
+    "stdout": "PASS 1956 artifact fact assertions (205 model; 833 native items)\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-creation-check",
+      "locations"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"existing_locations_unchanged\": true,\n\t\"mode\": \"locations\",\n\t\"new_reports\": [],\n\t\"objects\": [ {\n\t\t\"category\": \"tavern\",\n\t\t\"english\": \"The Ornamental gold hammer\",\n\t\t\"id\": 0,\n\t\t\"name\": \"Galazgrund\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"library\",\n\t\t\"english\": \"The Metal chisel\",\n\t\t\"id\": 1,\n\t\t\"name\": \"Azulklinka\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"hospital\",\n\t\t\"english\": \"The Bright blue pillared vault hewn in rock\",\n\t\t\"id\": 2,\n\t\t\"name\": \"Skarrenrufirkul\",\n\t\t\"native_components\": 1\n\t}, {\n\t\t\"category\": \"guildhall\",\n\t\t\"english\": \"The Bright blue stone carving\",\n\t\t\"id\": 3,\n\t\t\"name\": \"Skarrenrufagrul\",\n\t\t\"native_components\": 1\n\t} ],\n\t\"result\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "lua",
+      "require('gui').simulateInput(dfhack.gui.getCurViewscreen(),'LEAVESCREEN')"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "lua",
+      "require('gui').simulateInput(dfhack.gui.getCurViewscreen(),'LEAVESCREEN')"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-expanded-check"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"api_squad_draws\": 200,\n\t\"categories\": {\n\t\t\"artifact\": {\n\t\t\t\"candidates\": 1002,\n\t\t\t\"distinct\": 0,\n\t\t\t\"examples\": [],\n\t\t\t\"native_draws\": 0\n\t\t},\n\t\t\"bridge\": {\n\t\t\t\"candidates\": 54,\n\t\t\t\"distinct\": 54,\n\t\t\t\"examples\": [ \"Wutrothbar\", \"Skarrenrufzhuf\", \"Bryndok\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"business\": {\n\t\t\t\"candidates\": 87,\n\t\t\t\"distinct\": 84,\n\t\t\t\"examples\": [ \"Skarrenrufgrungron\", \"Agrilkron\", \"Izorkron\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"civilization\": {\n\t\t\t\"candidates\": 64,\n\t\t\t\"distinct\": 64,\n\t\t\t\"examples\": [ \"Kolgrongankor\", \"Zharrungrungronankor\", \"Galazklinkaankor\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"government\": {\n\t\t\t\"candidates\": 65,\n\t\t\t\"distinct\": 65,\n\t\t\t\"examples\": [ \"Skarrenrufbar\", \"Durazkron\", \"Durazbar\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"guildhall\": {\n\t\t\t\"candidates\": 89,\n\t\t\t\"distinct\": 84,\n\t\t\t\"examples\": [ \"Zankron\", \"Kolirkul\", \"Wutrothkron\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"hospital\": {\n\t\t\t\"candidates\": 58,\n\t\t\t\"distinct\": 58,\n\t\t\t\"examples\": [ \"Brynzon\", \"Kolruf\", \"Zanbar\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"library\": {\n\t\t\t\"candidates\": 75,\n\t\t\t\"distinct\": 75,\n\t\t\t\"examples\": [ \"Zanagrul\", \"Brynklinka\", \"Kronunagrul\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"road\": {\n\t\t\t\"candidates\": 70,\n\t\t\t\"distinct\": 68,\n\t\t\t\"examples\": [ \"Brynmingol\", \"Barunhirn\", \"Gorlzorn\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"squad\": {\n\t\t\t\"candidates\": 94,\n\t\t\t\"distinct\": 87,\n\t\t\t\"examples\": [ \"Durazkhrum\", \"Galazdrakk\", \"Grongunkhrum\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"tavern\": {\n\t\t\t\"candidates\": 95,\n\t\t\t\"distinct\": 93,\n\t\t\t\"examples\": [ \"Brynkhrum\", \"Azuldrakk\", \"Azuldrakk\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"tunnel\": {\n\t\t\t\"candidates\": 57,\n\t\t\t\"distinct\": 56,\n\t\t\t\"examples\": [ \"Grintungrund\", \"Kolgrint\", \"Mhornarunduraz\" ],\n\t\t\t\"native_draws\": 300\n\t\t},\n\t\t\"wall\": {\n\t\t\t\"candidates\": 59,\n\t\t\t\"distinct\": 59,\n\t\t\t\"examples\": [ \"Lhuneundok\", \"Bryndok\", \"Durazbar\" ],\n\t\t\t\"native_draws\": 300\n\t\t}\n\t},\n\t\"global_leaks\": 0,\n\t\"result\": \"PASS\",\n\t\"scope_restoration\": true\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-expanded-adapter-check"
+    ],
+    "returncode": 0,
+    "stdout": "names-adapter: exercise government [264]\nnames-adapter: exercise civilization [105]\nnames-adapter: exercise squad [1000000]\nnames-adapter: exercise business [1000001]\nnames-adapter: exercise guildhall [1000002]\nnames-adapter: exercise tavern [1000003]\nnames-adapter: exercise library [1000004]\nnames-adapter: exercise hospital [1000005]\nnames-adapter: exercise business [1000006]\nnames-adapter: select initialized native weapon for artifact linkage\nnames-adapter: read original native weapon description\nnames-adapter: exercise artifact [1000007]\nnames-adapter: read linked named-weapon description\nnames-adapter: artifact negative missing_item\nnames-adapter: artifact negative garbage_collect\nnames-adapter: artifact negative missing_artifact_flag\nnames-adapter: artifact negative missing_artifact_ref\nnames-adapter: artifact negative wrong_artifact_ref\nnames-adapter: artifact negative written_title_provider_model\nnames-adapter: artifact negative unknown_maker\nnames-adapter: artifact negative foreign_maker\nnames-adapter: artifact negative non_dwarf_maker\nnames-adapter: artifact crafted bit false\nnames-adapter: artifact crafted bit true\nnames-adapter: exercise road [1000011]\nnames-adapter: exercise tunnel [1000013]\nnames-adapter: exercise bridge [1000015]\nnames-adapter: exercise wall [1000017]\n{\n\t\"categories\": {\n\t\t\"artifact\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"crafted_flag_independent\": true,\n\t\t\t\"fixture\": \"Initialized native weapon with temporary artifact linkage; original maker, flags and description restored\",\n\t\t\t\"item_description\": \"Karazdok, Mountain eye (Pick)\",\n\t\t\t\"linked_record\": true,\n\t\t\t\"name\": \"Karazdok\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"rejected\": {\n\t\t\t\t\"foreign_maker\": true,\n\t\t\t\t\"garbage_collect\": true,\n\t\t\t\t\"missing_artifact_flag\": true,\n\t\t\t\t\"missing_artifact_ref\": true,\n\t\t\t\t\"missing_item\": true,\n\t\t\t\t\"non_dwarf_maker\": true,\n\t\t\t\t\"unknown_maker\": true,\n\t\t\t\t\"written_title_provider_model\": true,\n\t\t\t\t\"wrong_artifact_ref\": true\n\t\t\t},\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"bridge\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Koldok\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"business\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolklinka\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"civilization\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolgrongankor\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"government\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Karakbar\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"guildhall\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolmakaz\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"hospital\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Koldok\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"library\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolkron\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"road\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolkaraz\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"squad\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolgrong\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"tavern\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolgrong\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"tunnel\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolduraz\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t},\n\t\t\"wall\": {\n\t\t\t\"accepted\": true,\n\t\t\t\"name\": \"Kolbar\",\n\t\t\t\"native_type_preserved\": true,\n\t\t\t\"preview_cancel\": true,\n\t\t\t\"stale_rejected\": true\n\t\t}\n\t},\n\t\"coverage\": \"Native object fixtures; temporary targets removed, real polity names restored\",\n\t\"name_guards\": {\n\t\t\"historical_figure_unnamed_rejected\": true,\n\t\t\"soul_unnamed_rejected\": true,\n\t\t\"unit_unnamed_rejected\": true,\n\t\t\"visible_historical_figure_collision_provider_model\": true,\n\t\t\"visible_unit_collision_provider_model\": true\n\t},\n\t\"result\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-collision-check"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"checks\": {\n\t\t\"accept_time_collision\": true,\n\t\t\"artifact_itemless_record_occupied\": true,\n\t\t\"bounded_suggestion_skips_collision\": true,\n\t\t\"bridge_unverified_builder_collision\": true,\n\t\t\"business_distinct_menu_labels\": true,\n\t\t\"business_same_id_cross_namespace\": true,\n\t\t\"business_unaffiliated_guild_occupied\": true,\n\t\t\"civilization_foreign_collision\": true,\n\t\t\"government_foreign_collision\": true,\n\t\t\"guildhall_ineligible_builder_collision\": true,\n\t\t\"hospital_ineligible_builder_collision\": true,\n\t\t\"invalid_ids_and_namespace\": true,\n\t\t\"library_ineligible_builder_collision\": true,\n\t\t\"road_unverified_builder_collision\": true,\n\t\t\"squad_alias\": true,\n\t\t\"squad_underlying_aliased_name\": true,\n\t\t\"suggestion_exhaustion\": true,\n\t\t\"suggestion_target_validation\": true,\n\t\t\"tavern_ineligible_builder_collision\": true,\n\t\t\"tunnel_unverified_builder_collision\": true,\n\t\t\"wall_unverified_builder_collision\": true\n\t},\n\t\"coverage\": \"Temporary native collision fixtures; no generated target name applied; all fixtures removed\",\n\t\"nickname_policy_cases\": 42,\n\t\"result\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-nickname-check"
+    ],
+    "returncode": 0,
+    "stdout": "{\n\t\"assertions\": 67,\n\t\"coverage\": \"Actual native names and display preferences; temporary edits restored, no save\",\n\t\"policies\": {\n\t\t\"CENTRALIZE\": {\n\t\t\t\"figure_collision_rejected\": true,\n\t\t\t\"new\": \"Akilinda Gorlklad\",\n\t\t\t\"old\": \"Kettra Gorlklad\",\n\t\t\t\"preview_distinct\": true,\n\t\t\t\"unit_collision_rejected\": true\n\t\t},\n\t\t\"REPLACE_ALL\": {\n\t\t\t\"figure_collision_rejected\": true,\n\t\t\t\"new\": \"Akilinda Gorlklad\",\n\t\t\t\"old\": \"Kettra Gorlklad\",\n\t\t\t\"preview_distinct\": true,\n\t\t\t\"unit_collision_rejected\": true\n\t\t},\n\t\t\"REPLACE_FIRST\": {\n\t\t\t\"figure_collision_rejected\": true,\n\t\t\t\"new\": \"Akilinda Gorlklad\",\n\t\t\t\"old\": \"Kettra Gorlklad\",\n\t\t\t\"preview_distinct\": true,\n\t\t\t\"unit_collision_rejected\": true\n\t\t}\n\t},\n\t\"result\": \"PASS\"\n}\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "khazalid-test-persistence-check",
+      "snapshot"
+    ],
+    "returncode": 0,
+    "stdout": "Saved native-name snapshot\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "lua",
+      "local sm=require('script-manager');local old=sm.get_active_mods;local mods=old();table.insert(mods,{id='ForthammerLocal'});sm.get_active_mods=function()return mods end;local ok,err=xpcall(function() assert(not reqscript('khazalid-name-pools').install());assert(not reqscript('internal/khazalid-names/pools').entity());assert(not reqscript('internal/khazalid-names/adapter').eligibility()) end,debug.traceback);sm.get_active_mods=old;assert(ok,err);print('PASS native runtime conflict provider model; providers restored')"
+    ],
+    "returncode": 0,
+    "stdout": "PASS native runtime conflict provider model; providers restored\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "lua",
+      "require('gui').simulateInput(dfhack.gui.getCurViewscreen(),'OPTIONS')"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-mod",
+    "command": [
+      "lua",
+      "assert(reqscript('internal/khazalid-names/adapter').eligibility());print('PASS actual standalone eligibility restored')"
+    ],
+    "returncode": 0,
+    "stdout": "PASS actual standalone eligibility restored\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-reload",
+    "command": [
+      "khazalid-test-persistence-check"
+    ],
+    "returncode": 0,
+    "stdout": "PASS 1879 native names identical after save/restart/load, including civilization, government, squad, site, unit, soul, historical figure\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-reload",
+    "command": [
+      "khazalid-test-adapter-check",
+      "reload"
+    ],
+    "returncode": 0,
+    "stdout": "PASS native save/reload site, unit, soul and historical figure names\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-reload",
+    "command": [
+      "khazalid-test-item-persistence",
+      "snapshot"
+    ],
+    "returncode": 0,
+    "stdout": "Saved native weapon facts\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-reload",
+    "command": [
+      "lua",
+      "require('gui').simulateInput(dfhack.gui.getCurViewscreen(),'OPTIONS')"
+    ],
+    "returncode": 0,
+    "stdout": "",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-final",
+    "command": [
+      "khazalid-test-item-persistence"
+    ],
+    "returncode": 0,
+    "stdout": "PASS 8 native weapon facts/descriptions unchanged\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-final",
+    "command": [
+      "khazalid-test-persistence-check"
+    ],
+    "returncode": 0,
+    "stdout": "PASS 1879 native names identical after save/restart/load, including civilization, government, squad, site, unit, soul, historical figure\n",
+    "stderr": ""
+  },
+  {
+    "session": "standalone-final",
+    "command": [
+      "khazalid-test-adapter-check",
+      "reload"
+    ],
+    "returncode": 0,
+    "stdout": "PASS native save/reload site, unit, soul and historical figure names\n",
+    "stderr": ""
+  }
+]

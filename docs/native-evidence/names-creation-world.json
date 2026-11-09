@@ -1,0 +1,83 @@
+{
+  "mode": "world",
+  "objects": [
+    {
+      "category": "civilization",
+      "english": "The Red forge realm",
+      "id": 91,
+      "name": "Zangrungronankor",
+      "native_components": 1
+    },
+    {
+      "category": "government",
+      "english": "The Bright blue anvil",
+      "id": 92,
+      "name": "Skarrenrufgrong",
+      "native_components": 1
+    },
+    {
+      "category": "civilization",
+      "english": "The Ancient mountain oak wood hammer realm",
+      "id": 105,
+      "name": "Wutrothgrundankor",
+      "native_components": 1
+    },
+    {
+      "category": "government",
+      "english": "The Red anvil",
+      "id": 106,
+      "name": "Zangrong",
+      "native_components": 1
+    },
+    {
+      "category": "civilization",
+      "english": "The Realm of the hammer and anvil",
+      "id": 115,
+      "name": "Grundungrongankor",
+      "native_components": 1
+    },
+    {
+      "category": "government",
+      "english": "The Eye and record",
+      "id": 116,
+      "name": "Dokunkron",
+      "native_components": 1
+    },
+    {
+      "category": "government",
+      "english": "The Copper record",
+      "id": 194,
+      "name": "Izorkron",
+      "native_components": 1
+    },
+    {
+      "category": "government",
+      "english": "The Unyielding anvil",
+      "id": 196,
+      "name": "Grimgrong",
+      "native_components": 1
+    },
+    {
+      "category": "government",
+      "english": "The Unyielding record",
+      "id": 214,
+      "name": "Grimkron",
+      "native_components": 1
+    },
+    {
+      "category": "government",
+      "english": "The Red anvil",
+      "id": 234,
+      "name": "Zangrong",
+      "native_components": 1
+    },
+    {
+      "category": "government",
+      "english": "The Stone anvil",
+      "id": 252,
+      "name": "Durazgrong",
+      "native_components": 1
+    }
+  ],
+  "result": "PASS"
+}

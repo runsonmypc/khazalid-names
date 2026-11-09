@@ -1,0 +1,36 @@
+{
+  "existing_locations_unchanged": true,
+  "mode": "locations",
+  "new_reports": [],
+  "objects": [
+    {
+      "category": "tavern",
+      "english": "The Ornamental gold hammer",
+      "id": 0,
+      "name": "Galazgrund",
+      "native_components": 1
+    },
+    {
+      "category": "library",
+      "english": "The Metal chisel",
+      "id": 1,
+      "name": "Azulklinka",
+      "native_components": 1
+    },
+    {
+      "category": "hospital",
+      "english": "The Bright blue pillared vault hewn in rock",
+      "id": 2,
+      "name": "Skarrenrufirkul",
+      "native_components": 1
+    },
+    {
+      "category": "guildhall",
+      "english": "The Bright blue stone carving",
+      "id": 3,
+      "name": "Skarrenrufagrul",
+      "native_components": 1
+    }
+  ],
+  "result": "PASS"
+}

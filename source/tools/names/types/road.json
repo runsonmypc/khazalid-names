@@ -1,0 +1,1340 @@
+{
+  "category": "road",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "symbolic route-name motif; not an assertion about the road or its surroundings"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "symbolic route-name motif; not an assertion about the road or its surroundings"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "symbolic route-name motif; not an assertion about the road or its surroundings"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "symbolic route-name motif; not an assertion about the road or its surroundings"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "symbolic route-name motif; not an assertion about the road or its surroundings"
+    },
+    "karaz": {
+      "gloss": "mountain",
+      "source": "DPG:46",
+      "role": "symbolic route-name motif; not an assertion about the road or its surroundings"
+    },
+    "mingol": {
+      "gloss": "tall lowland watchtower",
+      "source": "DPG:46",
+      "role": "symbolic route-name motif; not an assertion about the road or its surroundings"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "symbolic route-name motif; not an assertion about the road or its surroundings"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "symbolic gateway image; not an actual road gate, fortification, border, ownership claim, or destination"
+    },
+    "kadrin": {
+      "gloss": "mountain pass",
+      "source": "DPG:46",
+      "role": "symbolic landscape image; not an actual pass traversed by the road or a claim of safe passage"
+    },
+    "stromez": {
+      "gloss": "stream",
+      "source": "DPG:47",
+      "role": "symbolic water image; not an actual stream, crossing, route destination, or engineered waterway"
+    },
+    "varn": {
+      "gloss": "mountain lake",
+      "source": "DPG:47",
+      "role": "symbolic landscape image retaining the mountain sense; not an actual lake beside the road or a route destination"
+    },
+    "zorn": {
+      "gloss": "upland plateau",
+      "source": "DPG:47",
+      "role": "symbolic landscape image; selected plateau sense, not an assertion about the actual road elevation, high meadow, or destination"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "nar": {
+      "gloss": "sunrise",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "yar": {
+      "gloss": "sunset",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "hirn": {
+      "gloss": "horn (instrument)",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    },
+    "wutraz": {
+      "gloss": "spear",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "thingaz": {
+      "gloss": "dense forest",
+      "source": "DPG:47",
+      "role": "emblem"
+    },
+    "urbar": {
+      "gloss": "trade",
+      "source": "DPG:47",
+      "role": "commercial activity concept; not a commodity or trade route"
+    },
+    "drin": {
+      "gloss": "road",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "dron": {
+      "gloss": "thunder",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "makaz": {
+      "gloss": "tool",
+      "source": "DPG:46",
+      "role": "selected tool sense, not weapon; no actual equipment is supplied or specified"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "stone-working tool emblem; no actual tool or excavation method is asserted"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "craft or record sign motif; not stock or a required profession"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "karaz"
+      ],
+      "gloss": "black mountain",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "kol",
+        "mingol"
+      ],
+      "gloss": "black tall lowland watchtower",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "kol",
+        "zon"
+      ],
+      "gloss": "black sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "zan",
+        "karaz"
+      ],
+      "gloss": "red mountain",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:47",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "zan",
+        "zon"
+      ],
+      "gloss": "red sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "gorl",
+        "karaz"
+      ],
+      "gloss": "yellow mountain",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "gorl",
+        "mingol"
+      ],
+      "gloss": "yellow tall lowland watchtower",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "gorl",
+        "zon"
+      ],
+      "gloss": "yellow sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "bryn",
+        "karaz"
+      ],
+      "gloss": "shining mountain",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "bryn",
+        "mingol"
+      ],
+      "gloss": "shining tall lowland watchtower",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "bryn",
+        "zon"
+      ],
+      "gloss": "shining sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "karaz"
+      ],
+      "gloss": "bright blue mountain",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "mingol"
+      ],
+      "gloss": "bright blue tall lowland watchtower",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "zon"
+      ],
+      "gloss": "bright blue sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "kol",
+        "kadrin"
+      ],
+      "gloss": "black mountain pass",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "kol",
+        "stromez"
+      ],
+      "gloss": "black stream",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "kol",
+        "varn"
+      ],
+      "gloss": "black mountain lake",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "kol",
+        "zorn"
+      ],
+      "gloss": "black upland plateau",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "zan",
+        "kadrin"
+      ],
+      "gloss": "red mountain pass",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "zan",
+        "stromez"
+      ],
+      "gloss": "red stream",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "zan",
+        "varn"
+      ],
+      "gloss": "red mountain lake",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "zan",
+        "zorn"
+      ],
+      "gloss": "red upland plateau",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "gorl",
+        "kadrin"
+      ],
+      "gloss": "yellow mountain pass",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "gorl",
+        "stromez"
+      ],
+      "gloss": "yellow stream",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "gorl",
+        "varn"
+      ],
+      "gloss": "yellow mountain lake",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "gorl",
+        "zorn"
+      ],
+      "gloss": "yellow upland plateau",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "bryn",
+        "kadrin"
+      ],
+      "gloss": "shining mountain pass",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "bryn",
+        "stromez"
+      ],
+      "gloss": "shining stream",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "bryn",
+        "varn"
+      ],
+      "gloss": "shining mountain lake",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "bryn",
+        "zorn"
+      ],
+      "gloss": "shining upland plateau",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "kadrin"
+      ],
+      "gloss": "bright blue mountain pass",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "stromez"
+      ],
+      "gloss": "bright blue stream",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "varn"
+      ],
+      "gloss": "bright blue mountain lake",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "zorn"
+      ],
+      "gloss": "bright blue upland plateau",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. Colour or shine describes an imagined emblem, not the actual road, water, terrain, gate, or surrounding scenery."
+    },
+    {
+      "parts": [
+        "karaz",
+        "zon"
+      ],
+      "gloss": "mountain sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. The landscape and sun are a paired emblem, without assigning a bearing, sunrise alignment, season, sacred dedication, or route to the named road."
+    },
+    {
+      "parts": [
+        "stromez",
+        "zon"
+      ],
+      "gloss": "stream sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. The landscape and sun are a paired emblem, without assigning a bearing, sunrise alignment, season, sacred dedication, or route to the named road."
+    },
+    {
+      "parts": [
+        "varn",
+        "zon"
+      ],
+      "gloss": "mountain lake sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. The landscape and sun are a paired emblem, without assigning a bearing, sunrise alignment, season, sacred dedication, or route to the named road."
+    },
+    {
+      "parts": [
+        "zorn",
+        "zon"
+      ],
+      "gloss": "upland plateau sun",
+      "sources": [
+        "DPG:18",
+        "DPG:19",
+        "DPG:43",
+        "DPG:47",
+        "WFB8:PDF17"
+      ],
+      "note": "New symbolic road label made from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal road word is supplied. The image does not assert an actual landmark, destination, road material, builder, owner, age, trade connection, historical event or travel safety. The landscape and sun are a paired emblem, without assigning a bearing, sunrise alignment, season, sacred dedication, or route to the named road."
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "zon"
+      ],
+      "gloss": "moonlight and sun",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:47",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un zon]"
+    },
+    {
+      "parts": [
+        "nar",
+        "un",
+        "yar"
+      ],
+      "gloss": "sunrise and sunset",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DSS:105",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[nar un yar]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "hirn"
+      ],
+      "gloss": "fortified gate and musical horn",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un hirn]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "bar"
+      ],
+      "gloss": "eye and fortified gate",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un bar]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "wutraz"
+      ],
+      "gloss": "fortified gate and spear",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:105",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un wutraz]"
+    },
+    {
+      "parts": [
+        "kadrin",
+        "un",
+        "stromez"
+      ],
+      "gloss": "mountain pass and stream",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:47",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kadrin un stromez]"
+    },
+    {
+      "parts": [
+        "kadrin",
+        "un",
+        "varn"
+      ],
+      "gloss": "mountain pass and mountain lake",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:47",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kadrin un varn]"
+    },
+    {
+      "parts": [
+        "karaz",
+        "un",
+        "varn"
+      ],
+      "gloss": "mountain and mountain lake",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:47",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[karaz un varn]"
+    },
+    {
+      "parts": [
+        "karaz",
+        "un",
+        "stromez"
+      ],
+      "gloss": "mountain and stream",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:47",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[karaz un stromez]"
+    },
+    {
+      "parts": [
+        "zorn",
+        "un",
+        "stromez"
+      ],
+      "gloss": "upland plateau and stream",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zorn un stromez]"
+    },
+    {
+      "parts": [
+        "thingaz",
+        "un",
+        "stromez"
+      ],
+      "gloss": "dense forest and stream",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thingaz un stromez]"
+    },
+    {
+      "parts": [
+        "thingaz",
+        "un",
+        "varn"
+      ],
+      "gloss": "dense forest and mountain lake",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thingaz un varn]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "kadrin"
+      ],
+      "gloss": "moonlight and mountain pass",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un kadrin]"
+    },
+    {
+      "parts": [
+        "nar",
+        "un",
+        "kadrin"
+      ],
+      "gloss": "sunrise and mountain pass",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[nar un kadrin]"
+    },
+    {
+      "parts": [
+        "yar",
+        "un",
+        "kadrin"
+      ],
+      "gloss": "sunset and mountain pass",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[yar un kadrin]"
+    },
+    {
+      "parts": [
+        "zon",
+        "un",
+        "kadrin"
+      ],
+      "gloss": "sun and mountain pass",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zon un kadrin]"
+    },
+    {
+      "parts": [
+        "urbar",
+        "un",
+        "drin"
+      ],
+      "gloss": "trade and road",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[urbar un drin]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "drin"
+      ],
+      "gloss": "moonlight road",
+      "sources": [
+        "DSS:103",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "nar",
+        "drin"
+      ],
+      "gloss": "sunrise road",
+      "sources": [
+        "DSS:103",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "yar",
+        "drin"
+      ],
+      "gloss": "sunset road",
+      "sources": [
+        "DSS:105",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "dron",
+        "drin"
+      ],
+      "gloss": "thunder road",
+      "sources": [
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "hirn",
+        "drin"
+      ],
+      "gloss": "musical horn road",
+      "sources": [
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "wutraz",
+        "drin"
+      ],
+      "gloss": "spear road",
+      "sources": [
+        "DSS:105",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "bar",
+        "drin"
+      ],
+      "gloss": "fortified gate road",
+      "sources": [
+        "DPG:44",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "makaz",
+        "drin"
+      ],
+      "gloss": "tool road",
+      "sources": [
+        "DPG:46",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "klinka",
+        "drin"
+      ],
+      "gloss": "chisel road",
+      "sources": [
+        "DPG:46",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "grong",
+        "drin"
+      ],
+      "gloss": "anvil road",
+      "sources": [
+        "DPG:45",
+        "DSS:102",
+        "DPG:18",
+        "DPG:19"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. Travel, landscape or watch imagery in a road label; no destination, orientation, surrounding terrain, construction, historical trade route or safety is asserted. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:18",
+      "section": "Adventuring in the Dwarf Realms / On the Road",
+      "quote": "great roadbuilders",
+      "claim": "Dwarf roadbuilding and trade travel support the target category. The account describes specific ancient roads; their provenance, material and historical importance are not properties of a generated DF road."
+    },
+    {
+      "source": "DPG:19",
+      "section": "The Dwarf Kingdoms / On the Road continued",
+      "quote": "mountain passes",
+      "claim": "Mountain travel and guarded roadside infrastructure provide the context for landscape and watchtower images. Selecting an image is a Forthammer adaptation, not evidence that the named DF road reaches that landmark."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "several meanings",
+      "claim": "Context selects the documented colour senses, not metal composition or blood. Compounds are new labels using source words; no complete road-naming grammar is claimed."
+    },
+    {
+      "source": "DPG:47",
+      "section": "Khazalid Glossary / Ungdrin",
+      "quote": "ancient underground roadway",
+      "claim": "Ungdrin denotes the Underway, not an unrestricted generic road. It is excluded to avoid inventing an ancient road connection or applying an underground word to an ordinary road."
+    },
+    {
+      "source": "WFB8:PDF17",
+      "section": "Dawn of a New Age context (printed p14 / PDF p17)",
+      "quote": "the Dwarfs established new trade routes",
+      "claim": "The army book corroborates Dwarf roadbuilding and trade routes. Generated names do not inherit these routes, their builders or their history."
+    },
+    {
+      "source": "AOE3:Wavemaster Sullandiel",
+      "section": "The Cult of Handrich / Wavemaster Sullandiel Fartrader",
+      "quote": "He served as ambassador to Karaz Bryn",
+      "claim": "Karaz Bryn is an established location, identified as the Silver Pinnacle in Josh Reynolds, Neferata. Native head-first generation must not reuse it; the reversed compact proposal Brynkaraz is separately evaluated."
+    },
+    {
+      "source": "WFBWE2005:The Great Council",
+      "section": "The Great Council, battle account before The Winter of Woe",
+      "quote": "the battle they call Karaz-Zan",
+      "claim": "Karaz-Zan is an attested historical battle name. Exclude the normalized name from native road generation; no generated road inherits that event."
+    },
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary: Bar",
+      "quote": "A fortified gateway or door",
+      "claim": "Bar supplies a gateway emblem in the existing context of guarded road travel. It does not identify a real gate, claim a defended border, confer ownership, or establish a route destination."
+    },
+    {
+      "source": "DPG:46",
+      "section": "Khazalid Glossary: Kadrin",
+      "quote": "Mountain pass",
+      "claim": "Kadrin supplies a mountain-pass emblem, supported by the road-travel context on p19. This is a symbolic label, not a surveyed route through an actual pass or a safety guarantee."
+    },
+    {
+      "source": "DPG:47",
+      "section": "Khazalid Glossary: Stromez, Varn, Zorn, Zon",
+      "quote": "Upland plateau or high meadow",
+      "claim": "Zorn selects the upland-plateau sense. Stromez, Varn and Zon supply stream, mountain lake and sun. Their use as emblems is a composition, not an assertion of real surrounding geography, destination, direction, sunlight, a solar naming custom, or sacred status."
+    },
+    {
+      "source": "DSS:102",
+      "section": "p.102, Khazalid glossary",
+      "quote": "Hirn Horn (instrument)",
+      "claim": "The glossary distinguishes a musical horn from horn material, and attests road and thunder. Selected nouns remain literal word senses inside adapted labels."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Old Dwarf Road",
+    "King's Highway",
+    "Kings Highway",
+    "Montdidier Pass",
+    "Silver Way",
+    "Silver Road",
+    "Mad Dog Pass",
+    "Ungdrin",
+    "Underway",
+    "Ungdrin Ankor",
+    "Zan Mingol",
+    "Karaz Bryn",
+    "Karaz Zan"
+  ]
+}

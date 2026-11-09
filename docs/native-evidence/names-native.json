@@ -1,0 +1,58 @@
+{
+  "global_leaks": 0,
+  "historical": {
+    "invalid": [],
+    "valid": 91
+  },
+  "other_entity_leaks": 0,
+  "samples": {
+    "Figure": {
+      "draws": 2000,
+      "examples": [
+        "Grunna Lokgalazbar",
+        "Brogar Skarrenrufklinka",
+        "Ketil Kolazulgrungron",
+        "Rungni Azulmakaz",
+        "Brogar Gorlkhrum",
+        "Alrika Lokgalazaz",
+        "Nanda Kolgrong",
+        "Heldin Bryngalazbarag"
+      ],
+      "repeats": 39,
+      "unique": 1961
+    },
+    "Site": {
+      "draws": 2000,
+      "examples": [
+        "Skarrenrufmakaz",
+        "Zanazulmakaz",
+        "Bryndurazkron",
+        "Bryngalazkron",
+        "Gorlwutrothgrund",
+        "Gorlruf",
+        "Gorlgrund",
+        "Skarrenrufirkul"
+      ],
+      "repeats": 1699,
+      "unique": 301
+    }
+  },
+  "selectors": [
+    [
+      301,
+      1,
+      206,
+      9,
+      6,
+      6
+    ],
+    [
+      301,
+      1,
+      206,
+      9,
+      6,
+      6
+    ]
+  ]
+}

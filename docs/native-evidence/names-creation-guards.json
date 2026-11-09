@@ -1,0 +1,25 @@
+{
+  "checks": {
+    "cancel_snapshot_model": true,
+    "count_mismatch_rejected": true,
+    "exhaustion_reviewed_duplicate": true,
+    "existing_id_not_initialized": true,
+    "guildhall_initialized": true,
+    "hospital_initialized": true,
+    "ineligible_builder_rejected": true,
+    "invalid_random_rejected": true,
+    "library_initialized": true,
+    "missing_raw_provider_model": true,
+    "multiple_new_objects_rejected": true,
+    "no_new_object": true,
+    "replay_rejected": true,
+    "sequence_changed_rejected": true,
+    "stale_session_rejected": true,
+    "tavern_initialized": true,
+    "temple_excluded": true
+  },
+  "coverage": "Temporary native objects and same-input guard models; actual native UI creation tested separately",
+  "existing_names_unchanged": true,
+  "fixtures_removed": true,
+  "result": "PASS"
+}

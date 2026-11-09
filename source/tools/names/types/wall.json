@@ -1,0 +1,1178 @@
+{
+  "category": "wall",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "symbolic colour; not wall material or a historical event"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "symbolic colour; not bloodshed or a historical event"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "symbolic colour; not gold composition or wealth"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "symbolic appearance; not actual gold, light or magical protection"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "symbolic colour; not the actual appearance of a wall"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "symbolic protective image; does not assert an actual gate"
+    },
+    "mingol": {
+      "gloss": "tall lowland watchtower",
+      "source": "DPG:46",
+      "role": "symbolic protective image; does not assert a tower or the wall location"
+    },
+    "klad": {
+      "gloss": "armour",
+      "source": "DPG:46",
+      "role": "symbolic protective image; does not imply actual armour, material or invincibility"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "material of a symbolic protective image; not wall construction or a resource claim"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "material of a symbolic protective image; not wall construction or a resource claim"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "material of a symbolic protective image; not wall construction or a resource claim"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "material of a symbolic protective image; not wall construction or a resource claim"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "symbolic vigilance image; not surveillance, a garrison, actual terrain or a wall translation"
+    },
+    "und": {
+      "gloss": "watchpost carved into the mountain-side",
+      "source": "DPG:47",
+      "role": "symbolic vigilance image; not surveillance, a garrison, actual terrain or a wall translation"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "hirn": {
+      "gloss": "horn (instrument)",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "wutraz": {
+      "gloss": "spear",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "khrum": {
+      "gloss": "war drum",
+      "source": "DPG:46",
+      "role": "military emblem"
+    },
+    "az": {
+      "gloss": "war axe",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    },
+    "zunthrum": {
+      "gloss": "statues",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "neutral emblem; no sunlight, deity, medical benefit or special power asserted"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "izril": {
+      "gloss": "jewels",
+      "source": "DSS:103",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "kol",
+        "mingol"
+      ],
+      "gloss": "black tall lowland watchtower",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "kol",
+        "klad"
+      ],
+      "gloss": "black armour",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:47",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "zan",
+        "klad"
+      ],
+      "gloss": "red armour",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:47",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "gorl",
+        "mingol"
+      ],
+      "gloss": "yellow tall lowland watchtower",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klad"
+      ],
+      "gloss": "yellow armour",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "bryn",
+        "mingol"
+      ],
+      "gloss": "shining tall lowland watchtower",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klad"
+      ],
+      "gloss": "shining armour",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "mingol"
+      ],
+      "gloss": "bright blue tall lowland watchtower",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klad"
+      ],
+      "gloss": "bright blue armour",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. The image asserts no actual gate, tower, armour, wall material, age, builder, owner, victory, historical event, defensive effectiveness or magical ward."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar"
+      ],
+      "gloss": "stone fortified gate",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "mingol"
+      ],
+      "gloss": "stone tall lowland watchtower",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar"
+      ],
+      "gloss": "metal fortified gate",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "mingol"
+      ],
+      "gloss": "metal tall lowland watchtower",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "klad"
+      ],
+      "gloss": "metal armour",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "bar"
+      ],
+      "gloss": "ornamental gold fortified gate",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "mingol"
+      ],
+      "gloss": "ornamental gold tall lowland watchtower",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klad"
+      ],
+      "gloss": "ornamental gold armour",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "bar"
+      ],
+      "gloss": "fortified gate of ancient mountain oak wood",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:47",
+        "DPG:44",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "mingol"
+      ],
+      "gloss": "tall lowland watchtower of ancient mountain oak wood",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:47",
+        "DPG:46",
+        "WFB8:PDF38"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "kol",
+        "dok"
+      ],
+      "gloss": "black eye",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "dok"
+      ],
+      "gloss": "yellow eye",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "dok"
+      ],
+      "gloss": "shining eye",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "dok"
+      ],
+      "gloss": "bright blue eye",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "dok"
+      ],
+      "gloss": "stone eye",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "dok"
+      ],
+      "gloss": "metal eye",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "dok"
+      ],
+      "gloss": "ornamental gold eye",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "kol",
+        "und"
+      ],
+      "gloss": "black watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "und"
+      ],
+      "gloss": "red watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:47",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "und"
+      ],
+      "gloss": "yellow watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "und"
+      ],
+      "gloss": "shining watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "und"
+      ],
+      "gloss": "bright blue watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:10",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF38",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic wall label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No generic Khazalid word for wall is invented. Colour, material, height and terrain belong only to the proposed protective or vigilance image; no actual wall specification, structure, surveillance, owner, builder, age, historical deed, defensive performance or magical ward is asserted."
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "bar"
+      ],
+      "gloss": "eye and fortified gate",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un bar]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "klad"
+      ],
+      "gloss": "eye and armour",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un klad]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "mingol"
+      ],
+      "gloss": "eye and tall lowland watchtower",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un mingol]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "und"
+      ],
+      "gloss": "eye and watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:47",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un und]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "hirn"
+      ],
+      "gloss": "eye and musical horn",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un hirn]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "klad"
+      ],
+      "gloss": "fortified gate and armour",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un klad]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "hirn"
+      ],
+      "gloss": "fortified gate and musical horn",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un hirn]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "wutraz"
+      ],
+      "gloss": "fortified gate and spear",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:105",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un wutraz]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "khrum"
+      ],
+      "gloss": "fortified gate and war drum",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un khrum]"
+    },
+    {
+      "parts": [
+        "klad",
+        "un",
+        "wutraz"
+      ],
+      "gloss": "armour and spear",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DSS:105",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[klad un wutraz]"
+    },
+    {
+      "parts": [
+        "klad",
+        "un",
+        "hirn"
+      ],
+      "gloss": "armour and musical horn",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[klad un hirn]"
+    },
+    {
+      "parts": [
+        "klad",
+        "un",
+        "az"
+      ],
+      "gloss": "armour and war axe",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[klad un az]"
+    },
+    {
+      "parts": [
+        "mingol",
+        "un",
+        "hirn"
+      ],
+      "gloss": "tall lowland watchtower and musical horn",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[mingol un hirn]"
+    },
+    {
+      "parts": [
+        "und",
+        "un",
+        "hirn"
+      ],
+      "gloss": "watchpost carved into the mountain-side and musical horn",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DSS:102",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[und un hirn]"
+    },
+    {
+      "parts": [
+        "grong",
+        "un",
+        "bar"
+      ],
+      "gloss": "anvil and fortified gate",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grong un bar]"
+    },
+    {
+      "parts": [
+        "grund",
+        "un",
+        "bar"
+      ],
+      "gloss": "hammer and fortified gate",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grund un bar]"
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "un",
+        "bar"
+      ],
+      "gloss": "statues and fortified gate",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zunthrum un bar]"
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "un",
+        "klad"
+      ],
+      "gloss": "statues and armour",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zunthrum un klad]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "dok"
+      ],
+      "gloss": "moonlight and eye",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un dok]"
+    },
+    {
+      "parts": [
+        "zon",
+        "un",
+        "dok"
+      ],
+      "gloss": "sun and eye",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zon un dok]"
+    },
+    {
+      "parts": [
+        "agril",
+        "dok"
+      ],
+      "gloss": "silver eye",
+      "sources": [
+        "DSS:101",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izor",
+        "dok"
+      ],
+      "gloss": "copper eye",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izril",
+        "dok"
+      ],
+      "gloss": "jewels eye",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "WFB8:PDF38",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A watch, defence or craft image, not a literal translation of wall or an assertion of construction, height, guards, equipment, ownership or defensive success. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:10",
+      "section": "The Age of Glory and Pride",
+      "quote": "Dwarf craftsmen built formidable walls",
+      "claim": "Official Dwarf construction includes walls. The passage describes specific works; their builders, age, locations and history are not assigned to a generated DF wall."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Use explicitly selected colour and appearance senses. Combining those words into wall labels is a Forthammer composition, not a claim about an official wall-naming grammar."
+    },
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary / Bar and Bryn",
+      "quote": "Bar A fortified gateway or door",
+      "claim": "Bar supplies a protective gate image; bryn selects the shiny/brilliant sense. Neither asserts that the named wall contains a gate or precious metal."
+    },
+    {
+      "source": "DPG:45",
+      "section": "Khazalid Glossary / Gorl",
+      "quote": "the colour yellow",
+      "claim": "Gorl is used in its colour sense, not its gold sense."
+    },
+    {
+      "source": "DPG:46",
+      "section": "Khazalid Glossary / Klad, Kol, Mingol, Skarrenruf",
+      "quote": "Klad Armour",
+      "claim": "Klad, mingol and bar supply protective images. Kol and skarrenruf supply the black and bright-blue senses. Mingol retains its specific lowland-watchtower meaning; it is not translated as wall."
+    },
+    {
+      "source": "DPG:47",
+      "section": "Khazalid Glossary / Zan",
+      "quote": "Zan Blood, the colour red",
+      "claim": "Only the red-colour sense is selected; no battle, wound or blood sacrifice is invented."
+    },
+    {
+      "source": "WFB8:PDF38",
+      "section": "Master Engineers (printed p35 / PDF p38)",
+      "quote": "stacked stone walls or dug out gun pits",
+      "claim": "The army book corroborates wall-building and defensive engineering. No generated label certifies a Master Engineer, stone construction, successful defence or invulnerability."
+    },
+    {
+      "source": "TT4:Mountain Boyz",
+      "section": "Mountain Boyz / Harboth camp account",
+      "quote": "south of Zan Mingol",
+      "claim": "Zan Mingol is an existing named location and is reserved, including joined and hyphenated forms through normalized filtering."
+    },
+    {
+      "source": "DPG:44",
+      "section": "p.44, Khazalid Glossary: Duraz, Azul and Dok",
+      "quote": "Dok Watch, observe, see, the eye",
+      "claim": "Dok selects the eye as a vigilance image. Duraz and Azul on the same page supply stone and metal as image materials, never wall specifications or a claim of watch personnel."
+    },
+    {
+      "source": "DPG:45",
+      "section": "p.45, Khazalid Glossary: Galaz",
+      "quote": "Galaz Gold of particular ornamental value",
+      "claim": "Ornamental gold can qualify an eye, gate, tower or armour image without claiming a gold-built wall, treasure, invulnerability or prosperity."
+    },
+    {
+      "source": "DPG:47",
+      "section": "p.47, Khazalid Glossary: Und and Wutroth",
+      "quote": "Und A watchpost carved into the mountain-side",
+      "claim": "Und supplies a specifically mountainside-watchpost image; it is not a generic word for wall or tower. Wutroth preserves wood from ancient mountain oak as the material of gate/tower imagery, not the wall or local landscape."
+    },
+    {
+      "source": "AOE1:Unzaled Sky-Bridge",
+      "section": "Of Karak Azgaraz / Unzaled Sky-Bridge and Migdhal Skarrenruf; Loremaster offset 232730",
+      "quote": "Barakdokerinnalad (‘Watchful Eagle Gate’)",
+      "claim": "The named guarded entry gives cultural context for vigilance imagery. Applying an eye or watchpost image to a wall is a new symbolic composition, not a claim about that canonical gateway or actual surveillance."
+    },
+    {
+      "source": "DSS:Karaz-a-Karak",
+      "section": "Chapter 3: Dwarfholds / Karaz-a-Karak",
+      "quote": "Foremost among these is the Durazklad clan",
+      "claim": "Durazklad is the canonical Stone Armour clan associated with Thorgrim Grudgebearer, not a free new compound. Exclude and reserve it instead of granting that identity or its founding story to a wall."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:102",
+      "section": "p.102, Khazalid glossary",
+      "quote": "Hirn Horn (instrument)",
+      "claim": "The glossary distinguishes a musical horn from horn material, and attests road and thunder. Selected nouns remain literal word senses inside adapted labels."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Zan Mingol",
+    "Durazklad"
+  ]
+}

@@ -1,0 +1,1063 @@
+{
+  "category": "tunnel",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "symbolic excavation motif; not a factual claim about the tunnel, its geology or tools"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "symbolic excavation motif; not a factual claim about the tunnel, its geology or tools"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "symbolic excavation motif; not a factual claim about the tunnel, its geology or tools"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "symbolic excavation motif; not a factual claim about the tunnel, its geology or tools"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "symbolic excavation motif; not a factual claim about the tunnel, its geology or tools"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "symbolic excavation motif; not a factual claim about the tunnel, its geology or tools"
+    },
+    "grint": {
+      "gloss": "mining spoil",
+      "source": "DPG:45",
+      "role": "symbolic excavation motif; not a factual claim about the tunnel, its geology or tools"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "symbolic excavation motif; not a factual claim about the tunnel, its geology or tools"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "stone-working tool emblem; no actual tool or excavation method is asserted"
+    },
+    "makaz": {
+      "gloss": "tool",
+      "source": "DPG:46",
+      "role": "selected tool sense, not weapon; no actual equipment is supplied or specified"
+    },
+    "agrul": {
+      "gloss": "stone carving",
+      "source": "DPG:44",
+      "role": "selected carved-stone sense, not the facial lines of an old Dwarf; no carving is installed or historical work claimed"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "material of a symbolic tool; selected metal sense, not reliability or a sturdy Dwarf"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "material of a symbolic tool; full specific wood sense, not the tunnel age, lining or timber provenance"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "kron": {
+      "gloss": "record",
+      "source": "DPG:46",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    },
+    "mizpal": {
+      "gloss": "volcanic glass",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "izril": {
+      "gloss": "jewels",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "kuchungkuchung": {
+      "gloss": "water pump",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "mhornar": {
+      "gloss": "shadow",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "dron": {
+      "gloss": "thunder",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "hirn": {
+      "gloss": "horn (instrument)",
+      "source": "DSS:102",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "duraz"
+      ],
+      "gloss": "black stone",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "kol",
+        "grint"
+      ],
+      "gloss": "black mining spoil",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "zan",
+        "duraz"
+      ],
+      "gloss": "red stone",
+      "sources": [
+        "DPG:43",
+        "DPG:47",
+        "DPG:44",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "zan",
+        "grint"
+      ],
+      "gloss": "red mining spoil",
+      "sources": [
+        "DPG:43",
+        "DPG:47",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "zan",
+        "grund"
+      ],
+      "gloss": "red hammer",
+      "sources": [
+        "DPG:43",
+        "DPG:47",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "gorl",
+        "duraz"
+      ],
+      "gloss": "yellow stone",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grint"
+      ],
+      "gloss": "yellow mining spoil",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grund"
+      ],
+      "gloss": "yellow hammer",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grint"
+      ],
+      "gloss": "shining mining spoil",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grund"
+      ],
+      "gloss": "shining hammer",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "duraz"
+      ],
+      "gloss": "bright blue stone",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grint"
+      ],
+      "gloss": "bright blue mining spoil",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grund"
+      ],
+      "gloss": "bright blue hammer",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. Stone, spoil and hammer are excavation images: they do not assert actual geology, mineral deposits, construction tools, width, headroom, age, builder, ownership, history, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinka"
+      ],
+      "gloss": "black chisel",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "kol",
+        "makaz"
+      ],
+      "gloss": "black tool",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "kol",
+        "agrul"
+      ],
+      "gloss": "black stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinka"
+      ],
+      "gloss": "red chisel",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "zan",
+        "makaz"
+      ],
+      "gloss": "red tool",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "zan",
+        "agrul"
+      ],
+      "gloss": "red stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinka"
+      ],
+      "gloss": "yellow chisel",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "gorl",
+        "makaz"
+      ],
+      "gloss": "yellow tool",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "gorl",
+        "agrul"
+      ],
+      "gloss": "yellow stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinka"
+      ],
+      "gloss": "shining chisel",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "bryn",
+        "makaz"
+      ],
+      "gloss": "shining tool",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "bryn",
+        "agrul"
+      ],
+      "gloss": "shining stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinka"
+      ],
+      "gloss": "bright blue chisel",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "makaz"
+      ],
+      "gloss": "bright blue tool",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "agrul"
+      ],
+      "gloss": "bright blue stone carving",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway."
+    },
+    {
+      "parts": [
+        "azul",
+        "grund"
+      ],
+      "gloss": "metal hammer",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway. The material belongs to the depicted tool, not a claim about the tunnel lining or available resources."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinka"
+      ],
+      "gloss": "metal chisel",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway. The material belongs to the depicted tool, not a claim about the tunnel lining or available resources."
+    },
+    {
+      "parts": [
+        "azul",
+        "makaz"
+      ],
+      "gloss": "metal tool",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway. The material belongs to the depicted tool, not a claim about the tunnel lining or available resources."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "grund"
+      ],
+      "gloss": "wood from ancient mountain oak hammer",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway. The material belongs to the depicted tool, not a claim about the tunnel lining or available resources."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "makaz"
+      ],
+      "gloss": "wood from ancient mountain oak tool",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "WFB8:PDF49"
+      ],
+      "note": "New symbolic Dwarf tunnel label from attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. The stone-working or tool image does not assert actual geology, deposits, equipment, construction method, dimensions, route, destination, age, builder, owner, past event, safety, an existing sign or connection to the ancient Underway. The material belongs to the depicted tool, not a claim about the tunnel lining or available resources."
+    },
+    {
+      "parts": [
+        "duraz",
+        "un",
+        "klinka"
+      ],
+      "gloss": "stone and chisel",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[duraz un klinka]"
+    },
+    {
+      "parts": [
+        "grint",
+        "un",
+        "klinka"
+      ],
+      "gloss": "mining spoil and chisel",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grint un klinka]"
+    },
+    {
+      "parts": [
+        "grint",
+        "un",
+        "grund"
+      ],
+      "gloss": "mining spoil and hammer",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grint un grund]"
+    },
+    {
+      "parts": [
+        "grint",
+        "un",
+        "makaz"
+      ],
+      "gloss": "mining spoil and tool",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grint un makaz]"
+    },
+    {
+      "parts": [
+        "klinka",
+        "un",
+        "agrul"
+      ],
+      "gloss": "chisel and stone carving",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[klinka un agrul]"
+    },
+    {
+      "parts": [
+        "grund",
+        "un",
+        "klinka"
+      ],
+      "gloss": "hammer and chisel",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grund un klinka]"
+    },
+    {
+      "parts": [
+        "makaz",
+        "un",
+        "kron"
+      ],
+      "gloss": "tool and record",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[makaz un kron]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "klinka"
+      ],
+      "gloss": "record and chisel",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un klinka]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "klinka"
+      ],
+      "gloss": "eye and chisel",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un klinka]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "makaz"
+      ],
+      "gloss": "eye and tool",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un makaz]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "duraz"
+      ],
+      "gloss": "eye and stone",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un duraz]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "grint"
+      ],
+      "gloss": "eye and mining spoil",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:45",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un grint]"
+    },
+    {
+      "parts": [
+        "mizpal",
+        "un",
+        "klinka"
+      ],
+      "gloss": "volcanic glass and chisel",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[mizpal un klinka]"
+    },
+    {
+      "parts": [
+        "izril",
+        "un",
+        "klinka"
+      ],
+      "gloss": "jewels and chisel",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[izril un klinka]"
+    },
+    {
+      "parts": [
+        "izor",
+        "un",
+        "klinka"
+      ],
+      "gloss": "copper and chisel",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[izor un klinka]"
+    },
+    {
+      "parts": [
+        "agril",
+        "un",
+        "klinka"
+      ],
+      "gloss": "silver and chisel",
+      "sources": [
+        "DSS:101",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[agril un klinka]"
+    },
+    {
+      "parts": [
+        "kuchungkuchung",
+        "un",
+        "makaz"
+      ],
+      "gloss": "water pump and tool",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kuchungkuchung un makaz]"
+    },
+    {
+      "parts": [
+        "kuchungkuchung",
+        "un",
+        "grint"
+      ],
+      "gloss": "water pump and mining spoil",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:45",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kuchungkuchung un grint]"
+    },
+    {
+      "parts": [
+        "mhornar",
+        "un",
+        "duraz"
+      ],
+      "gloss": "shadow and stone",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[mhornar un duraz]"
+    },
+    {
+      "parts": [
+        "mhornar",
+        "un",
+        "dok"
+      ],
+      "gloss": "shadow and eye",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[mhornar un dok]"
+    },
+    {
+      "parts": [
+        "mhornar",
+        "un",
+        "klinka"
+      ],
+      "gloss": "shadow and chisel",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[mhornar un klinka]"
+    },
+    {
+      "parts": [
+        "dron",
+        "un",
+        "grund"
+      ],
+      "gloss": "thunder and hammer",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:45",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dron un grund]"
+    },
+    {
+      "parts": [
+        "hirn",
+        "un",
+        "makaz"
+      ],
+      "gloss": "musical horn and tool",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[hirn un makaz]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "duraz"
+      ],
+      "gloss": "record and stone",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF49",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. An excavation, inspection or subterranean image, not a claim about geology, ore, tools, dimensions, pumping equipment, miners, safety or ancient Underway connections. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un duraz]"
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Context selects the documented colour, stone and tool senses. New symbolic combinations are a Forthammer naming adaptation; no full tunnel-naming grammar is claimed."
+    },
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary / Duraz; Duk",
+      "quote": "Low, narrow tunnel",
+      "claim": "Duk carries size constraints and is not a safe generic word for every tunnel. Duraz instead supplies a symbolic stone image without reporting actual geology."
+    },
+    {
+      "source": "DPG:45",
+      "section": "Khazalid Glossary / Grint; Grund; Girt",
+      "quote": "Waste rock or spoil left by miners’ excavations",
+      "claim": "Grint supplies an explicitly excavation-related symbolic image. Grund is hammer. Girt is excluded because it asserts a broad tunnel with plenty of headroom."
+    },
+    {
+      "source": "DPG:47",
+      "section": "Khazalid Glossary / Ungdrin",
+      "quote": "the ancient underground roadway",
+      "claim": "Ungdrin names the Underway and must not turn a newly dug generic DF tunnel into an ancient route. It is excluded along with inherited Underway history."
+    },
+    {
+      "source": "WFB8:PDF49",
+      "section": "Miners (printed p46 / PDF p49)",
+      "quote": "tirelessly wield pick, hammer and shovel",
+      "claim": "Dwarf tunnelling with excavation tools grounds the hammer image. The passage also describes cutting new tunnels, so a new tunnel does not need an invented ancient origin."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "inscribed them with a knife or chisel",
+      "claim": "Work on hard materials grounds the chisel and carved-stone images. Combining these with a selected appearance, or depicting a tool in a named material, is a new symbolic label; it supplies no equipment, decoration or construction history."
+    },
+    {
+      "source": "DPG:40",
+      "section": "Clan Names",
+      "quote": "clan name of Stonehammer",
+      "claim": "Durazgrund is explicitly a canonical clan identity and is reserved. Its narrated ancestral weapon and deeds cannot justify a generated tunnel name."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:102",
+      "section": "p.102, Khazalid glossary",
+      "quote": "Hirn Horn (instrument)",
+      "claim": "The glossary distinguishes a musical horn from horn material, and attests road and thunder. Selected nouns remain literal word senses inside adapted labels."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    }
+  ],
+  "reserved": [
+    "Kolgrund",
+    "Ungdrin",
+    "Ungdrin Ankor",
+    "Underway",
+    "Great Underway",
+    "Brynduraz",
+    "Durazgrund"
+  ]
+}

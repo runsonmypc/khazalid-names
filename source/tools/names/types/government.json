@@ -1,0 +1,1246 @@
+{
+  "category": "government",
+  "roots": {
+    "karak": {
+      "gloss": "enduring",
+      "source": "DPG:46",
+      "role": "aspirational institutional motif; not proof of an ancient government"
+    },
+    "grim": {
+      "gloss": "unyielding",
+      "source": "DPG:45",
+      "role": "aspirational institutional motif; not a claim of victories or legal authority"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "symbolic stone motif; not the actual material of a government building"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "symbolic appearance; selected shiny/brilliant sense, not a claim to gold or wealth"
+    },
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "symbolic colour; not a claim of mourning, a historical event, or black-stone property"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "symbolic protective motif; does not assert an actual gate or rename a site"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "symbolic craft motif; does not establish a guild or name an actual anvil"
+    },
+    "kron": {
+      "gloss": "record",
+      "source": "DPG:46",
+      "role": "symbolic record-keeping motif; does not invent a book, deed, debt, law, or ancestry"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "symbolic colour; not blood, a battle, victory, or historical event"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "symbolic colour; not actual gold, wealth, or royal standing"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "symbolic colour; not the physical sky or a place of origin"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "material of an imagined emblem; not actual property, dependable performance, or a sturdy Dwarf"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "material of an imagined emblem; not actual wealth, tribute, valuable holdings, or status"
+    },
+    "khaz": {
+      "gloss": "underground hall",
+      "source": "DPG:46",
+      "role": "architectural emblem; not an actual meeting room, an office, a territory, or an owned hall"
+    },
+    "irkul": {
+      "gloss": "pillared vault hewn in rock",
+      "source": "DPG:46",
+      "role": "architectural emblem with its full attested sense; not an actual archive, treasury, official chamber, or property"
+    },
+    "thrynaz": {
+      "gloss": "laws",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    },
+    "makaz": {
+      "gloss": "tool",
+      "source": "DPG:46",
+      "role": "selected tool sense, not weapon; no actual equipment is supplied or specified"
+    },
+    "urbar": {
+      "gloss": "trade",
+      "source": "DPG:47",
+      "role": "commercial activity concept; not a commodity or trade route"
+    },
+    "ori": {
+      "gloss": "work",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zaraz": {
+      "gloss": "gift",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "agrul": {
+      "gloss": "stone carving",
+      "source": "DPG:44",
+      "role": "selected carved-stone sense, not the facial lines of an old Dwarf; no carving is installed or historical work claimed"
+    },
+    "klinkarun": {
+      "gloss": "common runes",
+      "source": "DPG:46",
+      "role": "symbolic alphabetic-writing motif; not magical runes; spelling follows the glossary entry"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "neutral emblem; no sunlight, deity, medical benefit or special power asserted"
+    },
+    "zunthrum": {
+      "gloss": "statues",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "izril": {
+      "gloss": "jewels",
+      "source": "DSS:103",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "karak",
+        "bar"
+      ],
+      "gloss": "enduring fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "karak",
+        "kron"
+      ],
+      "gloss": "enduring record",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46",
+        "DPG:35"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "grim",
+        "grong"
+      ],
+      "gloss": "unyielding anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "grim",
+        "kron"
+      ],
+      "gloss": "unyielding record",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:35"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar"
+      ],
+      "gloss": "stone fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grong"
+      ],
+      "gloss": "stone anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "duraz",
+        "kron"
+      ],
+      "gloss": "stone record",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:35"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grong"
+      ],
+      "gloss": "shining anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "bryn",
+        "kron"
+      ],
+      "gloss": "shining record",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "DPG:35"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "grong"
+      ],
+      "gloss": "black anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "kol",
+        "kron"
+      ],
+      "gloss": "black record",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46",
+        "DPG:35"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "grong"
+      ],
+      "gloss": "red anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "zan",
+        "kron"
+      ],
+      "gloss": "red record",
+      "sources": [
+        "DPG:23",
+        "DPG:35",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grong"
+      ],
+      "gloss": "yellow anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "gorl",
+        "kron"
+      ],
+      "gloss": "yellow record",
+      "sources": [
+        "DPG:23",
+        "DPG:35",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grong"
+      ],
+      "gloss": "bright blue anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "kron"
+      ],
+      "gloss": "bright blue record",
+      "sources": [
+        "DPG:23",
+        "DPG:35",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar"
+      ],
+      "gloss": "metal fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. Material belongs to the imagined emblem and does not assign materials to actual objects, promise wealth, or grant status."
+    },
+    {
+      "parts": [
+        "azul",
+        "grong"
+      ],
+      "gloss": "metal anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. Material belongs to the imagined emblem and does not assign materials to actual objects, promise wealth, or grant status."
+    },
+    {
+      "parts": [
+        "azul",
+        "kron"
+      ],
+      "gloss": "metal record",
+      "sources": [
+        "DPG:23",
+        "DPG:35",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. Material belongs to the imagined emblem and does not assign materials to actual objects, promise wealth, or grant status."
+    },
+    {
+      "parts": [
+        "galaz",
+        "bar"
+      ],
+      "gloss": "ornamental gold fortified gate",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. Material belongs to the imagined emblem and does not assign materials to actual objects, promise wealth, or grant status."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grong"
+      ],
+      "gloss": "ornamental gold anvil",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:45"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. Material belongs to the imagined emblem and does not assign materials to actual objects, promise wealth, or grant status."
+    },
+    {
+      "parts": [
+        "galaz",
+        "kron"
+      ],
+      "gloss": "ornamental gold record",
+      "sources": [
+        "DPG:23",
+        "DPG:35",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. Material belongs to the imagined emblem and does not assign materials to actual objects, promise wealth, or grant status."
+    },
+    {
+      "parts": [
+        "karak",
+        "khaz"
+      ],
+      "gloss": "enduring underground hall",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices. Enduring or unyielding is an aspiration for the emblem, not a report of institutional age, legal authority, or past success."
+    },
+    {
+      "parts": [
+        "karak",
+        "irkul"
+      ],
+      "gloss": "enduring pillared vault hewn in rock",
+      "sources": [
+        "DPG:23",
+        "DPG:34",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices. Enduring or unyielding is an aspiration for the emblem, not a report of institutional age, legal authority, or past success."
+    },
+    {
+      "parts": [
+        "grim",
+        "khaz"
+      ],
+      "gloss": "unyielding underground hall",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices. Enduring or unyielding is an aspiration for the emblem, not a report of institutional age, legal authority, or past success."
+    },
+    {
+      "parts": [
+        "grim",
+        "irkul"
+      ],
+      "gloss": "unyielding pillared vault hewn in rock",
+      "sources": [
+        "DPG:23",
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices. Enduring or unyielding is an aspiration for the emblem, not a report of institutional age, legal authority, or past success."
+    },
+    {
+      "parts": [
+        "bryn",
+        "khaz"
+      ],
+      "gloss": "shining underground hall",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "bryn",
+        "irkul"
+      ],
+      "gloss": "shining pillared vault hewn in rock",
+      "sources": [
+        "DPG:23",
+        "DPG:34",
+        "DPG:43",
+        "DPG:44",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "kol",
+        "khaz"
+      ],
+      "gloss": "black underground hall",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "kol",
+        "irkul"
+      ],
+      "gloss": "black pillared vault hewn in rock",
+      "sources": [
+        "DPG:23",
+        "DPG:34",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "zan",
+        "khaz"
+      ],
+      "gloss": "red underground hall",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "zan",
+        "irkul"
+      ],
+      "gloss": "red pillared vault hewn in rock",
+      "sources": [
+        "DPG:23",
+        "DPG:34",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "gorl",
+        "khaz"
+      ],
+      "gloss": "yellow underground hall",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "gorl",
+        "irkul"
+      ],
+      "gloss": "yellow pillared vault hewn in rock",
+      "sources": [
+        "DPG:23",
+        "DPG:34",
+        "DPG:43",
+        "DPG:45",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "khaz"
+      ],
+      "gloss": "bright blue underground hall",
+      "sources": [
+        "DPG:23",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "irkul"
+      ],
+      "gloss": "bright blue pillared vault hewn in rock",
+      "sources": [
+        "DPG:23",
+        "DPG:34",
+        "DPG:43",
+        "DPG:46"
+      ],
+      "note": "New symbolic label for an actual DF site government, using attested words. Not an attested constitutional title or a translation of council; it asserts no ruler, dynasty, council membership, ownership, oath, achievement or history. The hall or vault is an architectural emblem, not a claim about actual meeting rooms, treasury, archive, territory, building geometry, or institutional offices."
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "un",
+        "kron"
+      ],
+      "gloss": "laws and record",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrynaz un kron]"
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "un",
+        "bar"
+      ],
+      "gloss": "laws and fortified gate",
+      "sources": [
+        "DSS:104",
+        "DPG:44",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrynaz un bar]"
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "un",
+        "dok"
+      ],
+      "gloss": "laws and eye",
+      "sources": [
+        "DSS:104",
+        "DPG:44",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrynaz un dok]"
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "un",
+        "makaz"
+      ],
+      "gloss": "laws and tool",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrynaz un makaz]"
+    },
+    {
+      "parts": [
+        "urbar",
+        "un",
+        "kron"
+      ],
+      "gloss": "trade and record",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[urbar un kron]"
+    },
+    {
+      "parts": [
+        "ori",
+        "un",
+        "kron"
+      ],
+      "gloss": "work and record",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[ori un kron]"
+    },
+    {
+      "parts": [
+        "zaraz",
+        "un",
+        "kron"
+      ],
+      "gloss": "gift and record",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zaraz un kron]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "kron"
+      ],
+      "gloss": "eye and record",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un kron]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "bar"
+      ],
+      "gloss": "record and fortified gate",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un bar]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "agrul"
+      ],
+      "gloss": "record and stone carving",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un agrul]"
+    },
+    {
+      "parts": [
+        "kron",
+        "un",
+        "klinkarun"
+      ],
+      "gloss": "record and common runes",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[kron un klinkarun]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "bar"
+      ],
+      "gloss": "eye and fortified gate",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un bar]"
+    },
+    {
+      "parts": [
+        "grund",
+        "un",
+        "grong"
+      ],
+      "gloss": "hammer and anvil",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grund un grong]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "zon"
+      ],
+      "gloss": "moonlight and sun",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:47",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un zon]"
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "un",
+        "kron"
+      ],
+      "gloss": "statues and record",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zunthrum un kron]"
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "un",
+        "bar"
+      ],
+      "gloss": "statues and fortified gate",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:44",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zunthrum un bar]"
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "un",
+        "ori"
+      ],
+      "gloss": "laws and work",
+      "sources": [
+        "DSS:104",
+        "DSS:103",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrynaz un ori]"
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "kron"
+      ],
+      "gloss": "laws record",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "khaz"
+      ],
+      "gloss": "underground hall of laws",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "irkul"
+      ],
+      "gloss": "pillared vault of laws hewn in rock",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "agril",
+        "kron"
+      ],
+      "gloss": "silver record",
+      "sources": [
+        "DSS:101",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izor",
+        "kron"
+      ],
+      "gloss": "copper record",
+      "sources": [
+        "DSS:103",
+        "DPG:46",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izril",
+        "dok"
+      ],
+      "gloss": "jewels eye",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "DPG:35",
+        "DPG:43"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A civic emblem using laws, records, observation or craft. It does not establish an actual charter, law, debt, ruler, dynasty, jurisdiction or historical deed. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:23",
+      "section": "The Dwarf Kingdoms / Council of Elders",
+      "quote": "he is also obliged to consult with a Council of Elders",
+      "claim": "Official local government includes rulers and advisers. Naming an actual DF government is separate from naming its physical site or parent civilization; this does not confer Warhammer rank or create those offices."
+    },
+    {
+      "source": "DPG:35",
+      "section": "Book of Debt",
+      "quote": "Clan Elders are responsible for updating",
+      "claim": "Record-keeping is an attested duty of elders. Kron is a symbolic institutional motif; the generator creates no debt, ancestor record, promise, or real book."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Every gloss selects an attested sense. These labels and their institutional use are new combinations, not published government names or a reconstruction of complete Khazalid grammar."
+    },
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary",
+      "quote": "Bar A fortified gateway or door",
+      "claim": "Bar supplies a protective gate motif. Duraz and bryn supply stone and shining motifs; these do not imply actual buildings, materials or wealth."
+    },
+    {
+      "source": "DPG:45",
+      "section": "Khazalid Glossary",
+      "quote": "Grong Anvil",
+      "claim": "Grong supplies the craft motif; grim selects the unyielding sense. Neither word confers guild standing or achievements."
+    },
+    {
+      "source": "DPG:46",
+      "section": "Khazalid Glossary",
+      "quote": "Kron Book, record or history",
+      "claim": "Select the record sense; karak is enduring and kol selects the black-colour sense. No event or institutional age is generated."
+    },
+    {
+      "source": "WFB8:PDF30",
+      "section": "Clans and Guilds / Clan Hierarchy",
+      "quote": "At the apex of a hold are clans with royal ties",
+      "claim": "Rank and legitimacy depend on real social relationships. Exclude arbitrary king, ancestor, royal-clan and council-membership assertions from government labels."
+    },
+    {
+      "source": "DSS:Zhufbar Communications",
+      "section": "Zhufbar / Communications, Loremaster offset 112299",
+      "quote": "the Grimbar Gate guards the opening to the Underway",
+      "claim": "Reserve Grimbar, which is an actual named gate; do not recycle its identity for a generated government."
+    },
+    {
+      "source": "WFB7DOC:Dwarf fortresses",
+      "section": "Dwarf fortresses passage, Loremaster offset 59685",
+      "quote": "The defenders of Karak Grong",
+      "claim": "Reserve Karak Grong and its joined spelling because the compound is an existing hold identity."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "hard materials (wood, metal, and stone)",
+      "claim": "Material-record imagery is grounded in the description of Dwarf writing on hard materials and metal scrolls. These names do not generate records or give a government ownership of such objects."
+    },
+    {
+      "source": "DPG:34",
+      "section": "Book of Remembrance",
+      "quote": "secured underground vaults",
+      "claim": "Underground vaults are associated with Dwarf book storage. This supplies context for an architectural emblem alongside government record-keeping, without granting archives, a treasury, a temple connection, contents, or actual vaults."
+    },
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary: Azul",
+      "quote": "Metal of any kind",
+      "claim": "Azul selects metal as an imagined emblem material, not dependable conduct, official standing, or an actual owned asset."
+    },
+    {
+      "source": "DPG:45",
+      "section": "Khazalid Glossary: Galaz, Gorl",
+      "quote": "Gold of particular ornamental value",
+      "claim": "Galaz supplies ornamental-gold imagery while Gorl selects the separate yellow sense. Neither establishes actual wealth, tribute, rank, or gold-bearing property."
+    },
+    {
+      "source": "DPG:46",
+      "section": "Khazalid Glossary: Khaz, Irkul, Skarrenruf",
+      "quote": "Pillared vault hewn in rock",
+      "claim": "Khaz and Irkul provide underground-hall and pillared-vault emblems. Skarrenruf selects bright blue. All are symbolic labels, not local architecture, a constitutional office, or a new translation of council."
+    },
+    {
+      "source": "DPG:47",
+      "section": "Khazalid Glossary: Zan",
+      "quote": "Blood, the colour red",
+      "claim": "Only the red-colour sense is selected. The label does not record violence, a sacrifice, victory, or past event."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Kolgrund",
+    "Zangorog",
+    "Gorlaz",
+    "Kolaz",
+    "Zandok",
+    "Grimbar",
+    "Grimbar Gate",
+    "Karak Grong",
+    "Karakgrong",
+    "Karaz Ankor",
+    "Throne of Power"
+  ]
+}

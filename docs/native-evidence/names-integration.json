@@ -1,0 +1,9 @@
+{
+  "batch_cpu_seconds": 0.101,
+  "existing_names_unchanged": true,
+  "idempotent_installs": 5,
+  "inactive_mod_provider_guard": true,
+  "nested_failure_cleanup": true,
+  "result": "PASS",
+  "unique_person_batch": 100
+}

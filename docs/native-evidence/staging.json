@@ -1,0 +1,23 @@
+{
+  "runtime_files": {
+    "info.txt": true,
+    "objects/entity_khazalid_names.txt": true,
+    "objects/language_khazalid_names.txt": true,
+    "scripts_modactive/gui/khazalid-names.lua": true,
+    "scripts_modactive/internal/khazalid-names/adapter.lua": true,
+    "scripts_modactive/internal/khazalid-names/artifact-facts.lua": true,
+    "scripts_modactive/internal/khazalid-names/artifact-fit.lua": true,
+    "scripts_modactive/internal/khazalid-names/core.lua": true,
+    "scripts_modactive/internal/khazalid-names/creation.lua": true,
+    "scripts_modactive/internal/khazalid-names/data.lua": true,
+    "scripts_modactive/internal/khazalid-names/native.lua": true,
+    "scripts_modactive/internal/khazalid-names/pools.lua": true,
+    "scripts_modactive/internal/khazalid-names/random.lua": true,
+    "scripts_modactive/internal/khazalid-names/targets.lua": true,
+    "scripts_modactive/internal/khazalid-names/variety.lua": true,
+    "scripts_modactive/khazalid-name-pools.lua": true,
+    "scripts_modactive/khazalid-names-overlay.lua": true,
+    "scripts_modactive/khazalid-names.lua": true
+  },
+  "passed": true
+}

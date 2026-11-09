@@ -1,0 +1,58 @@
+{
+  "accepted": {
+    "current_name_excluded": true,
+    "description": "Angazdrakkmakaz, Ironwork dragon weapon or tool (Pick)",
+    "linkage_preserved": true,
+    "name": "Angazdrakkmakaz",
+    "physical_description": "(\u00abiron pick\u00bb)",
+    "physical_state_preserved": true,
+    "replay_rejected": true
+  },
+  "alternative_listing": {
+    "choices": 363,
+    "cpu_seconds": 0.31699999999998,
+    "iterations": 50,
+    "name_unchanged": true
+  },
+  "assertions": 431,
+  "carving_fit": {
+    "explanation": "Fits this item: body material: stone; item type: statue. Other imagery in the title is symbolic.",
+    "name": "Durazzunthrum"
+  },
+  "cleanup": "All temporary native records/images/references removed; borrowed items restored.",
+  "depicted_fit": {
+    "explanation": "Fits this item: decoration depicts a dragon; body material: metal; item type: weapon. Other imagery in the title is symbolic.",
+    "name": "Drakkazulmakaz",
+    "score": 7
+  },
+  "guards": {
+    "body_material_changed": true,
+    "complete_alternatives_and_stale_list": true,
+    "decoration_material_changed": true,
+    "depicted_count_changed": true,
+    "depicted_creature_changed": true,
+    "direct_incompatible_type_and_material_rejected": true,
+    "forged_metadata_canonicalized": true,
+    "image_reference_changed": true,
+    "linked_item_replaced": true,
+    "new_collision": true,
+    "proposal_metadata_isolated": true,
+    "stone_carving_material_changed": true,
+    "weapon_subtype_changed": true
+  },
+  "gui": {
+    "assertions": 20,
+    "closing_list_preserves_name": true,
+    "decline_returns_next": true,
+    "lower_tier_accepted": true,
+    "method": "Actual DFHack widgets and production callbacks; synthetic artifact fixture; no simulated elapsed frames.",
+    "pause_true_and_false_preserved": true,
+    "result": "PASS"
+  },
+  "initial_fit": {
+    "explanation": "Fits this item: body material: metal; item type: weapon. Other imagery in the title is symbolic.",
+    "name": "Azulmakaz",
+    "score": 4
+  },
+  "result": "PASS"
+}

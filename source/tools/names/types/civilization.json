@@ -1,0 +1,1276 @@
+{
+  "category": "civilization",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "symbolic polity motif; selected colour or appearance sense"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "symbolic polity motif; selected colour or appearance sense"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "symbolic polity motif; selected colour or appearance sense"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "symbolic polity motif; selected colour or appearance sense"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "symbolic polity motif; selected colour or appearance sense"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "symbolic craft motif; no actual item or equipment claim"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "symbolic craft motif; no actual item or equipment claim"
+    },
+    "bar": {
+      "gloss": "fortified gateway",
+      "source": "DPG:44",
+      "role": "symbolic fortification motif; no claim about an actual gate"
+    },
+    "ankor": {
+      "gloss": "realm",
+      "source": "DPG:44",
+      "role": "polity descriptor; not a translation of king, dynasty, or empire"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "symbolic polity material or craft motif; no actual resource, occupation or ownership claim"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "symbolic polity material or craft motif; no actual resource, occupation or ownership claim"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "symbolic polity material or craft motif; no actual resource, occupation or ownership claim"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "symbolic polity material or craft motif; no actual resource, occupation or ownership claim"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "symbolic polity material or craft motif; no actual resource, occupation or ownership claim"
+    },
+    "grungron": {
+      "gloss": "forge",
+      "source": "DPG:45",
+      "role": "symbolic polity material or craft motif; no actual resource, occupation or ownership claim"
+    },
+    "hirn": {
+      "gloss": "horn (instrument)",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "drakk": {
+      "gloss": "dragon",
+      "source": "DPG:44",
+      "role": "emblem"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "neutral emblem; no sunlight, deity, medical benefit or special power asserted"
+    },
+    "kron": {
+      "gloss": "record",
+      "source": "DPG:46",
+      "role": "craft or record sign motif; not stock or a required profession"
+    },
+    "agrul": {
+      "gloss": "stone carving",
+      "source": "DPG:44",
+      "role": "selected carved-stone sense, not the facial lines of an old Dwarf; no carving is installed or historical work claimed"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "symbolic image; no actual object, geography, construction, ownership or history is asserted"
+    },
+    "wutraz": {
+      "gloss": "spear",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "izril": {
+      "gloss": "jewels",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zunthrum": {
+      "gloss": "statues",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "thrynaz": {
+      "gloss": "laws",
+      "source": "DSS:104",
+      "role": "emblem"
+    },
+    "ori": {
+      "gloss": "work",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "khrum": {
+      "gloss": "war drum",
+      "source": "DPG:46",
+      "role": "military emblem"
+    },
+    "az": {
+      "gloss": "war axe",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "klad": {
+      "gloss": "armour",
+      "source": "DPG:46",
+      "role": "symbolic protective image; does not imply actual armour, material or invincibility"
+    },
+    "urbar": {
+      "gloss": "trade",
+      "source": "DPG:47",
+      "role": "commercial activity concept; not a commodity or trade route"
+    },
+    "makaz": {
+      "gloss": "tool",
+      "source": "DPG:46",
+      "role": "selected tool sense, not weapon; no actual equipment is supplied or specified"
+    },
+    "zharr": {
+      "gloss": "fire",
+      "source": "DPG:47",
+      "role": "motif"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "black anvil realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "black fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "red anvil realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:47",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "grund",
+        "ankor"
+      ],
+      "gloss": "red hammer realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:47",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "red fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "yellow anvil realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grund",
+        "ankor"
+      ],
+      "gloss": "yellow hammer realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "yellow fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "shining anvil realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grund",
+        "ankor"
+      ],
+      "gloss": "shining hammer realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "shining fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "bright blue anvil realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grund",
+        "ankor"
+      ],
+      "gloss": "bright blue hammer realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "DPG:46",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "bright blue fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No ruler, clan membership, ancestor, conquest, age, territory, actual emblem, owned object, or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "stone anvil realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "stone fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "metal anvil realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "grund",
+        "ankor"
+      ],
+      "gloss": "metal hammer realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "metal fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "ornamental gold anvil realm",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grund",
+        "ankor"
+      ],
+      "gloss": "ornamental gold hammer realm",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "ornamental gold fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "grund",
+        "ankor"
+      ],
+      "gloss": "ancient mountain oak wood hammer realm",
+      "sources": [
+        "DPG:43",
+        "DPG:47",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "ancient mountain oak wood fortified gateway realm",
+      "sources": [
+        "DPG:43",
+        "DPG:47",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinka",
+        "ankor"
+      ],
+      "gloss": "black chisel realm",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinka",
+        "ankor"
+      ],
+      "gloss": "red chisel realm",
+      "sources": [
+        "DPG:43",
+        "DPG:47",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinka",
+        "ankor"
+      ],
+      "gloss": "yellow chisel realm",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinka",
+        "ankor"
+      ],
+      "gloss": "shining chisel realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinka",
+        "ankor"
+      ],
+      "gloss": "bright blue chisel realm",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "klinka",
+        "ankor"
+      ],
+      "gloss": "stone chisel realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinka",
+        "ankor"
+      ],
+      "gloss": "metal chisel realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:46",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klinka",
+        "ankor"
+      ],
+      "gloss": "ornamental gold chisel realm",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "kol",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "black forge realm",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "zan",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "red forge realm",
+      "sources": [
+        "DPG:43",
+        "DPG:47",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "yellow forge realm",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "shining forge realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "bright blue forge realm",
+      "sources": [
+        "DPG:43",
+        "DPG:46",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "stone forge realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "azul",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "metal forge realm",
+      "sources": [
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "ornamental gold forge realm",
+      "sources": [
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41",
+        "WFB8:PDF9"
+      ],
+      "note": "New compound from attested Khazalid words, using a symbolic material, craft or fortification motif as a polity label. Component reading only; the concatenation is a Forthammer composition, not a canonical name or certified grammatical translation. No territory, resource deposit, wealth, owned object, actual emblem, occupation, ruler, ancestor, clan membership, conquest, age or divine dedication is asserted."
+    },
+    {
+      "parts": [
+        "hirn",
+        "ankor"
+      ],
+      "gloss": "realm of the musical horn",
+      "sources": [
+        "DSS:102",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "drakk",
+        "ankor"
+      ],
+      "gloss": "realm of the dragon",
+      "sources": [
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "lhune",
+        "ankor"
+      ],
+      "gloss": "realm of moonlight",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "zon",
+        "ankor"
+      ],
+      "gloss": "realm of the sun",
+      "sources": [
+        "DPG:47",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "kron",
+        "ankor"
+      ],
+      "gloss": "realm of the record",
+      "sources": [
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "agrul",
+        "ankor"
+      ],
+      "gloss": "realm of the stone carving",
+      "sources": [
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "dok",
+        "ankor"
+      ],
+      "gloss": "realm of the eye",
+      "sources": [
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "wutraz",
+        "ankor"
+      ],
+      "gloss": "realm of the spear",
+      "sources": [
+        "DSS:105",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "izril",
+        "ankor"
+      ],
+      "gloss": "realm of jewels",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "ankor"
+      ],
+      "gloss": "realm of statues",
+      "sources": [
+        "DSS:105",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "ankor"
+      ],
+      "gloss": "realm of laws",
+      "sources": [
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "ori",
+        "ankor"
+      ],
+      "gloss": "realm of work",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history."
+    },
+    {
+      "parts": [
+        "grund",
+        "un",
+        "grong",
+        "ankor"
+      ],
+      "gloss": "realm of the hammer and anvil",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grund un grong] ankor"
+    },
+    {
+      "parts": [
+        "klinka",
+        "un",
+        "agrul",
+        "ankor"
+      ],
+      "gloss": "realm of the chisel and stone carving",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[klinka un agrul] ankor"
+    },
+    {
+      "parts": [
+        "khrum",
+        "un",
+        "hirn",
+        "ankor"
+      ],
+      "gloss": "realm of the war drum and musical horn",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DSS:102",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[khrum un hirn] ankor"
+    },
+    {
+      "parts": [
+        "az",
+        "un",
+        "klad",
+        "ankor"
+      ],
+      "gloss": "realm of the war axe and armour",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:46",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[az un klad] ankor"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "bar",
+        "ankor"
+      ],
+      "gloss": "realm of the eye and fortified gateway",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un bar] ankor"
+    },
+    {
+      "parts": [
+        "thrynaz",
+        "un",
+        "kron",
+        "ankor"
+      ],
+      "gloss": "realm of laws and record",
+      "sources": [
+        "DSS:104",
+        "DPG:46",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[thrynaz un kron] ankor"
+    },
+    {
+      "parts": [
+        "urbar",
+        "un",
+        "ori",
+        "ankor"
+      ],
+      "gloss": "realm of trade and work",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DSS:103",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[urbar un ori] ankor"
+    },
+    {
+      "parts": [
+        "izril",
+        "un",
+        "agrul",
+        "ankor"
+      ],
+      "gloss": "realm of jewels and stone carving",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[izril un agrul] ankor"
+    },
+    {
+      "parts": [
+        "makaz",
+        "un",
+        "kron",
+        "ankor"
+      ],
+      "gloss": "realm of the tool and record",
+      "sources": [
+        "DPG:46",
+        "DSS:104",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[makaz un kron] ankor"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "zon",
+        "ankor"
+      ],
+      "gloss": "realm of moonlight and sun",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:47",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un zon] ankor"
+    },
+    {
+      "parts": [
+        "zharr",
+        "un",
+        "grungron",
+        "ankor"
+      ],
+      "gloss": "realm of fire and forge",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:45",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zharr un grungron] ankor"
+    },
+    {
+      "parts": [
+        "hirn",
+        "un",
+        "wutraz",
+        "ankor"
+      ],
+      "gloss": "realm of the musical horn and spear",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DSS:105",
+        "DPG:44",
+        "WFB8:PDF41"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A collective emblem followed by the attested realm noun. It does not assert territory, resource deposits, rulers, ancestry, ownership, a legal constitution or history. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[hirn un wutraz] ankor"
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary: Ankor",
+      "quote": "Domain or realm",
+      "claim": "Ankor supplies the polity sense. It does not specify empire, monarchy, dynasty, ruler, legal jurisdiction, or territorial size."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Roots use the explicitly recorded sense. These compounds are not presented as a recovered complete Khazalid grammar."
+    },
+    {
+      "source": "WFB8:PDF9",
+      "section": "Warhammer Armies: Dwarfs (8th Edition, 2014), PDF page 9, opening Dwarf realm description",
+      "quote": "the mountain realm",
+      "claim": "Karaz Ankor is an attested descriptive polity name. That canonical realm and its variant spellings are reserved; it is not randomly assigned."
+    },
+    {
+      "source": "WFB8:PDF41",
+      "section": "Warhammer Armies: Dwarfs (8th Edition, 2014), PDF page 41, Dwarf Warriors",
+      "quote": "show their allegiances through more subtle colours or symbols",
+      "claim": "Colour and object motifs are grounded in Dwarf collective identity. Applying such an image to a newly composed realm name is an explicit adaptation, not an assertion that the book prints these combinations."
+    },
+    {
+      "source": "DPG:44",
+      "section": "p.44, Khazalid Glossary: Duraz and Azul",
+      "quote": "Duraz Stone or slab",
+      "claim": "Stone and metal are attested material senses for symbolic polity images. Azul is not restricted to iron, steel or gromril, and its dependable-person sense is not selected."
+    },
+    {
+      "source": "DPG:45",
+      "section": "p.45, Khazalid Glossary: Galaz and Grungron",
+      "quote": "Galaz Gold of particular ornamental value",
+      "claim": "Ornamental gold and forge imagery broaden the reviewed craft motifs. These images grant no wealth, mines, craft monopoly or ownership of an actual forge."
+    },
+    {
+      "source": "DPG:46",
+      "section": "p.46, Khazalid Glossary: Klinka",
+      "quote": "Klinka Chisel",
+      "claim": "A chisel is an attested craft-image alternative to anvil, hammer and gate. A polity using it as a symbolic name is not automatically a miners or masons organisation."
+    },
+    {
+      "source": "DPG:47",
+      "section": "p.47, Khazalid Glossary: Wutroth",
+      "quote": "Wutroth Wood from ancient mountain oak",
+      "claim": "The precise material sense is used in the hammer and gate motifs. It does not assert the age of the realm or possession of an ancient forest."
+    },
+    {
+      "source": "DSS:102",
+      "section": "p.102, Khazalid glossary",
+      "quote": "Hirn Horn (instrument)",
+      "claim": "The glossary distinguishes a musical horn from horn material, and attests road and thunder. Selected nouns remain literal word senses inside adapted labels."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Karaz Ankor",
+    "KarazAnkor",
+    "Karaz-Ankor",
+    "Everlasting Realm",
+    "Karaz-a-Karak",
+    "Karazakarak",
+    "Goldshields",
+    "Ironhammers",
+    "Kolgrund",
+    "Zangorog",
+    "Gorlaz",
+    "Kolaz",
+    "Kolaz Umgol"
+  ]
+}

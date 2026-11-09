@@ -1,0 +1,7110 @@
+{
+  "version": 2,
+  "sources": {
+    "DPG": "Warhammer Fantasy Roleplay 4e: Dwarf Players Guide (2023), pp.38-40,43-47",
+    "WFB8": "Warhammer Armies: Dwarfs (8th Edition, 2014), The Dwarf Realms (PDF pp.26-28), The Klinkarhun (PDF p.40)"
+  },
+  "forenames": {
+    "male": [
+      "Algrim",
+      "Alrik",
+      "Baragor",
+      "Bardin",
+      "Borgin",
+      "Borin",
+      "Bradni",
+      "Brogar",
+      "Brokk",
+      "Cranneg",
+      "Darbli",
+      "Dargo",
+      "Dern",
+      "Dimrond",
+      "Dimzad",
+      "Drumin",
+      "Durak",
+      "Durgin",
+      "Dwinbar",
+      "Elmador",
+      "Enlag",
+      "Fenni",
+      "Fimbur",
+      "Finn",
+      "Furgil",
+      "Garil",
+      "Goddi",
+      "Gomrund",
+      "Gorazin",
+      "Gorim",
+      "Gorm",
+      "Gottri",
+      "Grim",
+      "Grindol",
+      "Grond",
+      "Groth",
+      "Grum",
+      "Grumdin",
+      "Grundi",
+      "Grung",
+      "Grunni",
+      "Guttri",
+      "Haakon",
+      "Hadra",
+      "Harek",
+      "Hargin",
+      "Hargrim",
+      "Harok",
+      "Heganbor",
+      "Hergar",
+      "Hugnir",
+      "Hurgar",
+      "Kadri",
+      "Kallon",
+      "Kargun",
+      "Kazgar",
+      "Kazran",
+      "Kazrik",
+      "Ketil",
+      "Kettri",
+      "Krudd",
+      "Largs",
+      "Logan",
+      "Logazor",
+      "Lunn",
+      "Mendri",
+      "Mordin",
+      "Morek",
+      "Mundri",
+      "Norgrim",
+      "Oldor",
+      "Ragni",
+      "Rogni",
+      "Rorek",
+      "Rungni",
+      "Skag",
+      "Skaldor",
+      "Skalli",
+      "Skorri",
+      "Sindri",
+      "Storri",
+      "Sundrim",
+      "Sven",
+      "Thingrim",
+      "Thori",
+      "Thrund",
+      "Thurgrom",
+      "Thyk",
+      "Ulfar",
+      "Ulther",
+      "Vikram",
+      "Vragni",
+      "Zamnil"
+    ],
+    "female": [
+      "Akilinda",
+      "Adalni",
+      "Alrika",
+      "Arin",
+      "Askima",
+      "Astrid",
+      "Beodinga",
+      "Beothilt",
+      "Berit",
+      "Berta",
+      "Boria",
+      "Breda",
+      "Brondra",
+      "Bunna",
+      "Daedbet",
+      "Daril",
+      "Darna",
+      "Derna",
+      "Devoni",
+      "Dorbi",
+      "Duree",
+      "Edlyn",
+      "Eilianhilt",
+      "Eldrida",
+      "Engilfrit",
+      "Eonhilt",
+      "Esma",
+      "Fenna",
+      "Fonsa",
+      "Freda",
+      "Frenchin",
+      "Friga",
+      "Fronika",
+      "Galan",
+      "Galea",
+      "Gamila",
+      "Gemmon",
+      "Gamona",
+      "Gennadea",
+      "Gloren",
+      "Gottra",
+      "Grida",
+      "Grizal",
+      "Grondi",
+      "Grunna",
+      "Harga",
+      "Heldin",
+      "Helga",
+      "Helgar",
+      "Holda",
+      "Hunni",
+      "Husina",
+      "Inga",
+      "Ingardas",
+      "Ingeida",
+      "Ingina",
+      "Ingundas",
+      "Irmina",
+      "Kalea",
+      "Karelia",
+      "Karga",
+      "Karstin",
+      "Katrin",
+      "Kemma",
+      "Kettra",
+      "Kotafrit",
+      "Kotahilt",
+      "Laka",
+      "Lakin",
+      "Leena",
+      "Lenka",
+      "Loera",
+      "Lorata",
+      "Lora",
+      "Magda",
+      "Mehthilt",
+      "Melanna",
+      "Menni",
+      "Minna",
+      "Mistila",
+      "Modra",
+      "Morga",
+      "Nanda",
+      "Nanna",
+      "Olka",
+      "Osanna",
+      "Reiarin",
+      "Rihilt",
+      "Sanne",
+      "Sifna",
+      "Sigifrit",
+      "Sigifrith",
+      "Sigrid",
+      "Sigrun",
+      "Skorina",
+      "Solveig",
+      "Sunni",
+      "Svenrina",
+      "Tarni",
+      "Tharma",
+      "Theodfirt",
+      "Thindra",
+      "Thoda",
+      "Thora",
+      "Throlin",
+      "Thurma",
+      "Trunni",
+      "Ulla",
+      "Uote",
+      "Vala",
+      "Valma",
+      "Woda",
+      "Zylra"
+    ]
+  },
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "motif"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "motif"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "motif"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "motif"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "motif"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "motif"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "motif"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "motif"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "motif"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "craft"
+    },
+    "klinka": {
+      "gloss": "chisel",
+      "source": "DPG:46",
+      "role": "craft"
+    },
+    "makaz": {
+      "gloss": "tool",
+      "source": "DPG:46",
+      "role": "craft"
+    },
+    "kron": {
+      "gloss": "record",
+      "source": "DPG:46",
+      "role": "craft"
+    },
+    "az": {
+      "gloss": "war axe",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "grund": {
+      "gloss": "hammer",
+      "source": "DPG:45",
+      "role": "craft"
+    },
+    "karak": {
+      "gloss": "enduring",
+      "source": "DPG:46",
+      "role": "head"
+    },
+    "kazad": {
+      "gloss": "fortress",
+      "source": "DPG:46",
+      "role": "head"
+    },
+    "khaz": {
+      "gloss": "underground hall",
+      "source": "DPG:46",
+      "role": "head"
+    },
+    "urbaz": {
+      "gloss": "trading post",
+      "source": "DPG:47",
+      "role": "head"
+    },
+    "karaz": {
+      "gloss": "mountain",
+      "source": "DPG:46",
+      "role": "head"
+    },
+    "kadrin": {
+      "gloss": "mountain pass",
+      "source": "DPG:46",
+      "role": "head"
+    },
+    "ungor": {
+      "gloss": "cavern",
+      "source": "DPG:47",
+      "role": "head"
+    },
+    "stromez": {
+      "gloss": "stream",
+      "source": "DPG:47",
+      "role": "head"
+    },
+    "varn": {
+      "gloss": "mountain lake",
+      "source": "DPG:47",
+      "role": "head"
+    },
+    "grungron": {
+      "gloss": "forge",
+      "source": "DPG:45",
+      "role": "craft"
+    },
+    "klad": {
+      "gloss": "armour",
+      "source": "DPG:46",
+      "role": "craft"
+    },
+    "khrum": {
+      "gloss": "war drum",
+      "source": "DPG:46",
+      "role": "craft"
+    },
+    "thrund": {
+      "gloss": "handgun",
+      "source": "DPG:47",
+      "role": "craft"
+    },
+    "barag": {
+      "gloss": "war machine",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "angaz": {
+      "gloss": "ironwork",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "agrul": {
+      "gloss": "stone carving",
+      "source": "DPG:44",
+      "role": "craft"
+    },
+    "drakk": {
+      "gloss": "dragon",
+      "source": "DPG:44",
+      "role": "emblem"
+    },
+    "gronti": {
+      "gloss": "giant",
+      "source": "DPG:45",
+      "role": "emblem"
+    },
+    "gor": {
+      "gloss": "wild beast",
+      "source": "DPG:45",
+      "role": "emblem"
+    },
+    "lok": {
+      "gloss": "intricate",
+      "source": "DPG:46",
+      "role": "motif"
+    },
+    "irkul": {
+      "gloss": "pillared vault hewn in rock",
+      "source": "DPG:46",
+      "role": "head"
+    },
+    "ruf": {
+      "gloss": "large underground dome",
+      "source": "DPG:46",
+      "role": "head"
+    }
+  },
+  "motifs": [
+    "kol",
+    "zan",
+    "gorl",
+    "skarrenruf",
+    "bryn",
+    "duraz",
+    "azul",
+    "galaz",
+    "wutroth"
+  ],
+  "family_objects": [
+    "bar",
+    "grong",
+    "klinka",
+    "makaz",
+    "kron",
+    "grungron"
+  ],
+  "hold_objects": [
+    "grong",
+    "klinka",
+    "makaz",
+    "kron",
+    "az",
+    "grund"
+  ],
+  "hold_heads": [
+    "khaz",
+    "bar"
+  ],
+  "place_heads": {
+    "settlement": "khaz",
+    "mountain": "karaz",
+    "pass": "kadrin",
+    "cavern": "ungor",
+    "stream": "stromez",
+    "lake": "varn"
+  },
+  "reserved": [
+    "Gotrek Gurnisson",
+    "Felix Jaeger",
+    "Thorgrim Grudgebearer",
+    "Ungrim Ironfist",
+    "Belegar Ironhammer",
+    "Thorek Ironbrow",
+    "Kragg the Grim",
+    "Josef Bugman",
+    "Grombrindal",
+    "Malakai Makaisson",
+    "Burlok Damminsson",
+    "Grimm Burloksson",
+    "Kazador Thunderhorn",
+    "Alrik Ranulfsson",
+    "Durazgrund",
+    "Azrilbar",
+    "Nanavn",
+    "Karaz-a-Karak",
+    "Barak Varr",
+    "Karak Eight Peaks",
+    "Karak Kadrin",
+    "Karak Azul",
+    "Karak Hirn",
+    "Karak Izor",
+    "Karak Norn",
+    "Karak Ungor",
+    "Karak Varn",
+    "Karak Zorn",
+    "Karak Drazh",
+    "Karak Azgal",
+    "Karak Azgaraz",
+    "Karak Zilfin",
+    "Karak Grom",
+    "Karak Bhufdar",
+    "Karak KaferKammaz",
+    "Karak Eksfilaz",
+    "Karak Gantuk",
+    "Karak Angazbar",
+    "Kraka Dorden",
+    "Kraka Drak",
+    "Kraka Ornsmotek",
+    "Kraka Ravnsvake",
+    "Zhufbar",
+    "Ekrund",
+    "Riddlemansions",
+    "Lokmakaz"
+  ],
+  "family_patterns": [
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "angaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "agrul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "drakk"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "gronti"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "gor"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "irkul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "ruf"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "angaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "agrul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "drakk"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "gronti"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "gor"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "irkul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "zan",
+        "ruf"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "angaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "agrul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "drakk"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "gronti"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "gor"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "irkul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "gorl",
+        "ruf"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "angaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "agrul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "drakk"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "gronti"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "gor"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "irkul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "ruf"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "angaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "agrul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "drakk"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "gronti"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "gor"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43",
+        "WFB8:29"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "irkul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "bryn",
+        "ruf"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "angaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "lok",
+        "agrul"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "azul",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "galaz",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "note": "Adapted symbolic DF family label; no ancestry, earned epithet, clan membership or recognition implied."
+    },
+    {
+      "parts": [
+        "kol",
+        "duraz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [stone fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "duraz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [stone fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "duraz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [stone fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "duraz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [stone fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "duraz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [stone fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "duraz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [stone fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "duraz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [stone anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "duraz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [stone anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "duraz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [stone anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "duraz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [stone anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "duraz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [stone anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "duraz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [stone anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "duraz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [stone chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "duraz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [stone chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "duraz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [stone chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "duraz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [stone chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "duraz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [stone chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "duraz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [stone chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "duraz",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [stone tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "duraz",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [stone tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "duraz",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [stone tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "duraz",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [stone tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "duraz",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [stone tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "duraz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [stone record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "duraz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [stone record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "duraz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [stone record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "duraz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [stone record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "duraz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [stone record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "duraz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [stone record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "duraz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [stone forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "duraz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [stone forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "duraz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [stone forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "duraz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [stone forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "duraz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [stone forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "duraz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [stone forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "grong"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold anvil]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "klinka"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold chisel]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "grungron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold forge]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "wutroth",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [wood from ancient mountain oak fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "wutroth",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [wood from ancient mountain oak fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "wutroth",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [wood from ancient mountain oak fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "wutroth",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [wood from ancient mountain oak fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "wutroth",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [wood from ancient mountain oak fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "wutroth",
+        "bar"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [wood from ancient mountain oak fortified gate]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "wutroth",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [wood from ancient mountain oak tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "wutroth",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [wood from ancient mountain oak tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "wutroth",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [wood from ancient mountain oak tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "wutroth",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [wood from ancient mountain oak tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "wutroth",
+        "makaz"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [wood from ancient mountain oak tool]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "wutroth",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [wood from ancient mountain oak record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "wutroth",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [wood from ancient mountain oak record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "wutroth",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [wood from ancient mountain oak record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "wutroth",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [wood from ancient mountain oak record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "wutroth",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [wood from ancient mountain oak record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "wutroth",
+        "kron"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [wood from ancient mountain oak record]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal war axe]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal war axe]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal war axe]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal war axe]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal armour]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal armour]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal armour]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal armour]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal armour]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal armour]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal handgun]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal handgun]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal handgun]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal handgun]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal handgun]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal handgun]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "azul",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [metal war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "azul",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [metal war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "azul",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [metal war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "azul",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [metal war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "azul",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [metal war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "azul",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [metal war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold war axe]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "az"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold war axe]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold armour]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "klad"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold armour]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold handgun]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "thrund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold handgun]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "galaz",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [ornamental gold war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "galaz",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [ornamental gold war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "wutroth",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [wood from ancient mountain oak hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "wutroth",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [wood from ancient mountain oak hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "wutroth",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [wood from ancient mountain oak hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "wutroth",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [wood from ancient mountain oak hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "wutroth",
+        "grund"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [wood from ancient mountain oak hammer]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "wutroth",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [wood from ancient mountain oak war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "wutroth",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [wood from ancient mountain oak war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "wutroth",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [wood from ancient mountain oak war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "wutroth",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [wood from ancient mountain oak war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "wutroth",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [wood from ancient mountain oak war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "wutroth",
+        "khrum"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [wood from ancient mountain oak war drum]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "kol",
+        "wutroth",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "black [wood from ancient mountain oak war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "zan",
+        "wutroth",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "red [wood from ancient mountain oak war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "gorl",
+        "wutroth",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "yellow [wood from ancient mountain oak war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "wutroth",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "bright blue [wood from ancient mountain oak war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "bryn",
+        "wutroth",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "shining [wood from ancient mountain oak war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    },
+    {
+      "parts": [
+        "lok",
+        "wutroth",
+        "barag"
+      ],
+      "sources": [
+        "DPG:38",
+        "DPG:40",
+        "DPG:43"
+      ],
+      "grouping": "intricate [wood from ancient mountain oak war machine]",
+      "note": "Adapted symbolic DF family/site label: appearance qualifies the complete material-and-craft emblem. It does not describe the bearer, establish an actual object or deposit, or imply ancestry, earned epithet, clan membership or recognition."
+    }
+  ],
+  "hold_patterns": [
+    [
+      "kol",
+      "grong",
+      "khaz"
+    ],
+    [
+      "kol",
+      "grong",
+      "bar"
+    ],
+    [
+      "kol",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "kol",
+      "klinka",
+      "bar"
+    ],
+    [
+      "kol",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "kol",
+      "makaz",
+      "bar"
+    ],
+    [
+      "kol",
+      "kron",
+      "khaz"
+    ],
+    [
+      "kol",
+      "kron",
+      "bar"
+    ],
+    [
+      "kol",
+      "az",
+      "khaz"
+    ],
+    [
+      "kol",
+      "az",
+      "bar"
+    ],
+    [
+      "kol",
+      "grund",
+      "khaz"
+    ],
+    [
+      "kol",
+      "grund",
+      "bar"
+    ],
+    [
+      "zan",
+      "grong",
+      "khaz"
+    ],
+    [
+      "zan",
+      "grong",
+      "bar"
+    ],
+    [
+      "zan",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "zan",
+      "klinka",
+      "bar"
+    ],
+    [
+      "zan",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "zan",
+      "makaz",
+      "bar"
+    ],
+    [
+      "zan",
+      "kron",
+      "khaz"
+    ],
+    [
+      "zan",
+      "kron",
+      "bar"
+    ],
+    [
+      "zan",
+      "az",
+      "khaz"
+    ],
+    [
+      "zan",
+      "az",
+      "bar"
+    ],
+    [
+      "zan",
+      "grund",
+      "khaz"
+    ],
+    [
+      "zan",
+      "grund",
+      "bar"
+    ],
+    [
+      "gorl",
+      "grong",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "grong",
+      "bar"
+    ],
+    [
+      "gorl",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "klinka",
+      "bar"
+    ],
+    [
+      "gorl",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "makaz",
+      "bar"
+    ],
+    [
+      "gorl",
+      "kron",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "kron",
+      "bar"
+    ],
+    [
+      "gorl",
+      "az",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "az",
+      "bar"
+    ],
+    [
+      "gorl",
+      "grund",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "grund",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "grong",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "grong",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "klinka",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "makaz",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "kron",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "kron",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "az",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "az",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "grund",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "grund",
+      "bar"
+    ],
+    [
+      "bryn",
+      "grong",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "grong",
+      "bar"
+    ],
+    [
+      "bryn",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "klinka",
+      "bar"
+    ],
+    [
+      "bryn",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "makaz",
+      "bar"
+    ],
+    [
+      "bryn",
+      "kron",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "kron",
+      "bar"
+    ],
+    [
+      "bryn",
+      "az",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "az",
+      "bar"
+    ],
+    [
+      "bryn",
+      "grund",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "grund",
+      "bar"
+    ],
+    [
+      "duraz",
+      "grong",
+      "khaz"
+    ],
+    [
+      "duraz",
+      "grong",
+      "bar"
+    ],
+    [
+      "duraz",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "duraz",
+      "klinka",
+      "bar"
+    ],
+    [
+      "duraz",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "duraz",
+      "makaz",
+      "bar"
+    ],
+    [
+      "duraz",
+      "kron",
+      "khaz"
+    ],
+    [
+      "duraz",
+      "kron",
+      "bar"
+    ],
+    [
+      "duraz",
+      "az",
+      "khaz"
+    ],
+    [
+      "duraz",
+      "az",
+      "bar"
+    ],
+    [
+      "duraz",
+      "grund",
+      "khaz"
+    ],
+    [
+      "duraz",
+      "grund",
+      "bar"
+    ],
+    [
+      "azul",
+      "grong",
+      "khaz"
+    ],
+    [
+      "azul",
+      "grong",
+      "bar"
+    ],
+    [
+      "azul",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "azul",
+      "klinka",
+      "bar"
+    ],
+    [
+      "azul",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "azul",
+      "makaz",
+      "bar"
+    ],
+    [
+      "azul",
+      "kron",
+      "khaz"
+    ],
+    [
+      "azul",
+      "kron",
+      "bar"
+    ],
+    [
+      "azul",
+      "az",
+      "khaz"
+    ],
+    [
+      "azul",
+      "az",
+      "bar"
+    ],
+    [
+      "azul",
+      "grund",
+      "khaz"
+    ],
+    [
+      "azul",
+      "grund",
+      "bar"
+    ],
+    [
+      "galaz",
+      "grong",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "grong",
+      "bar"
+    ],
+    [
+      "galaz",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "klinka",
+      "bar"
+    ],
+    [
+      "galaz",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "makaz",
+      "bar"
+    ],
+    [
+      "galaz",
+      "kron",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "kron",
+      "bar"
+    ],
+    [
+      "galaz",
+      "az",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "az",
+      "bar"
+    ],
+    [
+      "galaz",
+      "grund",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "grund",
+      "bar"
+    ],
+    [
+      "wutroth",
+      "makaz",
+      "khaz"
+    ],
+    [
+      "wutroth",
+      "makaz",
+      "bar"
+    ],
+    [
+      "wutroth",
+      "kron",
+      "khaz"
+    ],
+    [
+      "wutroth",
+      "kron",
+      "bar"
+    ],
+    [
+      "wutroth",
+      "grund",
+      "khaz"
+    ],
+    [
+      "wutroth",
+      "grund",
+      "bar"
+    ],
+    [
+      "kol",
+      "bar",
+      "khaz"
+    ],
+    [
+      "kol",
+      "bar",
+      "irkul"
+    ],
+    [
+      "kol",
+      "bar",
+      "ruf"
+    ],
+    [
+      "kol",
+      "grong",
+      "irkul"
+    ],
+    [
+      "kol",
+      "grong",
+      "ruf"
+    ],
+    [
+      "kol",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "kol",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "kol",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "kol",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "kol",
+      "kron",
+      "irkul"
+    ],
+    [
+      "kol",
+      "kron",
+      "ruf"
+    ],
+    [
+      "kol",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "kol",
+      "grungron",
+      "bar"
+    ],
+    [
+      "kol",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "kol",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "zan",
+      "bar",
+      "khaz"
+    ],
+    [
+      "zan",
+      "bar",
+      "irkul"
+    ],
+    [
+      "zan",
+      "bar",
+      "ruf"
+    ],
+    [
+      "zan",
+      "grong",
+      "irkul"
+    ],
+    [
+      "zan",
+      "grong",
+      "ruf"
+    ],
+    [
+      "zan",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "zan",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "zan",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "zan",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "zan",
+      "kron",
+      "irkul"
+    ],
+    [
+      "zan",
+      "kron",
+      "ruf"
+    ],
+    [
+      "zan",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "zan",
+      "grungron",
+      "bar"
+    ],
+    [
+      "zan",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "zan",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "bar",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "bar",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "bar",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "grong",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "grong",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "kron",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "kron",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "grungron",
+      "bar"
+    ],
+    [
+      "gorl",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "bar",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "bar",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "bar",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "grong",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "grong",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "kron",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "kron",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "grungron",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "bar",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "bar",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "bar",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "grong",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "grong",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "kron",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "kron",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "grungron",
+      "bar"
+    ],
+    [
+      "bryn",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "duraz",
+      "bar",
+      "khaz"
+    ],
+    [
+      "duraz",
+      "bar",
+      "irkul"
+    ],
+    [
+      "duraz",
+      "bar",
+      "ruf"
+    ],
+    [
+      "duraz",
+      "grong",
+      "irkul"
+    ],
+    [
+      "duraz",
+      "grong",
+      "ruf"
+    ],
+    [
+      "duraz",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "duraz",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "duraz",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "duraz",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "duraz",
+      "kron",
+      "irkul"
+    ],
+    [
+      "duraz",
+      "kron",
+      "ruf"
+    ],
+    [
+      "duraz",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "duraz",
+      "grungron",
+      "bar"
+    ],
+    [
+      "duraz",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "duraz",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "azul",
+      "bar",
+      "khaz"
+    ],
+    [
+      "azul",
+      "bar",
+      "irkul"
+    ],
+    [
+      "azul",
+      "bar",
+      "ruf"
+    ],
+    [
+      "azul",
+      "grong",
+      "irkul"
+    ],
+    [
+      "azul",
+      "grong",
+      "ruf"
+    ],
+    [
+      "azul",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "azul",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "azul",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "azul",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "azul",
+      "kron",
+      "irkul"
+    ],
+    [
+      "azul",
+      "kron",
+      "ruf"
+    ],
+    [
+      "azul",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "azul",
+      "grungron",
+      "bar"
+    ],
+    [
+      "azul",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "azul",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "bar",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "bar",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "bar",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "grong",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "grong",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "kron",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "kron",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "grungron",
+      "bar"
+    ],
+    [
+      "galaz",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "wutroth",
+      "bar",
+      "khaz"
+    ],
+    [
+      "wutroth",
+      "bar",
+      "irkul"
+    ],
+    [
+      "wutroth",
+      "bar",
+      "ruf"
+    ],
+    [
+      "wutroth",
+      "makaz",
+      "irkul"
+    ],
+    [
+      "wutroth",
+      "makaz",
+      "ruf"
+    ],
+    [
+      "wutroth",
+      "kron",
+      "irkul"
+    ],
+    [
+      "wutroth",
+      "kron",
+      "ruf"
+    ],
+    [
+      "kol",
+      "klad",
+      "khaz"
+    ],
+    [
+      "kol",
+      "klad",
+      "bar"
+    ],
+    [
+      "kol",
+      "klad",
+      "irkul"
+    ],
+    [
+      "kol",
+      "klad",
+      "ruf"
+    ],
+    [
+      "kol",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "kol",
+      "khrum",
+      "bar"
+    ],
+    [
+      "kol",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "kol",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "kol",
+      "thrund",
+      "khaz"
+    ],
+    [
+      "kol",
+      "thrund",
+      "bar"
+    ],
+    [
+      "kol",
+      "thrund",
+      "irkul"
+    ],
+    [
+      "kol",
+      "thrund",
+      "ruf"
+    ],
+    [
+      "kol",
+      "barag",
+      "khaz"
+    ],
+    [
+      "kol",
+      "barag",
+      "bar"
+    ],
+    [
+      "kol",
+      "barag",
+      "irkul"
+    ],
+    [
+      "kol",
+      "barag",
+      "ruf"
+    ],
+    [
+      "kol",
+      "angaz",
+      "khaz"
+    ],
+    [
+      "kol",
+      "angaz",
+      "bar"
+    ],
+    [
+      "kol",
+      "angaz",
+      "irkul"
+    ],
+    [
+      "kol",
+      "angaz",
+      "ruf"
+    ],
+    [
+      "kol",
+      "agrul",
+      "khaz"
+    ],
+    [
+      "kol",
+      "agrul",
+      "bar"
+    ],
+    [
+      "kol",
+      "agrul",
+      "irkul"
+    ],
+    [
+      "kol",
+      "agrul",
+      "ruf"
+    ],
+    [
+      "kol",
+      "drakk",
+      "khaz"
+    ],
+    [
+      "kol",
+      "drakk",
+      "bar"
+    ],
+    [
+      "kol",
+      "drakk",
+      "irkul"
+    ],
+    [
+      "kol",
+      "drakk",
+      "ruf"
+    ],
+    [
+      "kol",
+      "gronti",
+      "khaz"
+    ],
+    [
+      "kol",
+      "gronti",
+      "bar"
+    ],
+    [
+      "kol",
+      "gronti",
+      "irkul"
+    ],
+    [
+      "kol",
+      "gronti",
+      "ruf"
+    ],
+    [
+      "kol",
+      "gor",
+      "khaz"
+    ],
+    [
+      "kol",
+      "gor",
+      "bar"
+    ],
+    [
+      "kol",
+      "gor",
+      "irkul"
+    ],
+    [
+      "kol",
+      "gor",
+      "ruf"
+    ],
+    [
+      "zan",
+      "az",
+      "irkul"
+    ],
+    [
+      "zan",
+      "az",
+      "ruf"
+    ],
+    [
+      "zan",
+      "grund",
+      "irkul"
+    ],
+    [
+      "zan",
+      "grund",
+      "ruf"
+    ],
+    [
+      "zan",
+      "klad",
+      "khaz"
+    ],
+    [
+      "zan",
+      "klad",
+      "bar"
+    ],
+    [
+      "zan",
+      "klad",
+      "irkul"
+    ],
+    [
+      "zan",
+      "klad",
+      "ruf"
+    ],
+    [
+      "zan",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "zan",
+      "khrum",
+      "bar"
+    ],
+    [
+      "zan",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "zan",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "zan",
+      "thrund",
+      "khaz"
+    ],
+    [
+      "zan",
+      "thrund",
+      "bar"
+    ],
+    [
+      "zan",
+      "thrund",
+      "irkul"
+    ],
+    [
+      "zan",
+      "thrund",
+      "ruf"
+    ],
+    [
+      "zan",
+      "barag",
+      "khaz"
+    ],
+    [
+      "zan",
+      "barag",
+      "bar"
+    ],
+    [
+      "zan",
+      "barag",
+      "irkul"
+    ],
+    [
+      "zan",
+      "barag",
+      "ruf"
+    ],
+    [
+      "zan",
+      "angaz",
+      "khaz"
+    ],
+    [
+      "zan",
+      "angaz",
+      "bar"
+    ],
+    [
+      "zan",
+      "angaz",
+      "irkul"
+    ],
+    [
+      "zan",
+      "angaz",
+      "ruf"
+    ],
+    [
+      "zan",
+      "agrul",
+      "khaz"
+    ],
+    [
+      "zan",
+      "agrul",
+      "bar"
+    ],
+    [
+      "zan",
+      "agrul",
+      "irkul"
+    ],
+    [
+      "zan",
+      "agrul",
+      "ruf"
+    ],
+    [
+      "zan",
+      "drakk",
+      "khaz"
+    ],
+    [
+      "zan",
+      "drakk",
+      "bar"
+    ],
+    [
+      "zan",
+      "drakk",
+      "irkul"
+    ],
+    [
+      "zan",
+      "drakk",
+      "ruf"
+    ],
+    [
+      "zan",
+      "gronti",
+      "khaz"
+    ],
+    [
+      "zan",
+      "gronti",
+      "bar"
+    ],
+    [
+      "zan",
+      "gronti",
+      "irkul"
+    ],
+    [
+      "zan",
+      "gronti",
+      "ruf"
+    ],
+    [
+      "zan",
+      "gor",
+      "khaz"
+    ],
+    [
+      "zan",
+      "gor",
+      "bar"
+    ],
+    [
+      "zan",
+      "gor",
+      "irkul"
+    ],
+    [
+      "zan",
+      "gor",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "grund",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "grund",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "klad",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "klad",
+      "bar"
+    ],
+    [
+      "gorl",
+      "klad",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "klad",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "khrum",
+      "bar"
+    ],
+    [
+      "gorl",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "thrund",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "thrund",
+      "bar"
+    ],
+    [
+      "gorl",
+      "thrund",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "thrund",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "barag",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "barag",
+      "bar"
+    ],
+    [
+      "gorl",
+      "barag",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "barag",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "angaz",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "angaz",
+      "bar"
+    ],
+    [
+      "gorl",
+      "angaz",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "angaz",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "agrul",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "agrul",
+      "bar"
+    ],
+    [
+      "gorl",
+      "agrul",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "agrul",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "drakk",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "drakk",
+      "bar"
+    ],
+    [
+      "gorl",
+      "drakk",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "drakk",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "gronti",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "gronti",
+      "bar"
+    ],
+    [
+      "gorl",
+      "gronti",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "gronti",
+      "ruf"
+    ],
+    [
+      "gorl",
+      "gor",
+      "khaz"
+    ],
+    [
+      "gorl",
+      "gor",
+      "bar"
+    ],
+    [
+      "gorl",
+      "gor",
+      "irkul"
+    ],
+    [
+      "gorl",
+      "gor",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "az",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "az",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "grund",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "grund",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "klad",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "klad",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "klad",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "klad",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "khrum",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "thrund",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "thrund",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "thrund",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "thrund",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "barag",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "barag",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "barag",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "barag",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "angaz",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "angaz",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "angaz",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "angaz",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "agrul",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "agrul",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "agrul",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "agrul",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "drakk",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "drakk",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "drakk",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "drakk",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "gronti",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "gronti",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "gronti",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "gronti",
+      "ruf"
+    ],
+    [
+      "skarrenruf",
+      "gor",
+      "khaz"
+    ],
+    [
+      "skarrenruf",
+      "gor",
+      "bar"
+    ],
+    [
+      "skarrenruf",
+      "gor",
+      "irkul"
+    ],
+    [
+      "skarrenruf",
+      "gor",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "az",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "az",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "grund",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "grund",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "klad",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "klad",
+      "bar"
+    ],
+    [
+      "bryn",
+      "klad",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "klad",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "khrum",
+      "bar"
+    ],
+    [
+      "bryn",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "thrund",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "thrund",
+      "bar"
+    ],
+    [
+      "bryn",
+      "thrund",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "thrund",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "barag",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "barag",
+      "bar"
+    ],
+    [
+      "bryn",
+      "barag",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "barag",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "angaz",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "angaz",
+      "bar"
+    ],
+    [
+      "bryn",
+      "angaz",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "angaz",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "agrul",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "agrul",
+      "bar"
+    ],
+    [
+      "bryn",
+      "agrul",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "agrul",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "drakk",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "drakk",
+      "bar"
+    ],
+    [
+      "bryn",
+      "drakk",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "drakk",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "gronti",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "gronti",
+      "bar"
+    ],
+    [
+      "bryn",
+      "gronti",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "gronti",
+      "ruf"
+    ],
+    [
+      "bryn",
+      "gor",
+      "khaz"
+    ],
+    [
+      "bryn",
+      "gor",
+      "bar"
+    ],
+    [
+      "bryn",
+      "gor",
+      "irkul"
+    ],
+    [
+      "bryn",
+      "gor",
+      "ruf"
+    ],
+    [
+      "lok",
+      "bar",
+      "khaz"
+    ],
+    [
+      "lok",
+      "bar",
+      "irkul"
+    ],
+    [
+      "lok",
+      "bar",
+      "ruf"
+    ],
+    [
+      "lok",
+      "grong",
+      "khaz"
+    ],
+    [
+      "lok",
+      "grong",
+      "bar"
+    ],
+    [
+      "lok",
+      "grong",
+      "irkul"
+    ],
+    [
+      "lok",
+      "grong",
+      "ruf"
+    ],
+    [
+      "lok",
+      "klinka",
+      "khaz"
+    ],
+    [
+      "lok",
+      "klinka",
+      "bar"
+    ],
+    [
+      "lok",
+      "klinka",
+      "irkul"
+    ],
+    [
+      "lok",
+      "klinka",
+      "ruf"
+    ],
+    [
+      "lok",
+      "kron",
+      "khaz"
+    ],
+    [
+      "lok",
+      "kron",
+      "bar"
+    ],
+    [
+      "lok",
+      "kron",
+      "irkul"
+    ],
+    [
+      "lok",
+      "kron",
+      "ruf"
+    ],
+    [
+      "lok",
+      "grungron",
+      "khaz"
+    ],
+    [
+      "lok",
+      "grungron",
+      "bar"
+    ],
+    [
+      "lok",
+      "grungron",
+      "irkul"
+    ],
+    [
+      "lok",
+      "grungron",
+      "ruf"
+    ],
+    [
+      "lok",
+      "az",
+      "khaz"
+    ],
+    [
+      "lok",
+      "az",
+      "bar"
+    ],
+    [
+      "lok",
+      "az",
+      "irkul"
+    ],
+    [
+      "lok",
+      "az",
+      "ruf"
+    ],
+    [
+      "lok",
+      "grund",
+      "khaz"
+    ],
+    [
+      "lok",
+      "grund",
+      "bar"
+    ],
+    [
+      "lok",
+      "grund",
+      "irkul"
+    ],
+    [
+      "lok",
+      "grund",
+      "ruf"
+    ],
+    [
+      "lok",
+      "klad",
+      "khaz"
+    ],
+    [
+      "lok",
+      "klad",
+      "bar"
+    ],
+    [
+      "lok",
+      "klad",
+      "irkul"
+    ],
+    [
+      "lok",
+      "klad",
+      "ruf"
+    ],
+    [
+      "lok",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "lok",
+      "khrum",
+      "bar"
+    ],
+    [
+      "lok",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "lok",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "lok",
+      "thrund",
+      "khaz"
+    ],
+    [
+      "lok",
+      "thrund",
+      "bar"
+    ],
+    [
+      "lok",
+      "thrund",
+      "irkul"
+    ],
+    [
+      "lok",
+      "thrund",
+      "ruf"
+    ],
+    [
+      "lok",
+      "barag",
+      "khaz"
+    ],
+    [
+      "lok",
+      "barag",
+      "bar"
+    ],
+    [
+      "lok",
+      "barag",
+      "irkul"
+    ],
+    [
+      "lok",
+      "barag",
+      "ruf"
+    ],
+    [
+      "lok",
+      "angaz",
+      "khaz"
+    ],
+    [
+      "lok",
+      "angaz",
+      "bar"
+    ],
+    [
+      "lok",
+      "angaz",
+      "irkul"
+    ],
+    [
+      "lok",
+      "angaz",
+      "ruf"
+    ],
+    [
+      "lok",
+      "agrul",
+      "khaz"
+    ],
+    [
+      "lok",
+      "agrul",
+      "bar"
+    ],
+    [
+      "lok",
+      "agrul",
+      "irkul"
+    ],
+    [
+      "lok",
+      "agrul",
+      "ruf"
+    ],
+    [
+      "azul",
+      "az",
+      "irkul"
+    ],
+    [
+      "azul",
+      "az",
+      "ruf"
+    ],
+    [
+      "azul",
+      "grund",
+      "irkul"
+    ],
+    [
+      "azul",
+      "grund",
+      "ruf"
+    ],
+    [
+      "azul",
+      "klad",
+      "khaz"
+    ],
+    [
+      "azul",
+      "klad",
+      "bar"
+    ],
+    [
+      "azul",
+      "klad",
+      "irkul"
+    ],
+    [
+      "azul",
+      "klad",
+      "ruf"
+    ],
+    [
+      "azul",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "azul",
+      "khrum",
+      "bar"
+    ],
+    [
+      "azul",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "azul",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "azul",
+      "thrund",
+      "khaz"
+    ],
+    [
+      "azul",
+      "thrund",
+      "bar"
+    ],
+    [
+      "azul",
+      "thrund",
+      "irkul"
+    ],
+    [
+      "azul",
+      "thrund",
+      "ruf"
+    ],
+    [
+      "azul",
+      "barag",
+      "khaz"
+    ],
+    [
+      "azul",
+      "barag",
+      "bar"
+    ],
+    [
+      "azul",
+      "barag",
+      "irkul"
+    ],
+    [
+      "azul",
+      "barag",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "az",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "az",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "grund",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "grund",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "klad",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "klad",
+      "bar"
+    ],
+    [
+      "galaz",
+      "klad",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "klad",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "khrum",
+      "bar"
+    ],
+    [
+      "galaz",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "thrund",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "thrund",
+      "bar"
+    ],
+    [
+      "galaz",
+      "thrund",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "thrund",
+      "ruf"
+    ],
+    [
+      "galaz",
+      "barag",
+      "khaz"
+    ],
+    [
+      "galaz",
+      "barag",
+      "bar"
+    ],
+    [
+      "galaz",
+      "barag",
+      "irkul"
+    ],
+    [
+      "galaz",
+      "barag",
+      "ruf"
+    ],
+    [
+      "wutroth",
+      "grund",
+      "irkul"
+    ],
+    [
+      "wutroth",
+      "grund",
+      "ruf"
+    ],
+    [
+      "wutroth",
+      "khrum",
+      "khaz"
+    ],
+    [
+      "wutroth",
+      "khrum",
+      "bar"
+    ],
+    [
+      "wutroth",
+      "khrum",
+      "irkul"
+    ],
+    [
+      "wutroth",
+      "khrum",
+      "ruf"
+    ],
+    [
+      "wutroth",
+      "barag",
+      "khaz"
+    ],
+    [
+      "wutroth",
+      "barag",
+      "bar"
+    ],
+    [
+      "wutroth",
+      "barag",
+      "irkul"
+    ],
+    [
+      "wutroth",
+      "barag",
+      "ruf"
+    ]
+  ],
+  "place_emblem_objects": [
+    "bar",
+    "grong",
+    "klinka",
+    "makaz",
+    "kron",
+    "grungron",
+    "klad",
+    "khrum",
+    "thrund",
+    "barag",
+    "angaz",
+    "agrul",
+    "drakk",
+    "gronti",
+    "gor",
+    "az",
+    "grund"
+  ],
+  "rejected_material_pairs": [
+    [
+      "wutroth",
+      "grong"
+    ],
+    [
+      "wutroth",
+      "klinka"
+    ],
+    [
+      "wutroth",
+      "grungron"
+    ],
+    [
+      "wutroth",
+      "thrund"
+    ],
+    [
+      "wutroth",
+      "az"
+    ]
+  ]
+}

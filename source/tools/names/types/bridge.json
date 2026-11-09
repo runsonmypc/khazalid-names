@@ -1,0 +1,1073 @@
+{
+  "category": "bridge",
+  "roots": {
+    "kol": {
+      "gloss": "black",
+      "source": "DPG:46",
+      "role": "symbolic bridge-name image; not a statement about the bridge or its surroundings"
+    },
+    "zan": {
+      "gloss": "red",
+      "source": "DPG:47",
+      "role": "symbolic bridge-name image; not a statement about the bridge or its surroundings"
+    },
+    "gorl": {
+      "gloss": "yellow",
+      "source": "DPG:45",
+      "role": "symbolic bridge-name image; not a statement about the bridge or its surroundings"
+    },
+    "bryn": {
+      "gloss": "shining",
+      "source": "DPG:44",
+      "role": "symbolic bridge-name image; not a statement about the bridge or its surroundings"
+    },
+    "skarrenruf": {
+      "gloss": "bright blue",
+      "source": "DPG:46",
+      "role": "symbolic bridge-name image; not a statement about the bridge or its surroundings"
+    },
+    "dok": {
+      "gloss": "eye",
+      "source": "DPG:44",
+      "role": "symbolic bridge-name image; not a statement about the bridge or its surroundings"
+    },
+    "und": {
+      "gloss": "watchpost carved into the mountain-side",
+      "source": "DPG:47",
+      "role": "symbolic bridge-name image; not a statement about the bridge or its surroundings"
+    },
+    "zhuf": {
+      "gloss": "rapidly flowing river",
+      "source": "DPG:47",
+      "role": "symbolic bridge-name image; not a statement about the bridge or its surroundings"
+    },
+    "duraz": {
+      "gloss": "stone",
+      "source": "DPG:44",
+      "role": "symbolic bridge-name object or image material; no bridge construction, ownership or geography claim"
+    },
+    "azul": {
+      "gloss": "metal",
+      "source": "DPG:44",
+      "role": "symbolic bridge-name object or image material; no bridge construction, ownership or geography claim"
+    },
+    "galaz": {
+      "gloss": "ornamental gold",
+      "source": "DPG:45",
+      "role": "symbolic bridge-name object or image material; no bridge construction, ownership or geography claim"
+    },
+    "wutroth": {
+      "gloss": "wood from ancient mountain oak",
+      "source": "DPG:47",
+      "role": "symbolic bridge-name object or image material; no bridge construction, ownership or geography claim"
+    },
+    "bar": {
+      "gloss": "fortified gate",
+      "source": "DPG:44",
+      "role": "symbolic bridge-name object or image material; no bridge construction, ownership or geography claim"
+    },
+    "grong": {
+      "gloss": "anvil",
+      "source": "DPG:45",
+      "role": "symbolic bridge-name object or image material; no bridge construction, ownership or geography claim"
+    },
+    "un": {
+      "gloss": "and",
+      "source": "DSS:104",
+      "role": "conjunction"
+    },
+    "stromez": {
+      "gloss": "stream",
+      "source": "DPG:47",
+      "role": "symbolic water image; not an actual stream, crossing, route destination, or engineered waterway"
+    },
+    "lhune": {
+      "gloss": "moonlight",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "zon": {
+      "gloss": "sun",
+      "source": "DPG:47",
+      "role": "neutral emblem; no sunlight, deity, medical benefit or special power asserted"
+    },
+    "hirn": {
+      "gloss": "horn (instrument)",
+      "source": "DSS:102",
+      "role": "emblem"
+    },
+    "nar": {
+      "gloss": "sunrise",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "yar": {
+      "gloss": "sunset",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "zunthrum": {
+      "gloss": "statues",
+      "source": "DSS:105",
+      "role": "emblem"
+    },
+    "agril": {
+      "gloss": "silver metal",
+      "source": "DSS:101",
+      "role": "emblem"
+    },
+    "izor": {
+      "gloss": "copper",
+      "source": "DSS:103",
+      "role": "emblem"
+    },
+    "izril": {
+      "gloss": "jewels",
+      "source": "DSS:103",
+      "role": "emblem"
+    }
+  },
+  "patterns": [
+    {
+      "parts": [
+        "kol",
+        "dok"
+      ],
+      "gloss": "black eye",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "kol",
+        "und"
+      ],
+      "gloss": "black watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "kol",
+        "zhuf"
+      ],
+      "gloss": "black rapidly flowing river",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "zan",
+        "und"
+      ],
+      "gloss": "red watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "zan",
+        "zhuf"
+      ],
+      "gloss": "red rapidly flowing river",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "gorl",
+        "dok"
+      ],
+      "gloss": "yellow eye",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "gorl",
+        "und"
+      ],
+      "gloss": "yellow watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "gorl",
+        "zhuf"
+      ],
+      "gloss": "yellow rapidly flowing river",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:45",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "bryn",
+        "dok"
+      ],
+      "gloss": "shining eye",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "bryn",
+        "und"
+      ],
+      "gloss": "shining watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "bryn",
+        "zhuf"
+      ],
+      "gloss": "shining rapidly flowing river",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "dok"
+      ],
+      "gloss": "bright blue eye",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "und"
+      ],
+      "gloss": "bright blue watchpost carved into the mountain-side",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "zhuf"
+      ],
+      "gloss": "bright blue rapidly flowing river",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:47",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The image does not assert a real river, watchpost, eye, bridge material, colour, dimensions, location, destination, builder, owner, age, historical event, protective power or safe crossing."
+    },
+    {
+      "parts": [
+        "kol",
+        "bar"
+      ],
+      "gloss": "black fortified gate",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "kol",
+        "grong"
+      ],
+      "gloss": "black anvil",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:45",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "zan",
+        "bar"
+      ],
+      "gloss": "red fortified gate",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:47",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "zan",
+        "grong"
+      ],
+      "gloss": "red anvil",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:47",
+        "DPG:45",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "gorl",
+        "bar"
+      ],
+      "gloss": "yellow fortified gate",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "gorl",
+        "grong"
+      ],
+      "gloss": "yellow anvil",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:45",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "bryn",
+        "bar"
+      ],
+      "gloss": "shining fortified gate",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "bryn",
+        "grong"
+      ],
+      "gloss": "shining anvil",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "bar"
+      ],
+      "gloss": "bright blue fortified gate",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "skarrenruf",
+        "grong"
+      ],
+      "gloss": "bright blue anvil",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:46",
+        "DPG:45",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "duraz",
+        "bar"
+      ],
+      "gloss": "stone fortified gate",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "duraz",
+        "grong"
+      ],
+      "gloss": "stone anvil",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "azul",
+        "bar"
+      ],
+      "gloss": "metal fortified gate",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "azul",
+        "grong"
+      ],
+      "gloss": "metal anvil",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "DPG:45",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "galaz",
+        "bar"
+      ],
+      "gloss": "ornamental gold fortified gate",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "galaz",
+        "grong"
+      ],
+      "gloss": "ornamental gold anvil",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:45",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "wutroth",
+        "bar"
+      ],
+      "gloss": "fortified gate of ancient mountain oak wood",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:47",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "duraz",
+        "dok"
+      ],
+      "gloss": "stone eye",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "azul",
+        "dok"
+      ],
+      "gloss": "metal eye",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "galaz",
+        "dok"
+      ],
+      "gloss": "ornamental gold eye",
+      "sources": [
+        "DPG:21",
+        "DPG:43",
+        "DPG:45",
+        "DPG:44",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New symbolic name for an actual Dwarf bridge, using attested Khazalid words. The gloss is a component reading, not an attested complete name or certified grammatical translation. No literal bridge word is supplied. The colour or material describes only the proposed eye, gate or anvil image; it asserts no bridge material, actual decoration, gatehouse, equipment, geography, owner, builder, historical deed, age, magical power or safe crossing."
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "fortified gate and rapidly flowing river",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un zhuf]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "stromez"
+      ],
+      "gloss": "fortified gate and stream",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un stromez]"
+    },
+    {
+      "parts": [
+        "grong",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "anvil and rapidly flowing river",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grong un zhuf]"
+    },
+    {
+      "parts": [
+        "grong",
+        "un",
+        "stromez"
+      ],
+      "gloss": "anvil and stream",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grong un stromez]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "eye and rapidly flowing river",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un zhuf]"
+    },
+    {
+      "parts": [
+        "dok",
+        "un",
+        "bar"
+      ],
+      "gloss": "eye and fortified gate",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[dok un bar]"
+    },
+    {
+      "parts": [
+        "und",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "watchpost carved into the mountain-side and rapidly flowing river",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[und un zhuf]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "moonlight and rapidly flowing river",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un zhuf]"
+    },
+    {
+      "parts": [
+        "zon",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "sun and rapidly flowing river",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zon un zhuf]"
+    },
+    {
+      "parts": [
+        "lhune",
+        "un",
+        "stromez"
+      ],
+      "gloss": "moonlight and stream",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[lhune un stromez]"
+    },
+    {
+      "parts": [
+        "zon",
+        "un",
+        "stromez"
+      ],
+      "gloss": "sun and stream",
+      "sources": [
+        "DPG:47",
+        "DSS:104",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zon un stromez]"
+    },
+    {
+      "parts": [
+        "grong",
+        "un",
+        "bar"
+      ],
+      "gloss": "anvil and fortified gate",
+      "sources": [
+        "DPG:45",
+        "DSS:104",
+        "DPG:44",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[grong un bar]"
+    },
+    {
+      "parts": [
+        "bar",
+        "un",
+        "hirn"
+      ],
+      "gloss": "fortified gate and musical horn",
+      "sources": [
+        "DPG:44",
+        "DSS:104",
+        "DSS:102",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[bar un hirn]"
+    },
+    {
+      "parts": [
+        "hirn",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "musical horn and rapidly flowing river",
+      "sources": [
+        "DSS:102",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[hirn un zhuf]"
+    },
+    {
+      "parts": [
+        "nar",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "sunrise and rapidly flowing river",
+      "sources": [
+        "DSS:103",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[nar un zhuf]"
+    },
+    {
+      "parts": [
+        "yar",
+        "un",
+        "zhuf"
+      ],
+      "gloss": "sunset and rapidly flowing river",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:47",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[yar un zhuf]"
+    },
+    {
+      "parts": [
+        "zunthrum",
+        "un",
+        "bar"
+      ],
+      "gloss": "statues and fortified gate",
+      "sources": [
+        "DSS:105",
+        "DSS:104",
+        "DPG:44",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. Un explicitly means and; the two images are paired, not a hidden ownership, ancestry or causal claim.",
+      "grouping": "[zunthrum un bar]"
+    },
+    {
+      "parts": [
+        "agril",
+        "dok"
+      ],
+      "gloss": "silver eye",
+      "sources": [
+        "DSS:101",
+        "DPG:44",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izor",
+        "dok"
+      ],
+      "gloss": "copper eye",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    },
+    {
+      "parts": [
+        "izril",
+        "dok"
+      ],
+      "gloss": "jewels eye",
+      "sources": [
+        "DSS:103",
+        "DPG:44",
+        "DPG:21",
+        "AOE1:Unzaled Sky-Bridge"
+      ],
+      "note": "New Forthammer composition from attested words and selected senses; the complete name and this category use are adaptations. A crossing-associated image in a bridge label, not a claim about actual water, geography, construction, builder, owner, garrison or defensive power. The first root qualifies the named image; any material describes that image, not the target building, equipment, stocks or medical treatment."
+    }
+  ],
+  "evidence": [
+    {
+      "source": "DPG:21",
+      "section": "The Dwarf Kingdoms / Humans Among Dwarfs",
+      "quote": "fabulous arched spans that stretch between mountain peaks",
+      "claim": "Named bridges are an explicit part of Dwarf infrastructure. This passage also names Barakdokerinnalad, Dalgrongi and Unzaled; reserve those identities. The age, dimensions and rumoured runes of those particular bridges are not generated properties."
+    },
+    {
+      "source": "DPG:43",
+      "section": "Dwarf Language / Khazalid",
+      "quote": "Most Dwarf words have several meanings.",
+      "claim": "Select the documented colour and object senses. These compounds are Forthammer compositions, not a claim that a complete bridge-naming grammar is available."
+    },
+    {
+      "source": "DPG:44",
+      "section": "Khazalid Glossary / Bryn, Dok",
+      "quote": "Dok Watch, observe, see, the eye",
+      "claim": "Bryn selects shiny/brilliant; dok selects the eye as a visual emblem. Neither grants supernatural sight, a watch service or a documented bridge decoration."
+    },
+    {
+      "source": "DPG:45",
+      "section": "Khazalid Glossary / Gorl",
+      "quote": "the colour yellow",
+      "claim": "Gorl selects the colour sense rather than gold composition."
+    },
+    {
+      "source": "DPG:46",
+      "section": "Khazalid Glossary / Kol, Skarrenruf",
+      "quote": "The colour bright blue",
+      "claim": "Kol selects black and skarrenruf selects bright blue; no sky location, bridge material or actual painted sign is implied."
+    },
+    {
+      "source": "DPG:47",
+      "section": "Khazalid Glossary / Und, Zan, Zhuf",
+      "quote": "Zhuf Waterfall or rapidly flowing river",
+      "claim": "Zhuf selects the flowing-river image; und is specifically a mountainside watchpost, and zan selects red rather than blood. Their use is symbolic, not invented geography or history."
+    },
+    {
+      "source": "AOE1:Unzaled Sky-Bridge",
+      "section": "Warhammer Fantasy Roleplay 4e: Archives of the Empire Volume I / Of Karak Azgaraz / Unzaled Sky-Bridge and Migdhal Skarrenruf; Loremaster offset 233729",
+      "quote": "The gatehouse of Mighdal Skarrenruf stands at the north end",
+      "claim": "A named bridge with a guarded entry supplies context for watch and eye motifs; the printed Watchful Eagle Gate translation further grounds vigilance imagery. Choosing these images for a new bridge is an adaptation, not evidence of a real gatehouse or garrison. Reserve both Migdhal and Mighdal spellings printed in this section."
+    },
+    {
+      "source": "AOE1:Unzaled Sky-Bridge",
+      "section": "Of Karak Azgaraz / Unzaled Sky-Bridge and Migdhal Skarrenruf; Loremaster offset 232730",
+      "quote": "Dalgrongi (‘Old Anvils’)",
+      "claim": "Anvil imagery is printed in the translated name of an actual Dwarf bridge. The new names use independently attested Grong (anvil), do not infer plural morphology from Dalgrongi, and do not inherit the canonical bridge identity or age."
+    },
+    {
+      "source": "AOE1:Unzaled Sky-Bridge",
+      "section": "Of Karak Azgaraz / Unzaled Sky-Bridge and Migdhal Skarrenruf; Loremaster offset 232730",
+      "quote": "Barakdokerinnalad (‘Watchful Eagle Gate’)",
+      "claim": "Gate imagery is printed in a Dwarf bridge name. New labels use the independently attested Bar sense as a symbolic gate image, without asserting a gatehouse, owner, garrison or safe crossing."
+    },
+    {
+      "source": "DPG:44",
+      "section": "p.44, Khazalid Glossary: Bar, Duraz, Azul",
+      "quote": "Bar A fortified gateway or door",
+      "claim": "Bar supplies a gate image. The same page supplies stone (Duraz) and metal of any kind (Azul) as materials of a proposed image, never the bridge construction material."
+    },
+    {
+      "source": "DPG:45",
+      "section": "p.45, Khazalid Glossary: Grong and Galaz",
+      "quote": "Grong Anvil",
+      "claim": "Anvil is the exact singular glossary sense. Galaz on the same page supplies gold of ornamental value for the image, not bridge construction or ownership of gold."
+    },
+    {
+      "source": "DPG:47",
+      "section": "p.47, Khazalid Glossary: Wutroth",
+      "quote": "Wutroth Wood from ancient mountain oak",
+      "claim": "The symbolic oak gate preserves the full attested material sense. It does not promise an oak-built bridge or nearby ancient woods."
+    },
+    {
+      "source": "DSS:101",
+      "section": "p.101, Khazalid & Runic Script / glossary",
+      "quote": "Agril Silver metal",
+      "claim": "Silver and bread are attested independent concepts, not invented product or wealth claims."
+    },
+    {
+      "source": "DSS:102",
+      "section": "p.102, Khazalid glossary",
+      "quote": "Hirn Horn (instrument)",
+      "claim": "The glossary distinguishes a musical horn from horn material, and attests road and thunder. Selected nouns remain literal word senses inside adapted labels."
+    },
+    {
+      "source": "DSS:103",
+      "section": "p.103, Khazalid glossary",
+      "quote": "Lhune Crescent, moonlight",
+      "claim": "The selected moonlight sense and the printed material, shadow, work and sunrise nouns add distinct concepts. No generic machine, dawn-direction, geology or ancestry meaning is invented."
+    },
+    {
+      "source": "DSS:104",
+      "section": "p.104, Khazalid glossary",
+      "quote": "Un And",
+      "claim": "The conjunction explicitly pairs two reviewed images. Thrag means wound, Thrynaz includes laws, Tiwaz includes rest and Skaud includes song. These are not new translations for hospital, government or tavern."
+    },
+    {
+      "source": "DSS:105",
+      "section": "p.105, Khazalid glossary",
+      "quote": "Zunthrum Statues, monuments",
+      "claim": "High-resolution printed text confirms Zunthrum with n. Spear, money, sunset, remembering and gift are independently attested; none assigns actual stock, wealth, a historical event or a commemorated person."
+    }
+  ],
+  "reserved": [
+    "Barakdokerinnalad",
+    "Dalgrongi",
+    "Unzaled",
+    "Unzaled Sky-Bridge",
+    "Migdhal Skarrenruf",
+    "Mighdal Skarrenruf",
+    "Deep Span",
+    "Zandok"
+  ]
+}
